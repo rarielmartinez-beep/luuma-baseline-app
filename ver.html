@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LUUMA videos</title>
+<!-- Página para ver los videos de LUUMA fuera de un artifact (22/10: dentro del artifact no se reproducían para otros).
+     ver.html#onboarding-en · #tutorial-en · #tutorial-es -->
+<style>
+:root{--bg:#FAF6EF;--surface:#FFFDF9;--line:#E7DED0;--ink:#2A2730;--body:#4A4550;--muted:#655C6B;--accent:#2F5D50;color-scheme:light}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--body);font:15px/1.55 "Plus Jakarta Sans","Segoe UI",system-ui,-apple-system,Roboto,Arial,sans-serif}
+.wrap{max-width:1000px;margin:0 auto;padding:20px 16px 40px}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px}
+header svg{height:22px;width:auto}
+h1{font-family:Fraunces,Georgia,"Times New Roman",serif;font-weight:560;font-size:clamp(24px,4vw,34px);line-height:1.15;color:var(--ink);margin:0 0 6px}
+p{margin:0 0 14px;color:var(--muted)}
+.player{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:10px}
+video{display:block;width:100%;height:auto;border-radius:12px;background:#EDE4D5;aspect-ratio:16/9}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+nav a{font-weight:600;font-size:14px;color:var(--ink);text-decoration:none;border:1px solid #8C8277;border-radius:10px;padding:7px 12px;background:var(--surface)}
+nav a[aria-current="page"]{background:var(--accent);border-color:var(--accent);color:#fff}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <svg viewBox="756 496 409 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LUUMA"><defs><linearGradient id="lg" x1="788.36" y1="431.13" x2="1215.08" y2="565.34" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3A6465"/><stop offset="1" stop-color="#9DBA74"/></linearGradient></defs><path fill="url(#lg)" d="M758 499.64H776.98V564.28H827.82V580.64H758V499.64Z"/><path fill="url(#lg)" d="M941.54 499.64H960.46V511.59C964.89 504.06 974.78 498.01 985.17 498.01C998.46 498.01 1007.33 503.57 1011.76 513.39C1017.38 503.9 1029.31 498.01 1039.37 498.01C1061.53 498.01 1071.41 511.1 1071.41 534.01V580.65H1052.49V536.47C1052.49 525.18 1049.93 515.52 1035.11 515.52C1023.01 515.52 1016.02 524.68 1016.02 535.65V580.65H997.1V536.47C997.1 525.18 994.54 515.52 979.72 515.52C967.11 515.52 960.46 525.83 960.46 536.79V580.65H941.54V499.64Z"/><path fill="url(#lg)" d="M960.76 580.64H941.84V568.69C937.41 576.22 927.52 582.27 917.13 582.27C903.84 582.27 894.97 576.71 890.54 566.89C884.92 576.38 872.99 582.27 862.93 582.27C840.77 582.27 830.89 569.18 830.89 546.27V499.64H849.81V543.82C849.81 555.11 852.37 564.77 867.19 564.77C879.29 564.77 886.28 555.61 886.28 544.64V499.64H905.2V543.82C905.2 555.11 907.76 564.77 922.58 564.77C935.19 564.77 941.84 554.46 941.84 543.5V499.64H960.76V580.64Z"/><path fill="url(#lg)" d="M1080.36 540.22C1080.36 516.82 1095.58 498 1117.83 498C1128.79 498 1138.45 502.42 1144.83 509.95V499.64H1162.99V580.64H1144.83V570.49C1138.45 578.02 1128.79 582.27 1117.83 582.27C1095.57 582.27 1080.36 563.45 1080.36 540.21V540.22ZM1144.84 540.22C1144.84 525.98 1135.35 515.51 1122.42 515.51C1108.67 515.51 1098.86 525.98 1098.86 540.22C1098.86 554.46 1108.68 564.77 1122.42 564.77C1135.18 564.77 1144.84 554.62 1144.84 540.22Z"/></svg>
+  </header>
+  <h1 id="t"></h1>
+  <p id="d"></p>
+  <div class="player">
+    <video id="v" controls playsinline preload="metadata"></video>
+  </div>
+  <nav id="nav"></nav>
+</div>
+<script>
+const V={
+ 'onboarding-en':{t:'How a clinic joins LUUMA',d:'Two minutes, in English, with subtitles.',f:'onboarding_global_en',l:'en'},
+ 'tutorial-en':{t:'How to load the data',d:'The baseline app, step by step. About three minutes, in English, with subtitles.',f:'tutorial_carga_en',l:'en'},
+ 'tutorial-es':{t:'Cómo se cargan los datos',d:'La app de línea de base, paso a paso. Unos tres minutos, en castellano, con subtítulos.',f:'tutorial_carga_es',l:'es'}
+};
+function show(){
+  const k=V[location.hash.slice(1)]?location.hash.slice(1):'onboarding-en', x=V[k], v=document.getElementById('v');
+  document.documentElement.lang=x.l; document.title=x.t+' · LUUMA';
+  document.getElementById('t').textContent=x.t; document.getElementById('d').textContent=x.d;
+  v.pause(); v.innerHTML=`<source src="video/${x.f}.mp4" type="video/mp4"><track kind="subtitles" src="video/${x.f}.vtt" srclang="${x.l}" label="${x.l==='es'?'Español':'English'}" default>`;
+  v.poster=`video/${x.f}_poster.jpg`; v.load();
+  document.getElementById('nav').innerHTML=Object.entries(V).map(([id,y])=>`<a href="#${id}"${id===k?' aria-current="page"':''}>${y.t}</a>`).join('');
+}
+addEventListener('hashchange',show); show();
+</script>
+</body>
+</html>

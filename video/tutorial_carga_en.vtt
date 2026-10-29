@@ -1,0 +1,246 @@
+WEBVTT
+
+1
+00:00:00.370 --> 00:00:03.770
+Here's how to load your clinic data
+into the LUUMA dropout measurement app,
+
+2
+00:00:03.820 --> 00:00:05.950
+with two sample files.
+
+3
+00:00:06.480 --> 00:00:09.170
+This app measures treatment
+dropout with the same definition
+
+4
+00:00:09.220 --> 00:00:12.370
+at every clinic in the network,
+so results can be compared.
+
+5
+00:00:12.420 --> 00:00:15.130
+And everything is calculated
+on your computer:
+
+6
+00:00:15.180 --> 00:00:17.517
+patient data is never sent anywhere.
+
+7
+00:00:18.300 --> 00:00:19.770
+Step one: prepare.
+
+8
+00:00:19.820 --> 00:00:23.930
+The app tells you which reports to ask
+for, such as retrievals or transfers,
+
+9
+00:00:23.980 --> 00:00:25.790
+exactly as your system exports them.
+
+10
+00:00:25.840 --> 00:00:30.483
+Click Download the request, and give
+it to whoever exports your data.
+
+11
+00:00:30.983 --> 00:00:33.390
+This example uses two Excel files:
+
+12
+00:00:33.440 --> 00:00:36.710
+one with retrievals, and one
+with transfers and outcomes.
+
+13
+00:00:36.760 --> 00:00:40.130
+They come with titles, two-row
+headers and personal data.
+
+14
+00:00:40.180 --> 00:00:45.183
+No need to clean them: the app discards
+names, IDs, emails and phone numbers.
+
+15
+00:00:45.780 --> 00:00:47.490
+Step two: load.
+
+16
+00:00:47.540 --> 00:00:50.690
+Click Start, then drag the files
+in, or click to choose them.
+
+17
+00:00:50.740 --> 00:00:53.750
+They're read on your
+computer and never uploaded.
+
+18
+00:00:54.270 --> 00:00:58.070
+Each file has its own card. It
+shows which reports it brings:
+
+19
+00:00:58.120 --> 00:01:00.950
+here, retrievals and
+embryology by retrieval.
+
+20
+00:01:01.000 --> 00:01:04.070
+Then, how many columns
+it recognized: 11 of 12.
+
+21
+00:01:04.120 --> 00:01:06.750
+If it says Ready, there's nothing to do.
+
+22
+00:01:07.250 --> 00:01:10.190
+To see how it was read,
+click Review columns:
+
+23
+00:01:10.240 --> 00:01:13.470
+each item, with the column
+it used and an example.
+
+24
+00:01:13.520 --> 00:01:16.150
+The medical record number is
+replaced with an internal code,
+
+25
+00:01:16.200 --> 00:01:18.550
+and never leaves your computer.
+
+26
+00:01:19.050 --> 00:01:21.950
+Further down, how the values are read.
+
+27
+00:01:22.000 --> 00:01:26.290
+Biochemical is read as
+Negative; Birth, as Live birth.
+
+28
+00:01:26.340 --> 00:01:28.450
+If one is wrong, click Change.
+
+29
+00:01:28.500 --> 00:01:31.850
+If it all looks right,
+click Confirm this report.
+
+30
+00:01:32.350 --> 00:01:34.670
+The app only asks what it can't decide.
+
+31
+00:01:34.720 --> 00:01:38.190
+Here, one thing: up to which
+date the data are complete.
+
+32
+00:01:38.240 --> 00:01:40.650
+Choose the last record, September 30.
+
+33
+00:01:40.700 --> 00:01:43.410
+Below, the reports received: 4 of 5.
+
+34
+00:01:43.460 --> 00:01:45.683
+Then click Verify the data.
+
+35
+00:01:46.203 --> 00:01:48.090
+Step three: verify.
+
+36
+00:01:48.140 --> 00:01:50.690
+A traffic light tells you
+whether it can be calculated.
+
+37
+00:01:50.740 --> 00:01:52.290
+Green: ready for the report.
+
+38
+00:01:52.340 --> 00:01:55.970
+Yellow: ready, with warnings
+that explain part of the result.
+
+39
+00:01:56.020 --> 00:01:58.510
+Red: something is missing;
+it tells you what.
+
+40
+00:01:58.560 --> 00:02:01.690
+Here it's yellow: the
+cryopreservation report is missing,
+
+41
+00:02:01.740 --> 00:02:03.870
+so we don't know whether
+embryos were left.
+
+42
+00:02:03.920 --> 00:02:06.583
+It doesn't block: the
+final report mentions it.
+
+43
+00:02:07.300 --> 00:02:09.070
+Step four: report and delivery.
+
+44
+00:02:09.120 --> 00:02:13.370
+Click See the report. At the top,
+the main number: dropout per cycle.
+
+45
+00:02:13.420 --> 00:02:15.270
+In this example, 39.3%
+
+46
+00:02:15.320 --> 00:02:18.050
+of the cycles that can
+already be evaluated.
+
+47
+00:02:18.550 --> 00:02:22.010
+Type the clinic's name: without
+it, the download stays disabled.
+
+48
+00:02:22.060 --> 00:02:24.290
+Click Download the Excel for LUUMA:
+
+49
+00:02:24.340 --> 00:02:29.230
+it has only counts and percentages, with small
+groups hidden, and no dates or patient codes.
+
+50
+00:02:29.280 --> 00:02:31.790
+Copy the note for the email,
+and send it with the Excel.
+
+51
+00:02:31.840 --> 00:02:35.650
+The full report stays with
+the clinic, as HTML or PDF.
+
+52
+00:02:36.150 --> 00:02:36.890
+That's it.
+
+53
+00:02:36.940 --> 00:02:43.117
+If you have questions, the app has Help
+and definition, with the complete rules.

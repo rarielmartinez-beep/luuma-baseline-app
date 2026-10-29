@@ -1,0 +1,3968 @@
+Paciente;Clinica;FechaTransferencia;EmbarazoClinico;Resultado;FechaDesenlace;EmbrionesRestantes;OrigenEmbrion
+P000001;C01;09/07/2024;No;Negativo;;1;Propio
+P000001;C01;25/08/2024;Si;Aborto;;0;Propio
+P000002;C03;12/07/2022;Si;Nacido vivo;;3;Propio
+P000003;C01;01/03/2023;;;;1;Propio
+P000005;C01;07/10/2023;No;Negativo;;3;Propio
+P000006;C03;27/11/2021;Si;Nacido vivo;;0;Propio
+P000007;C01;22/02/2024;No;Negativo;;0;Propio
+P000007;C01;05/12/2024;No;Negativo;;0;Propio
+P000007;C01;22/10/2025;Si;Nacido vivo;;0;Propio
+P000008;C03;23/04/2023;No;Negativo;;1;Propio
+P000008;C03;12/07/2023;No;Negativo;;0;Propio
+P000008;C03;01/01/2024;No;Negativo;;3;Propio
+P000010;C03;17/07/2025;No;Negativo;;2;Propio
+P000010;C03;24/11/2025;Si;Nacido vivo;;1;Propio
+P000013;C01;30/10/2023;Si;Nacido vivo;;3;Propio
+P000014;C03;21/01/2024;No;Negativo;;2;Propio
+P000014;C03;12/05/2025;Si;Nacido vivo;;1;Propio
+P000015;C01;18/02/2025;Si;Nacido vivo;;2;Propio
+P000016;C01;13/05/2022;Si;Aborto;26/07/2022;1;Propio
+P000016;C01;23/01/2023;No;Negativo;;0;Propio
+P000016;C01;08/06/2024;Si;Aborto;19/07/2024;0;Propio
+P000018;C01;05/07/2024;No;Negativo;;1;Propio
+P000018;C01;15/09/2024;Si;Nacido vivo;;0;Propio
+P000019;C01;26/12/2022;Si;Aborto;26/02/2023;2;Propio
+P000019;C01;29/06/2023;Si;Aborto;01/09/2023;3;Propio
+P000020;C03;25/03/2025;Si;Nacido vivo;;2;Propio
+P000021;C03;22/09/2023;No;Negativo;;2;Propio
+P000021;C03;03/11/2023;Si;Nacido vivo;;1;Propio
+P000022;C02;30/12/2024;Si;Aborto;;0;Propio
+P000022;C02;15/10/2025;No;Negativo;;1;Propio
+P000024;C01;10/07/2024;No;Negativo;;1;Propio
+P000026;C01;25/04/2022;No;Negativo;;1;Propio
+P000026;C01;16/06/2022;Si;Nacido vivo;;0;Propio
+P000027;C01;16/02/2025;No;Negativo;;3;Propio
+P000027;C01;30/09/2025;No;Negativo;;2;Propio
+P000027;C01;07/02/2026;No;Negativo;;1;Propio
+P000028;C03;24/03/2024;;;;2;Propio
+P000028;C03;18/05/2024;No;Negativo;;1;Propio
+P000028;C03;10/12/2024;Si;Aborto;18/02/2025;0;Propio
+P000030;C01;18/10/2023;No;Negativo;;1;Propio
+P000030;C01;23/06/2025;Si;Nacido vivo;;;Propio
+P000031;C02;28/10/2023;Si;Nacido vivo;;1;Propio
+P000032;C02;19/09/2022;Si;Nacido vivo;;3;Propio
+P000033;C01;05/03/2022;Si;Nacido vivo;;0;Propio
+P000034;C02;28/02/2023;Si;Nacido vivo;;1;Propio
+P000036;C01;23/09/2024;Si;Aborto;;3;Propio
+P000037;C02;11/01/2022;Si;Nacido vivo;;1;Propio
+P000038;C01;07/01/2025;Si;Nacido vivo;;0;Propio
+P000039;C01;15/12/2022;Si;Nacido vivo;;0;Propio
+P000040;C01;29/01/2022;Si;Nacido vivo;;1;Propio
+P000041;C01;10/05/2023;No;Negativo;;4;Propio
+P000041;C01;03/11/2023;Si;Aborto;20/12/2023;3;Propio
+P000042;C01;02/09/2024;Si;Aborto;07/11/2024;1;Propio
+P000042;C01;03/02/2025;Si;Nacido vivo;;0;Propio
+P000044;C02;03/01/2025;Si;Nacido vivo;;1;Propio
+P000045;C02;20/12/2024;Si;Nacido vivo;;3;Propio
+P000046;C01;03/09/2021;No;Negativo;;3;Propio
+P000046;C01;16/04/2022;Si;Aborto;;3;Propio
+P000047;C01;27/07/2024;Si;Nacido vivo;;0;Propio
+P000049;C02;07/08/2025;No;Negativo;;1;Propio
+P000050;C02;11/12/2023;Si;Nacido vivo;;3;Propio
+P000051;C01;14/02/2023;Si;Nacido vivo;;1;Propio
+P000052;C03;28/04/2024;No;Negativo;;3;Propio
+P000053;C01;17/06/2024;Si;Nacido vivo;;0;Propio
+P000054;C02;29/10/2023;Si;Nacido vivo;;0;Propio
+P000055;C03;28/08/2024;No;Negativo;;4;Propio
+P000055;C03;18/11/2024;;;;;Propio
+P000056;C03;27/11/2024;;;;3;Propio
+P000057;C01;22/12/2022;Si;Nacido vivo;;3;Propio
+P000058;C01;28/02/2024;Si;Nacido vivo;;1;Propio
+P000059;C02;20/05/2024;Si;Nacido vivo;;0;Propio
+P000060;C01;29/12/2024;No;Negativo;;1;Propio
+P000060;C01;18/05/2025;Si;Aborto;23/07/2025;0;Propio
+P000062;C01;15/08/2022;Si;Nacido vivo;;1;Propio
+P000064;C01;14/07/2024;Si;Nacido vivo;;0;Propio
+P000065;C03;18/12/2025;No;Negativo;;0;Propio
+P000066;C01;17/09/2022;Si;Aborto;16/11/2022;2;Propio
+P000067;C01;23/09/2024;Si;Nacido vivo;;2;Propio
+P000068;C01;12/01/2023;No;Negativo;;3;Propio
+P000068;C01;17/02/2023;;;;2;Propio
+P000068;C01;24/04/2023;Si;Aborto;29/06/2023;1;Propio
+P000068;C01;11/02/2024;No;Negativo;;1;Propio
+P000068;C01;18/06/2024;Si;Nacido vivo;;0;Propio
+P000069;C01;18/01/2024;Si;Aborto;02/03/2024;1;Propio
+P000069;C01;24/04/2025;No;Negativo;;3;Propio
+P000069;C01;27/06/2026;No;Negativo;;1;Propio
+P000070;C02;01/01/2025;Si;Aborto;20/02/2025;0;Propio
+P000070;C02;26/08/2026;Si;En curso;;1;Propio
+P000071;C03;26/08/2024;No;Negativo;;2;Propio
+P000071;C03;30/09/2024;Si;Nacido vivo;;1;Propio
+P000072;C01;28/05/2022;No;Negativo;;4;Propio
+P000072;C01;07/10/2022;No;Negativo;;3;Propio
+P000073;C03;11/10/2024;No;Negativo;;3;Propio
+P000073;C03;06/01/2025;No;Negativo;;2;Propio
+P000073;C03;18/03/2025;Si;Nacido vivo;;1;Propio
+P000074;C01;06/03/2023;Si;Aborto;;3;Propio
+P000074;C01;27/08/2023;No;Negativo;;;Propio
+P000075;C01;21/03/2024;Si;Aborto;22/05/2024;4;Propio
+P000075;C01;02/02/2025;Si;Nacido vivo;;3;Propio
+P000076;C03;02/03/2025;No;Negativo;;0;Propio
+P000077;C01;16/02/2024;Si;Nacido vivo;;0;Propio
+P000079;C01;18/04/2022;No;Negativo;;4;Propio
+P000079;C01;12/07/2022;No;Negativo;;3;Propio
+P000079;C01;01/02/2023;Si;Nacido vivo;;2;Propio
+P000081;C01;02/06/2025;No;Negativo;;;Propio
+P000081;C01;11/11/2025;No;Negativo;;2;Propio
+P000081;C01;08/01/2026;Si;En curso;;1;Propio
+P000082;C01;30/03/2025;No;Negativo;;1;Propio
+P000082;C01;13/07/2025;Si;Nacido vivo;;0;Propio
+P000084;C02;27/03/2022;Si;Nacido vivo;;1;Propio
+P000086;C01;05/02/2024;Si;Aborto;16/03/2024;2;Propio
+P000086;C01;01/07/2025;Si;Nacido vivo;;;Propio
+P000087;C01;31/05/2023;Si;Nacido vivo;;0;Propio
+P000089;C01;23/04/2023;No;Negativo;;0;Propio
+P000091;C01;04/08/2023;Si;Nacido vivo;;0;Propio
+P000092;C02;20/02/2023;Si;Aborto;;4;Propio
+P000092;C02;16/08/2023;Si;Aborto;;3;Propio
+P000093;C01;05/08/2024;Si;Aborto;20/09/2024;1;Propio
+P000093;C01;24/10/2024;Si;Nacido vivo;;0;Propio
+P000094;C01;24/04/2022;No;Negativo;;2;Propio
+P000094;C01;29/08/2024;No;Negativo;;3;Propio
+P000094;C01;12/01/2025;No;Negativo;;2;Propio
+P000094;C01;24/02/2025;Si;Nacido vivo;;1;Propio
+P000095;C01;18/12/2024;Si;Aborto;23/02/2025;0;Propio
+P000096;C01;01/05/2022;Si;Aborto;02/07/2022;;Propio
+P000096;C01;11/11/2022;No;Negativo;;0;Propio
+P000098;C02;25/11/2024;Si;Aborto;16/01/2025;1;Propio
+P000098;C02;19/03/2026;Si;En curso;;0;Propio
+P000099;C01;06/08/2022;Si;Nacido vivo;;3;Propio
+P000100;C01;18/04/2024;Si;Aborto;;0;Propio
+P000100;C01;16/02/2025;Si;Aborto;;1;Propio
+P000100;C01;08/01/2026;Si;Aborto;02/03/2026;0;Propio
+P000101;C01;25/04/2024;Si;Nacido vivo;;;Propio
+P000102;C03;09/07/2022;Si;Nacido vivo;;1;Propio
+P000105;C01;02/05/2022;Si;Aborto;22/06/2022;1;Propio
+P000105;C01;14/02/2023;No;Negativo;;0;Propio
+P000106;C02;19/10/2024;Si;Aborto;16/12/2024;1;Propio
+P000106;C02;20/05/2025;Si;Nacido vivo;;;Propio
+P000107;C03;31/12/2023;No;Negativo;;2;Propio
+P000107;C03;10/03/2024;Si;Nacido vivo;;1;Propio
+P000108;C01;31/08/2023;No;Negativo;;5;Propio
+P000108;C01;13/10/2023;No;Negativo;;4;Propio
+P000108;C01;30/10/2023;No;Negativo;;3;Propio
+P000108;C01;28/04/2024;Si;Nacido vivo;;2;Propio
+P000110;C01;25/04/2021;Si;Nacido vivo;;2;Propio
+P000111;C01;18/11/2022;No;Negativo;;1;Propio
+P000112;C01;30/11/2024;No;Negativo;;3;Propio
+P000113;C03;13/01/2025;No;Negativo;;4;Propio
+P000113;C03;19/03/2025;;;;3;Propio
+P000113;C03;20/09/2025;No;Negativo;;2;Propio
+P000113;C03;10/01/2026;Si;En curso;;1;Propio
+P000114;C03;02/03/2024;No;Negativo;;1;Propio
+P000114;C03;03/11/2024;No;Negativo;;4;Propio
+P000114;C03;27/03/2025;No;Negativo;;3;Propio
+P000114;C03;07/08/2025;No;Negativo;;2;Propio
+P000114;C03;02/09/2025;Si;Nacido vivo;;1;Propio
+P000115;C02;25/03/2022;Si;Nacido vivo;;1;Propio
+P000116;C01;03/12/2024;Si;Aborto;01/02/2025;4;Propio
+P000116;C01;16/04/2025;Si;Nacido vivo;;3;Propio
+P000117;C02;03/10/2023;No;Negativo;;0;Propio
+P000118;C02;27/11/2023;Si;Nacido vivo;;1;Propio
+P000119;C01;04/08/2023;No;Negativo;;0;Propio
+P000119;C01;22/02/2024;Si;Nacido vivo;;2;Propio
+P000120;C01;16/07/2023;Si;Aborto;16/09/2023;0;Propio
+P000120;C01;07/08/2024;Si;Nacido vivo;;2;Propio
+P000121;C02;15/10/2024;Si;Nacido vivo;;0;Propio
+P000122;C01;03/03/2023;No;Negativo;;0;Propio
+P000122;C01;10/06/2023;No;Negativo;;1;Propio
+P000122;C01;03/10/2023;Si;Nacido vivo;;0;Propio
+P000123;C02;16/06/2024;Si;Aborto;27/07/2024;1;Propio
+P000123;C02;13/10/2024;;;;0;Propio
+P000123;C02;16/07/2025;No;Negativo;;2;Propio
+P000127;C02;13/12/2024;No;Negativo;;3;Propio
+P000127;C02;22/03/2025;No;Negativo;;2;Propio
+P000129;C01;04/01/2025;Si;Aborto;16/02/2025;0;Propio
+P000129;C01;30/10/2025;Si;Nacido vivo;;2;Propio
+P000130;C03;24/09/2026;No;Negativo;;2;Propio
+P000132;C01;28/12/2024;Si;Nacido vivo;;1;Propio
+P000133;C01;11/03/2025;No;Negativo;;0;Propio
+P000133;C01;12/04/2026;No;Negativo;;1;Propio
+P000135;C02;03/01/2025;No;Negativo;;1;Propio
+P000135;C02;12/05/2025;Si;Nacido vivo;;0;Propio
+P000138;C03;22/08/2022;No;Negativo;;1;Propio
+P000138;C03;11/12/2022;Si;Nacido vivo;;3;Propio
+P000139;C02;09/08/2022;Si;Aborto;;3;Propio
+P000140;C03;11/02/2025;;;;3;Propio
+P000140;C03;15/04/2025;No;Negativo;;2;Propio
+P000140;C03;10/10/2025;Si;Nacido vivo;;1;Propio
+P000142;C03;06/05/2024;No;Negativo;;3;Propio
+P000142;C03;24/07/2024;Si;Aborto;;2;Propio
+P000142;C03;26/06/2025;Si;Nacido vivo;;2;Propio
+P000143;C01;22/02/2023;Si;Aborto;15/04/2023;3;Propio
+P000143;C01;18/06/2023;Si;Aborto;;;Propio
+P000143;C01;23/12/2023;Si;Nacido vivo;;1;Propio
+P000144;C02;31/08/2024;Si;Aborto;19/10/2024;0;Propio
+P000145;C01;25/07/2024;No;Negativo;;3;Propio
+P000145;C01;14/12/2024;Si;Nacido vivo;;2;Propio
+P000146;C02;19/06/2023;;;;3;Propio
+P000146;C02;09/08/2023;Si;Aborto;12/10/2023;;Propio
+P000146;C02;03/09/2024;Si;Nacido vivo;;1;Propio
+P000147;C03;20/05/2023;Si;Nacido vivo;;;Propio
+P000148;C01;04/05/2024;No;Negativo;;1;Propio
+P000148;C01;18/09/2024;No;Negativo;;2;Propio
+P000148;C01;26/11/2024;;;;1;Propio
+P000148;C01;08/03/2025;No;Negativo;;0;Propio
+P000148;C01;18/08/2025;Si;Nacido vivo;;0;Propio
+P000149;C02;01/11/2024;No;Negativo;;2;Propio
+P000149;C02;09/08/2026;No;Negativo;;2;Propio
+P000150;C02;18/10/2023;No;Negativo;;1;Propio
+P000151;C02;28/05/2024;No;Negativo;;1;Propio
+P000152;C01;26/05/2024;No;Negativo;;2;Propio
+P000153;C01;14/11/2024;No;Negativo;;1;Propio
+P000153;C01;28/02/2025;Si;Nacido vivo;;0;Propio
+P000155;C01;09/12/2023;No;Negativo;;3;Propio
+P000156;C03;26/01/2022;Si;Nacido vivo;;2;Propio
+P000157;C03;13/10/2023;Si;Nacido vivo;;3;Propio
+P000158;C02;18/11/2023;No;Negativo;;3;Propio
+P000158;C02;11/01/2024;No;Negativo;;2;Propio
+P000158;C02;12/02/2024;;;;1;Propio
+P000159;C01;05/01/2025;Si;Aborto;25/02/2025;2;Propio
+P000160;C01;13/08/2023;Si;Nacido vivo;;;Propio
+P000161;C02;11/12/2024;No;Negativo;;4;Propio
+P000161;C02;26/07/2025;No;Negativo;;3;Propio
+P000162;C03;11/06/2023;Si;Aborto;13/08/2023;0;Propio
+P000163;C02;13/08/2022;;;;1;Propio
+P000163;C02;01/02/2023;No;Negativo;;2;Propio
+P000163;C02;08/10/2023;Si;Nacido vivo;;1;Propio
+P000164;C03;22/07/2024;Si;Nacido vivo;;1;Propio
+P000165;C03;10/02/2024;Si;Aborto;06/04/2024;0;Propio
+P000166;C03;07/05/2024;Si;Nacido vivo;;1;Propio
+P000168;C03;03/10/2022;No;Negativo;;1;Propio
+P000168;C03;14/11/2022;Si;Aborto;16/01/2023;0;Propio
+P000168;C03;16/10/2023;No;Negativo;;2;Propio
+P000169;C03;26/10/2024;No;Negativo;;0;Propio
+P000170;C03;19/12/2021;Si;Nacido vivo;;0;Propio
+P000171;C01;08/03/2025;No;Negativo;;1;Propio
+P000171;C01;29/04/2025;Si;Aborto;;0;Propio
+P000171;C01;21/09/2025;No;Negativo;;2;Propio
+P000171;C01;22/01/2026;No;Negativo;;1;Propio
+P000173;C01;31/12/2022;No;Negativo;;3;Propio
+P000174;C02;07/02/2024;Si;Aborto;;2;Propio
+P000174;C02;16/06/2024;Si;Nacido vivo;;1;Propio
+P000176;C01;05/01/2023;No;Negativo;;;Propio
+P000176;C01;18/08/2023;No;Negativo;;1;Propio
+P000176;C01;16/10/2023;No;Negativo;;0;Propio
+P000180;C01;23/07/2024;No;Negativo;;2;Propio
+P000180;C01;10/01/2025;No;Negativo;;1;Propio
+P000180;C01;24/04/2025;No;Negativo;;0;Propio
+P000181;C01;19/12/2023;Si;Nacido vivo;;2;Propio
+P000183;C01;08/02/2025;No;Negativo;;1;Propio
+P000183;C01;11/04/2025;Si;Nacido vivo;;0;Propio
+P000184;C01;08/07/2024;No;Negativo;;2;Propio
+P000184;C01;21/02/2025;Si;Nacido vivo;;2;Propio
+P000185;C01;22/07/2021;Si;Nacido vivo;;0;Propio
+P000187;C02;04/08/2022;Si;Nacido vivo;;2;Propio
+P000188;C03;27/06/2024;No;Negativo;;0;Propio
+P000189;C01;04/01/2024;No;Negativo;;2;Propio
+P000190;C01;06/11/2022;No;Negativo;;5;Propio
+P000190;C01;03/07/2023;Si;Aborto;22/08/2023;4;Propio
+P000190;C01;14/09/2023;Si;Nacido vivo;;3;Propio
+P000191;C03;19/11/2024;No;Negativo;;3;Propio
+P000192;C01;31/12/2021;Si;Aborto;03/03/2022;3;Propio
+P000192;C01;17/06/2022;Si;Nacido vivo;;2;Propio
+P000193;C01;24/11/2022;Si;Nacido vivo;;1;Propio
+P000194;C01;23/07/2024;No;Negativo;;3;Propio
+P000194;C01;28/08/2024;No;Negativo;;2;Propio
+P000194;C01;05/10/2024;Si;Nacido vivo;;1;Propio
+P000195;C01;22/05/2025;No;Negativo;;1;Propio
+P000195;C01;17/10/2025;No;Negativo;;0;Propio
+P000195;C01;06/09/2026;Si;En curso;;0;Propio
+P000196;C01;23/04/2024;Si;Nacido vivo;;2;Propio
+P000197;C01;06/10/2024;Si;Nacido vivo;;0;Propio
+P000198;C01;31/03/2021;Si;Aborto;26/05/2021;1;Propio
+P000200;C03;01/02/2024;Si;Aborto;;0;Propio
+P000200;C03;31/07/2024;Si;Nacido vivo;;0;Propio
+P000201;C01;26/05/2024;Si;Nacido vivo;;2;Propio
+P000202;C02;14/08/2023;No;Negativo;;2;Propio
+P000204;C01;02/06/2023;Si;Nacido vivo;;1;Propio
+P000206;C01;22/01/2025;No;Negativo;;2;Propio
+P000206;C01;14/09/2025;Si;Aborto;20/11/2025;1;Propio
+P000207;C01;01/12/2022;Si;Aborto;01/02/2023;2;Propio
+P000208;C03;12/11/2021;No;Negativo;;2;Propio
+P000208;C03;09/02/2022;No;Negativo;;1;Propio
+P000208;C03;26/05/2023;Si;Aborto;;1;Propio
+P000208;C03;02/03/2024;Si;Nacido vivo;;0;Propio
+P000209;C01;08/11/2024;Si;Aborto;;0;Propio
+P000211;C01;30/11/2024;Si;Nacido vivo;;2;Propio
+P000212;C01;26/08/2024;Si;Nacido vivo;;1;Propio
+P000213;C01;04/05/2024;Si;Nacido vivo;;3;Propio
+P000214;C03;20/01/2025;Si;Nacido vivo;;0;Propio
+P000215;C02;29/04/2022;Si;Nacido vivo;;2;Propio
+P000216;C02;16/03/2025;No;Negativo;;1;Propio
+P000217;C01;08/07/2023;No;Negativo;;3;Propio
+P000217;C01;02/08/2023;No;Negativo;;2;Propio
+P000217;C01;20/09/2023;No;Negativo;;1;Propio
+P000217;C01;16/12/2023;No;Negativo;;0;Propio
+P000218;C01;29/01/2024;No;Negativo;;2;Propio
+P000219;C03;16/09/2021;Si;Aborto;;1;Propio
+P000220;C01;13/11/2024;;;;3;Propio
+P000221;C03;02/03/2024;;;;2;Propio
+P000221;C03;01/10/2024;No;Negativo;;1;Propio
+P000221;C03;20/05/2025;No;Negativo;;1;Propio
+P000221;C03;05/06/2026;Si;En curso;;0;Propio
+P000223;C03;18/03/2025;No;Negativo;;1;Propio
+P000224;C01;14/10/2023;Si;Nacido vivo;;0;Propio
+P000225;C01;11/05/2024;No;Negativo;;1;Propio
+P000225;C01;02/07/2024;Si;Nacido vivo;;0;Propio
+P000226;C03;01/12/2023;Si;Aborto;19/01/2024;0;Propio
+P000226;C03;30/07/2024;No;Negativo;;2;Propio
+P000226;C03;21/12/2024;Si;Nacido vivo;;1;Propio
+P000227;C02;01/04/2022;Si;Nacido vivo;;3;Propio
+P000229;C01;22/10/2024;No;Negativo;;1;Propio
+P000229;C01;10/11/2024;Si;Nacido vivo;;0;Propio
+P000230;C02;29/01/2023;Si;Nacido vivo;;1;Propio
+P000231;C01;19/03/2023;Si;Nacido vivo;;1;Propio
+P000232;C03;26/11/2024;Si;Aborto;07/01/2025;;Propio
+P000232;C03;05/02/2025;Si;Nacido vivo;;2;Propio
+P000234;C03;12/02/2023;Si;Nacido vivo;;0;Propio
+P000236;C03;24/01/2023;Si;Nacido vivo;;2;Propio
+P000237;C01;29/07/2023;Si;Nacido vivo;;0;Propio
+P000238;C01;23/01/2024;No;Negativo;;0;Propio
+P000238;C01;12/09/2024;Si;Nacido vivo;;1;Propio
+P000240;C01;04/01/2024;Si;Aborto;;1;Propio
+P000240;C01;08/02/2025;No;Negativo;;2;Propio
+P000240;C01;28/08/2025;No;Negativo;;;Propio
+P000240;C01;11/11/2025;No;Negativo;;0;Propio
+P000240;C01;10/01/2026;No;Negativo;;0;Propio
+P000242;C01;11/01/2023;No;Negativo;;0;Propio
+P000244;C02;13/03/2022;No;Negativo;;2;Propio
+P000244;C02;30/05/2022;Si;Nacido vivo;;1;Propio
+P000246;C03;17/03/2023;No;Negativo;;2;Propio
+P000246;C03;14/05/2023;No;Negativo;;1;Propio
+P000248;C02;07/02/2025;No;Negativo;;3;Propio
+P000248;C02;11/05/2025;Si;Nacido vivo;;2;Propio
+P000249;C01;06/05/2023;Si;Aborto;28/06/2023;0;Propio
+P000249;C01;05/12/2023;;;;4;Propio
+P000249;C01;17/01/2024;Si;Nacido vivo;;3;Propio
+P000250;C03;13/03/2022;;;;4;Propio
+P000250;C03;04/09/2022;Si;Nacido vivo;;3;Propio
+P000251;C01;04/06/2023;Si;Nacido vivo;;2;Propio
+P000252;C01;01/12/2021;Si;Nacido vivo;;1;Propio
+P000253;C03;27/05/2023;Si;Aborto;22/07/2023;1;Propio
+P000253;C03;28/09/2023;;;;0;Propio
+P000255;C02;02/04/2024;No;Negativo;;3;Propio
+P000255;C02;27/06/2024;No;Negativo;;2;Propio
+P000255;C02;10/09/2024;No;Negativo;;1;Propio
+P000256;C01;30/07/2024;Si;Nacido vivo;;0;Propio
+P000257;C01;17/10/2023;Si;Aborto;27/11/2023;3;Propio
+P000257;C01;19/01/2024;;;;2;Propio
+P000257;C01;27/02/2024;Si;Nacido vivo;;1;Propio
+P000258;C02;12/04/2022;No;Negativo;;2;Propio
+P000258;C02;12/07/2022;Si;Nacido vivo;;1;Propio
+P000259;C01;30/05/2022;Si;Nacido vivo;;0;Propio
+P000261;C01;20/11/2024;No;Negativo;;2;Propio
+P000261;C01;13/02/2025;Si;Nacido vivo;;1;Propio
+P000262;C01;07/02/2024;Si;Nacido vivo;;1;Propio
+P000263;C03;24/08/2021;No;Negativo;;0;Propio
+P000264;C02;14/06/2022;Si;Nacido vivo;;0;Propio
+P000265;C01;14/09/2023;No;Negativo;;3;Propio
+P000265;C01;10/11/2023;Si;Nacido vivo;;2;Propio
+P000266;C03;01/01/2025;Si;Aborto;18/02/2025;4;Propio
+P000266;C03;18/04/2025;No;Negativo;;3;Propio
+P000266;C03;28/05/2025;Si;Nacido vivo;;2;Propio
+P000267;C01;28/03/2024;;;;4;Propio
+P000267;C01;19/06/2024;No;Negativo;;3;Propio
+P000267;C01;01/10/2024;Si;Nacido vivo;;2;Propio
+P000269;C01;09/08/2021;Si;Aborto;10/10/2021;7;Propio
+P000269;C01;04/12/2021;No;Negativo;;6;Propio
+P000269;C01;14/04/2022;No;Negativo;;5;Propio
+P000269;C01;29/05/2022;No;Negativo;;4;Propio
+P000269;C01;15/08/2022;No;Negativo;;3;Propio
+P000269;C01;22/09/2023;No;Negativo;;2;Propio
+P000269;C01;04/10/2024;No;Negativo;;3;Propio
+P000273;C01;31/12/2024;Si;Nacido vivo;;1;Propio
+P000274;C01;17/08/2022;Si;Aborto;05/10/2022;1;Propio
+P000274;C01;19/03/2023;Si;Nacido vivo;;0;Propio
+P000275;C02;09/09/2024;Si;Nacido vivo;;3;Propio
+P000276;C02;14/10/2021;Si;Nacido vivo;;1;Propio
+P000277;C02;12/05/2024;Si;Nacido vivo;;1;Propio
+P000278;C01;27/06/2023;Si;Nacido vivo;;0;Propio
+P000280;C02;24/11/2024;Si;Nacido vivo;;1;Propio
+P000281;C02;25/06/2023;Si;Nacido vivo;;3;Propio
+P000282;C01;08/01/2023;Si;Nacido vivo;;2;Propio
+P000283;C01;22/03/2023;;;;4;Propio
+P000283;C01;07/05/2023;No;Negativo;;3;Propio
+P000284;C02;14/08/2023;Si;Nacido vivo;;0;Propio
+P000285;C02;02/11/2022;Si;Aborto;16/12/2022;1;Propio
+P000286;C01;02/06/2021;No;Negativo;;0;Propio
+P000287;C01;12/02/2024;No;Negativo;;1;Propio
+P000287;C01;26/03/2024;Si;Nacido vivo;;0;Propio
+P000288;C02;12/05/2023;Si;Nacido vivo;;0;Propio
+P000289;C01;01/01/2025;No;Negativo;;0;Propio
+P000289;C01;20/08/2025;No;Negativo;;0;Propio
+P000289;C01;13/02/2026;Si;En curso;;2;Propio
+P000290;C02;27/02/2024;No;Negativo;;2;Propio
+P000291;C01;20/10/2024;Si;Nacido vivo;;0;Propio
+P000293;C01;26/08/2023;Si;Nacido vivo;;3;Propio
+P000294;C02;27/05/2024;Si;Nacido vivo;;3;Propio
+P000295;C01;17/08/2021;Si;Nacido vivo;;1;Propio
+P000296;C03;13/01/2023;Si;Nacido vivo;;0;Propio
+P000297;C01;09/10/2021;Si;Aborto;23/12/2021;1;Propio
+P000297;C01;16/06/2022;Si;Aborto;;1;Propio
+P000297;C01;06/08/2023;Si;Aborto;15/09/2023;0;Propio
+P000297;C01;15/10/2024;Si;Nacido vivo;;0;Propio
+P000298;C03;26/04/2022;No;Negativo;;1;Propio
+P000298;C03;09/10/2022;Si;Nacido vivo;;0;Propio
+P000299;C02;11/08/2024;Si;Nacido vivo;;2;Propio
+P000301;C03;25/02/2023;Si;Aborto;06/05/2023;2;Propio
+P000305;C01;15/05/2022;Si;Nacido vivo;;0;Propio
+P000306;C01;11/12/2022;Si;Aborto;10/02/2023;1;Propio
+P000306;C01;22/08/2023;Si;Nacido vivo;;0;Propio
+P000307;C03;31/12/2023;Si;Aborto;02/03/2024;3;Propio
+P000307;C03;14/05/2024;No;Negativo;;2;Propio
+P000308;C01;12/09/2021;No;Negativo;;2;Propio
+P000308;C01;13/11/2021;Si;Aborto;21/01/2022;1;Propio
+P000308;C01;24/05/2022;Si;Nacido vivo;;1;Propio
+P000310;C01;17/06/2024;Si;Nacido vivo;;1;Propio
+P000311;C02;14/11/2023;No;Negativo;;2;Propio
+P000311;C02;09/03/2024;Si;Nacido vivo;;1;Propio
+P000313;C02;18/05/2024;Si;Nacido vivo;;0;Propio
+P000314;C02;18/11/2024;Si;Nacido vivo;;0;Propio
+P000316;C02;25/07/2024;Si;Nacido vivo;;1;Propio
+P000317;C01;22/01/2024;No;Negativo;;2;Propio
+P000317;C01;14/03/2024;Si;Aborto;18/05/2024;1;Propio
+P000317;C01;08/08/2024;No;Negativo;;0;Propio
+P000318;C02;11/07/2025;No;Negativo;;3;Propio
+P000319;C01;15/02/2024;No;Negativo;;2;Propio
+P000319;C01;14/10/2024;Si;Nacido vivo;;1;Propio
+P000321;C03;31/08/2024;Si;Nacido vivo;;1;Propio
+P000322;C01;24/11/2022;No;Negativo;;4;Propio
+P000322;C01;13/04/2023;Si;Nacido vivo;;3;Propio
+P000323;C01;09/06/2021;No;Negativo;;1;Propio
+P000325;C01;15/09/2023;Si;Nacido vivo;;1;Propio
+P000326;C02;11/11/2022;No;Negativo;;0;Propio
+P000326;C02;09/09/2024;No;Negativo;;0;Propio
+P000327;C03;09/12/2022;Si;Nacido vivo;;1;Propio
+P000328;C03;22/10/2024;No;Negativo;;2;Propio
+P000328;C03;16/12/2024;No;Negativo;;1;Propio
+P000328;C03;29/03/2025;Si;Aborto;;0;Propio
+P000328;C03;15/11/2025;Si;Nacido vivo;;2;Propio
+P000329;C02;16/06/2022;Si;Nacido vivo;;2;Propio
+P000331;C02;30/03/2023;Si;Aborto;12/06/2023;0;Propio
+P000332;C03;15/02/2024;Si;Nacido vivo;;3;Propio
+P000333;C01;10/04/2025;Si;Nacido vivo;;0;Propio
+P000335;C02;22/04/2022;Si;Nacido vivo;;3;Propio
+P000336;C03;12/09/2024;Si;Aborto;15/11/2024;1;Propio
+P000336;C03;22/01/2025;Si;Nacido vivo;;0;Propio
+P000337;C03;12/10/2023;No;Negativo;;3;Propio
+P000337;C03;03/12/2023;Si;Nacido vivo;;2;Propio
+P000338;C01;13/11/2022;Si;Nacido vivo;;1;Propio
+P000340;C01;16/11/2023;No;Negativo;;2;Propio
+P000340;C01;02/05/2024;No;Negativo;;1;Propio
+P000340;C01;11/11/2024;Si;Nacido vivo;;0;Propio
+P000342;C03;20/04/2022;Si;Nacido vivo;;3;Propio
+P000343;C02;27/04/2025;Si;Nacido vivo;;3;Propio
+P000344;C02;28/05/2024;Si;Nacido vivo;;3;Propio
+P000347;C01;28/02/2023;Si;Nacido vivo;;2;Propio
+P000348;C02;03/12/2024;Si;Nacido vivo;;1;Propio
+P000349;C02;25/12/2023;;;;1;Propio
+P000349;C02;30/01/2024;Si;Nacido vivo;;0;Propio
+P000350;C01;07/03/2022;Si;Aborto;;2;Propio
+P000350;C01;08/12/2022;No;Negativo;;0;Propio
+P000350;C01;29/01/2023;No;Negativo;;0;Propio
+P000350;C01;13/06/2023;No;Negativo;;3;Propio
+P000350;C01;02/09/2023;Si;Aborto;28/10/2023;2;Propio
+P000353;C03;23/02/2024;No;Negativo;;0;Propio
+P000355;C02;10/08/2023;Si;Nacido vivo;;3;Propio
+P000356;C01;09/12/2022;No;Negativo;;5;Propio
+P000356;C01;29/12/2022;Si;Aborto;06/03/2023;4;Propio
+P000356;C01;12/07/2023;Si;Nacido vivo;;3;Propio
+P000357;C01;02/12/2021;Si;Nacido vivo;;3;Propio
+P000358;C01;01/12/2022;Si;Nacido vivo;;1;Propio
+P000359;C01;02/11/2022;Si;Aborto;24/12/2022;1;Propio
+P000359;C01;27/05/2023;Si;Nacido vivo;;0;Propio
+P000360;C01;15/10/2022;No;Negativo;;3;Propio
+P000360;C01;04/12/2022;Si;Nacido vivo;;;Propio
+P000361;C01;08/05/2023;;;;3;Propio
+P000361;C01;22/05/2023;No;Negativo;;2;Propio
+P000361;C01;19/08/2023;Si;Nacido vivo;;1;Propio
+P000363;C02;16/09/2022;No;Negativo;;4;Propio
+P000363;C02;05/03/2023;Si;Nacido vivo;;3;Propio
+P000365;C02;05/11/2022;No;Negativo;;1;Propio
+P000366;C02;12/07/2024;No;Negativo;;4;Propio
+P000366;C02;06/06/2025;;;;3;Propio
+P000367;C02;05/01/2022;Si;Nacido vivo;;1;Propio
+P000368;C02;20/09/2024;Si;Aborto;06/11/2024;0;Propio
+P000368;C02;09/06/2025;No;Negativo;;0;Propio
+P000368;C02;16/12/2025;No;Negativo;;2;Propio
+P000368;C02;08/05/2026;Si;Aborto;20/07/2026;1;Propio
+P000369;C02;05/05/2023;Si;Nacido vivo;;0;Propio
+P000372;C01;18/11/2021;Si;Nacido vivo;;2;Propio
+P000375;C01;10/07/2023;No;Negativo;;3;Propio
+P000375;C01;03/10/2023;Si;Nacido vivo;;2;Propio
+P000376;C01;06/03/2024;No;Negativo;;3;Propio
+P000376;C01;12/04/2024;No;Negativo;;2;Propio
+P000376;C01;19/06/2024;Si;Nacido vivo;;1;Propio
+P000377;C03;20/12/2023;No;Negativo;;2;Propio
+P000377;C03;06/05/2024;;;;0;Propio
+P000378;C03;30/08/2022;No;Negativo;;1;Propio
+P000379;C01;27/09/2024;Si;Nacido vivo;;0;Propio
+P000380;C01;04/05/2024;No;Negativo;;5;Propio
+P000380;C01;07/07/2024;No;Negativo;;4;Propio
+P000380;C01;05/11/2024;Si;Aborto;;3;Propio
+P000380;C01;11/11/2025;Si;Nacido vivo;;2;Propio
+P000381;C01;13/08/2024;Si;Aborto;25/09/2024;1;Propio
+P000381;C01;16/12/2024;Si;Nacido vivo;;0;Propio
+P000384;C01;24/02/2024;Si;Aborto;30/04/2024;2;Propio
+P000384;C01;31/10/2024;No;Negativo;;2;Propio
+P000384;C01;31/07/2025;No;Negativo;;1;Propio
+P000385;C01;06/05/2024;No;Negativo;;1;Propio
+P000386;C02;09/09/2023;;;;2;Propio
+P000386;C02;01/11/2025;Si;Nacido vivo;;1;Propio
+P000387;C02;21/09/2023;No;Negativo;;2;Propio
+P000387;C02;30/05/2025;No;Negativo;;4;Propio
+P000387;C02;21/08/2025;Si;Nacido vivo;;3;Propio
+P000388;C01;17/12/2024;Si;Nacido vivo;;2;Propio
+P000389;C02;11/10/2022;No;Negativo;;2;Propio
+P000389;C02;20/03/2023;Si;Nacido vivo;;0;Propio
+P000390;C01;15/10/2023;No;Negativo;;1;Propio
+P000390;C01;31/12/2023;No;Negativo;;0;Propio
+P000392;C02;13/10/2022;No;Negativo;;2;Propio
+P000392;C02;05/07/2023;No;Negativo;;1;Propio
+P000393;C02;20/09/2023;No;Negativo;;2;Propio
+P000393;C02;20/11/2023;No;Negativo;;1;Propio
+P000393;C02;20/01/2024;Si;Nacido vivo;;;Propio
+P000395;C03;23/05/2023;Si;Nacido vivo;;0;Propio
+P000396;C02;25/01/2023;Si;Nacido vivo;;0;Propio
+P000397;C02;03/01/2024;No;Negativo;;1;Propio
+P000398;C01;21/07/2025;Si;Aborto;;3;Propio
+P000398;C01;15/04/2026;No;Negativo;;0;Propio
+P000400;C03;12/05/2022;Si;Nacido vivo;;0;Propio
+P000401;C02;24/02/2025;Si;Nacido vivo;;1;Propio
+P000402;C01;13/01/2025;Si;Nacido vivo;;;Propio
+P000403;C01;24/12/2022;No;Negativo;;3;Propio
+P000403;C01;18/01/2023;No;Negativo;;2;Propio
+P000403;C01;25/08/2023;No;Negativo;;1;Propio
+P000403;C01;09/04/2024;Si;Nacido vivo;;0;Propio
+P000404;C03;06/07/2023;No;Negativo;;3;Propio
+P000406;C02;20/05/2024;No;Negativo;;3;Propio
+P000406;C02;15/09/2024;Si;Nacido vivo;;2;Propio
+P000407;C01;15/05/2024;Si;Nacido vivo;;0;Propio
+P000408;C01;08/03/2025;No;Negativo;;0;Propio
+P000408;C01;27/04/2026;Si;Aborto;28/06/2026;0;Propio
+P000409;C02;17/09/2022;Si;Nacido vivo;;;Propio
+P000410;C01;28/09/2024;No;Negativo;;1;Propio
+P000410;C01;08/01/2025;Si;Nacido vivo;;0;Propio
+P000411;C01;20/10/2024;Si;Nacido vivo;;3;Propio
+P000412;C02;18/04/2024;Si;Nacido vivo;;1;Propio
+P000413;C01;29/06/2022;Si;Aborto;08/08/2022;1;Propio
+P000413;C01;23/12/2022;No;Negativo;;1;Propio
+P000413;C01;11/03/2023;Si;Nacido vivo;;0;Propio
+P000414;C01;27/12/2023;Si;Nacido vivo;;1;Propio
+P000415;C01;22/06/2023;No;Negativo;;1;Propio
+P000415;C01;19/01/2024;Si;Aborto;;0;Propio
+P000415;C01;03/12/2024;Si;Nacido vivo;;1;Propio
+P000416;C01;06/01/2023;No;Negativo;;0;Propio
+P000416;C01;01/06/2025;Si;Aborto;12/08/2025;4;Propio
+P000416;C01;28/09/2025;Si;Aborto;16/11/2025;3;Propio
+P000417;C01;26/05/2024;Si;Nacido vivo;;0;Propio
+P000418;C02;03/04/2022;Si;Nacido vivo;;0;Propio
+P000419;C01;13/07/2023;Si;Nacido vivo;;1;Propio
+P000420;C02;30/09/2022;Si;Nacido vivo;;1;Propio
+P000421;C03;05/12/2024;Si;Nacido vivo;;0;Propio
+P000422;C01;10/05/2022;Si;Aborto;;1;Propio
+P000422;C01;16/12/2022;No;Negativo;;4;Propio
+P000422;C01;01/03/2023;Si;Aborto;13/04/2023;3;Propio
+P000422;C01;28/05/2023;No;Negativo;;2;Propio
+P000423;C02;12/12/2023;No;Negativo;;2;Propio
+P000425;C01;30/07/2024;Si;Nacido vivo;;2;Propio
+P000426;C01;21/05/2023;No;Negativo;;0;Propio
+P000426;C01;26/01/2024;No;Negativo;;2;Propio
+P000429;C02;29/05/2023;Si;Aborto;31/07/2023;3;Propio
+P000430;C02;07/10/2025;Si;Aborto;11/12/2025;2;Propio
+P000430;C02;27/01/2026;No;Negativo;;1;Propio
+P000432;C03;20/05/2024;Si;Nacido vivo;;0;Propio
+P000435;C02;01/07/2022;No;Negativo;;1;Propio
+P000435;C02;25/01/2023;No;Negativo;;2;Propio
+P000436;C03;07/04/2024;Si;Aborto;07/06/2024;3;Propio
+P000436;C03;02/10/2024;Si;Nacido vivo;;1;Propio
+P000437;C03;17/03/2024;Si;Nacido vivo;;1;Propio
+P000438;C01;14/12/2023;Si;Nacido vivo;;1;Propio
+P000439;C02;21/07/2022;;;;;Propio
+P000440;C01;06/03/2023;Si;Nacido vivo;;2;Propio
+P000441;C01;16/08/2023;Si;Nacido vivo;;2;Propio
+P000443;C02;03/02/2023;Si;Nacido vivo;;1;Propio
+P000445;C03;27/12/2023;Si;Nacido vivo;;1;Propio
+P000446;C02;03/06/2023;No;Negativo;;2;Propio
+P000447;C03;09/04/2025;No;Negativo;;3;Propio
+P000447;C03;09/07/2025;No;Negativo;;2;Propio
+P000447;C03;16/09/2025;Si;Nacido vivo;;1;Propio
+P000448;C02;01/01/2024;Si;Nacido vivo;;0;Propio
+P000449;C01;08/03/2024;Si;Nacido vivo;;1;Propio
+P000451;C02;12/01/2023;Si;Nacido vivo;;2;Propio
+P000452;C01;08/02/2022;No;Negativo;;0;Propio
+P000453;C01;16/09/2023;Si;Nacido vivo;;;Propio
+P000454;C01;26/03/2022;Si;Nacido vivo;;1;Propio
+P000455;C01;12/04/2023;Si;Nacido vivo;;1;Propio
+P000456;C02;13/04/2023;No;Negativo;;1;Propio
+P000456;C02;25/08/2023;Si;Nacido vivo;;;Propio
+P000457;C03;06/01/2025;Si;Aborto;;2;Propio
+P000457;C03;22/04/2025;;;;1;Propio
+P000457;C03;28/05/2025;Si;Nacido vivo;;0;Propio
+P000458;C01;24/09/2022;No;Negativo;;2;Propio
+P000459;C02;15/10/2023;No;Negativo;;7;Propio
+P000459;C02;22/11/2023;No;Negativo;;6;Propio
+P000459;C02;06/01/2024;No;Negativo;;5;Propio
+P000459;C02;11/03/2024;No;Negativo;;4;Propio
+P000459;C02;14/05/2024;Si;Nacido vivo;;3;Propio
+P000460;C01;27/08/2022;Si;Nacido vivo;;3;Propio
+P000461;C02;31/10/2022;Si;Nacido vivo;;3;Propio
+P000462;C01;25/06/2021;Si;Aborto;02/09/2021;2;Propio
+P000462;C01;11/12/2021;No;Negativo;;1;Propio
+P000462;C01;13/05/2022;No;Negativo;;1;Propio
+P000462;C01;08/07/2022;Si;Nacido vivo;;0;Propio
+P000464;C01;28/06/2025;No;Negativo;;4;Propio
+P000464;C01;26/07/2025;Si;Aborto;14/09/2025;3;Propio
+P000464;C01;23/11/2025;No;Negativo;;2;Propio
+P000465;C02;03/01/2022;Si;Nacido vivo;;0;Propio
+P000466;C01;05/10/2022;No;Negativo;;1;Propio
+P000466;C01;22/03/2023;Si;Aborto;;3;Propio
+P000466;C01;07/06/2024;No;Negativo;;5;Propio
+P000466;C01;27/08/2024;No;Negativo;;4;Propio
+P000466;C01;30/09/2024;Si;Nacido vivo;;3;Propio
+P000467;C02;23/08/2024;Si;Nacido vivo;;1;Propio
+P000468;C01;04/11/2022;Si;Aborto;;3;Propio
+P000468;C01;07/03/2023;Si;Nacido vivo;;2;Propio
+P000469;C03;24/10/2021;Si;Aborto;;3;Propio
+P000469;C03;11/11/2022;Si;Nacido vivo;;0;Propio
+P000470;C01;27/01/2023;No;Negativo;;1;Propio
+P000470;C01;05/04/2024;No;Negativo;;4;Propio
+P000470;C01;30/04/2024;Si;Aborto;15/06/2024;;Propio
+P000470;C01;25/08/2024;No;Negativo;;2;Propio
+P000470;C01;23/11/2024;No;Negativo;;1;Propio
+P000470;C01;27/08/2025;Si;Nacido vivo;;0;Propio
+P000471;C01;07/03/2025;No;Negativo;;3;Propio
+P000472;C02;23/08/2022;Si;Nacido vivo;;1;Propio
+P000473;C01;16/10/2024;Si;Aborto;11/12/2024;3;Propio
+P000475;C01;13/07/2023;No;Negativo;;;Propio
+P000478;C01;09/08/2024;Si;Aborto;;3;Propio
+P000478;C01;21/03/2025;No;Negativo;;2;Propio
+P000478;C01;25/08/2025;Si;Nacido vivo;;1;Propio
+P000479;C03;11/12/2022;No;Negativo;;1;Propio
+P000480;C01;07/11/2022;Si;Nacido vivo;;2;Propio
+P000481;C02;25/11/2023;Si;Nacido vivo;;1;Propio
+P000483;C01;24/03/2025;;;;2;Propio
+P000483;C01;21/05/2025;Si;Nacido vivo;;1;Propio
+P000484;C01;04/02/2023;Si;Aborto;11/04/2023;3;Propio
+P000484;C01;30/08/2023;No;Negativo;;2;Propio
+P000484;C01;11/11/2023;Si;Nacido vivo;;1;Propio
+P000485;C01;01/10/2024;No;Negativo;;3;Propio
+P000485;C01;15/02/2025;Si;Nacido vivo;;2;Propio
+P000487;C03;09/10/2023;No;Negativo;;2;Propio
+P000487;C03;28/03/2024;Si;Nacido vivo;;1;Propio
+P000488;C01;01/01/2025;No;Negativo;;3;Propio
+P000488;C01;06/02/2025;Si;Nacido vivo;;2;Propio
+P000489;C03;21/07/2021;No;Negativo;;0;Propio
+P000490;C02;17/05/2024;Si;Nacido vivo;;0;Propio
+P000491;C01;26/02/2021;No;Negativo;;3;Propio
+P000491;C01;29/03/2021;No;Negativo;;2;Propio
+P000492;C03;17/05/2022;Si;Nacido vivo;;2;Propio
+P000493;C03;20/06/2023;No;Negativo;;1;Propio
+P000493;C03;16/08/2023;No;Negativo;;0;Propio
+P000494;C01;28/09/2024;Si;Nacido vivo;;1;Propio
+P000495;C01;01/12/2024;Si;Nacido vivo;;1;Propio
+P000497;C01;10/03/2024;No;Negativo;;2;Propio
+P000498;C01;18/08/2022;Si;Aborto;22/10/2022;1;Propio
+P000498;C01;26/10/2023;Si;Nacido vivo;;1;Propio
+P000499;C02;24/12/2024;Si;Nacido vivo;;2;Propio
+P000500;C01;07/05/2021;Si;Aborto;16/06/2021;1;Propio
+P000500;C01;15/04/2023;Si;Nacido vivo;;1;Propio
+P000502;C03;23/03/2024;Si;Aborto;;;Propio
+P000502;C03;08/09/2024;Si;Aborto;21/10/2024;2;Propio
+P000502;C03;28/11/2024;No;Negativo;;1;Propio
+P000502;C03;18/01/2025;Si;Nacido vivo;;0;Propio
+P000503;C01;09/09/2022;Si;Aborto;04/11/2022;1;Propio
+P000503;C01;14/02/2024;Si;Nacido vivo;;0;Propio
+P000505;C01;25/10/2024;Si;Nacido vivo;;2;Propio
+P000506;C01;10/07/2022;Si;Nacido vivo;;0;Propio
+P000509;C03;02/06/2023;Si;Nacido vivo;;0;Propio
+P000510;C02;11/09/2023;No;Negativo;;1;Propio
+P000510;C02;16/02/2024;Si;Nacido vivo;;0;Propio
+P000511;C02;04/05/2024;Si;Nacido vivo;;2;Propio
+P000512;C03;25/05/2024;Si;Nacido vivo;;3;Propio
+P000513;C01;27/01/2023;Si;Aborto;;1;Propio
+P000513;C01;19/09/2023;Si;Nacido vivo;;;Propio
+P000514;C02;29/01/2025;No;Negativo;;0;Propio
+P000515;C01;12/05/2021;Si;Nacido vivo;;1;Propio
+P000516;C03;27/02/2022;No;Negativo;;1;Propio
+P000517;C01;13/02/2024;No;Negativo;;2;Propio
+P000517;C01;25/03/2024;Si;Nacido vivo;;1;Propio
+P000518;C01;10/02/2023;Si;Aborto;09/04/2023;2;Propio
+P000518;C01;06/12/2023;Si;Nacido vivo;;0;Propio
+P000519;C03;10/08/2025;No;Negativo;;1;Propio
+P000520;C01;27/03/2024;Si;Aborto;;5;Propio
+P000520;C01;21/06/2024;No;Negativo;;;Propio
+P000520;C01;11/11/2024;Si;Nacido vivo;;3;Propio
+P000521;C01;20/10/2022;Si;Nacido vivo;;0;Propio
+P000522;C01;09/09/2024;Si;Nacido vivo;;1;Propio
+P000523;C03;18/01/2024;Si;Nacido vivo;;1;Propio
+P000524;C01;15/07/2024;Si;Nacido vivo;;2;Propio
+P000525;C01;13/01/2024;No;Negativo;;2;Propio
+P000525;C01;24/05/2025;No;Negativo;;1;Propio
+P000525;C01;14/08/2025;No;Negativo;;0;Propio
+P000526;C02;18/01/2025;Si;Nacido vivo;;2;Propio
+P000527;C03;23/09/2023;No;Negativo;;1;Propio
+P000528;C03;10/06/2022;Si;Nacido vivo;;1;Propio
+P000529;C01;06/12/2022;Si;Nacido vivo;;2;Propio
+P000532;C01;30/05/2022;Si;Nacido vivo;;1;Propio
+P000533;C02;28/12/2021;No;Negativo;;1;Propio
+P000534;C01;07/01/2023;Si;Aborto;09/03/2023;2;Propio
+P000534;C01;19/04/2023;No;Negativo;;1;Propio
+P000534;C01;13/12/2024;Si;Nacido vivo;;0;Propio
+P000535;C03;31/03/2023;Si;Aborto;13/06/2023;4;Propio
+P000535;C03;03/08/2023;Si;Nacido vivo;;3;Propio
+P000536;C01;05/01/2025;Si;Aborto;17/02/2025;0;Propio
+P000536;C01;09/12/2025;Si;Nacido vivo;;2;Propio
+P000537;C03;23/10/2023;Si;Nacido vivo;;2;Propio
+P000538;C03;04/05/2023;No;Negativo;;2;Propio
+P000538;C03;27/09/2023;Si;Nacido vivo;;1;Propio
+P000540;C01;22/01/2024;Si;Aborto;;2;Propio
+P000540;C01;12/12/2024;No;Negativo;;1;Propio
+P000540;C01;27/05/2025;Si;Nacido vivo;;0;Propio
+P000541;C01;06/03/2024;Si;Nacido vivo;;1;Propio
+P000542;C01;15/04/2022;Si;Nacido vivo;;0;Propio
+P000543;C03;01/05/2024;Si;Aborto;08/07/2024;1;Propio
+P000545;C01;27/10/2023;No;Negativo;;5;Propio
+P000545;C01;27/02/2024;;;;4;Propio
+P000545;C01;09/04/2024;Si;Nacido vivo;;3;Propio
+P000546;C01;13/06/2024;Si;Nacido vivo;;1;Propio
+P000547;C01;25/02/2023;Si;Nacido vivo;;3;Propio
+P000549;C01;15/09/2022;No;Negativo;;3;Propio
+P000550;C03;09/02/2025;No;Negativo;;0;Propio
+P000551;C02;21/06/2024;Si;Nacido vivo;;;Propio
+P000552;C01;21/10/2024;No;Negativo;;2;Propio
+P000554;C03;13/01/2025;Si;Nacido vivo;;1;Propio
+P000555;C02;16/12/2025;Si;Nacido vivo;;0;Propio
+P000556;C01;22/10/2021;Si;Nacido vivo;;2;Propio
+P000557;C02;24/02/2022;Si;Aborto;;2;Propio
+P000557;C02;18/06/2022;No;Negativo;;1;Propio
+P000557;C02;15/10/2022;No;Negativo;;0;Propio
+P000561;C02;09/11/2022;Si;Nacido vivo;;0;Propio
+P000562;C03;18/10/2023;Si;Nacido vivo;;0;Propio
+P000564;C02;29/12/2021;No;Negativo;;;Propio
+P000566;C01;23/12/2023;No;Negativo;;1;Propio
+P000566;C01;15/03/2024;Si;Nacido vivo;;0;Propio
+P000567;C03;25/09/2025;Si;Nacido vivo;;2;Propio
+P000568;C01;19/03/2023;No;Negativo;;3;Propio
+P000569;C01;21/09/2024;Si;Aborto;23/11/2024;4;Propio
+P000569;C01;20/01/2025;Si;Nacido vivo;;3;Propio
+P000570;C01;01/08/2023;No;Negativo;;0;Propio
+P000571;C03;12/03/2022;No;Negativo;;1;Propio
+P000572;C02;16/05/2025;No;Negativo;;0;Propio
+P000574;C02;23/08/2022;Si;Nacido vivo;;2;Propio
+P000575;C01;18/09/2025;No;Negativo;;0;Propio
+P000576;C02;02/08/2024;Si;Nacido vivo;;1;Propio
+P000577;C02;07/03/2023;No;Negativo;;1;Propio
+P000577;C02;20/04/2023;Si;Nacido vivo;;0;Propio
+P000578;C01;03/05/2024;No;Negativo;;0;Propio
+P000578;C01;08/11/2024;No;Negativo;;0;Propio
+P000578;C01;18/12/2024;No;Negativo;;0;Propio
+P000579;C03;24/12/2025;Si;Nacido vivo;;3;Propio
+P000580;C01;20/04/2021;No;Negativo;;0;Propio
+P000580;C01;22/04/2022;Si;Nacido vivo;;0;Propio
+P000581;C01;06/12/2022;No;Negativo;;2;Propio
+P000582;C01;28/03/2023;Si;Nacido vivo;;3;Propio
+P000583;C01;30/05/2024;No;Negativo;;1;Propio
+P000583;C01;25/07/2024;Si;Nacido vivo;;0;Propio
+P000584;C03;26/10/2023;;;;2;Propio
+P000587;C03;01/12/2024;Si;Nacido vivo;;0;Propio
+P000589;C01;05/11/2023;No;Negativo;;2;Propio
+P000589;C01;11/03/2024;Si;Aborto;03/05/2024;1;Propio
+P000590;C01;31/03/2025;Si;Aborto;09/06/2025;0;Propio
+P000590;C01;20/09/2025;Si;Nacido vivo;;;Propio
+P000591;C02;22/12/2022;Si;Aborto;07/03/2023;0;Propio
+P000592;C01;07/03/2025;Si;Nacido vivo;;2;Propio
+P000593;C01;11/07/2024;Si;Aborto;;0;Propio
+P000593;C01;24/02/2025;Si;Nacido vivo;;1;Propio
+P000596;C03;08/03/2022;Si;Nacido vivo;;;Propio
+P000598;C02;08/02/2023;No;Negativo;;2;Propio
+P000599;C01;03/10/2023;Si;Nacido vivo;;1;Propio
+P000600;C02;26/01/2024;Si;Aborto;;1;Propio
+P000600;C02;14/08/2025;Si;Nacido vivo;;0;Propio
+P000601;C03;27/01/2024;;;;0;Propio
+P000602;C02;06/03/2021;No;Negativo;;4;Propio
+P000602;C02;30/12/2022;No;Negativo;;3;Propio
+P000602;C02;21/05/2024;Si;Aborto;25/07/2024;5;Propio
+P000602;C02;09/11/2024;No;Negativo;;4;Propio
+P000602;C02;28/01/2025;No;Negativo;;3;Propio
+P000603;C02;04/11/2022;Si;Aborto;;0;Propio
+P000603;C02;20/04/2023;Si;Nacido vivo;;2;Propio
+P000604;C01;21/04/2023;Si;Aborto;;0;Propio
+P000604;C01;27/03/2024;Si;Nacido vivo;;3;Propio
+P000605;C01;24/07/2021;No;Negativo;;3;Propio
+P000605;C01;14/12/2021;No;Negativo;;2;Propio
+P000605;C01;14/10/2022;Si;Nacido vivo;;1;Propio
+P000606;C02;06/02/2024;Si;Aborto;03/04/2024;;Propio
+P000606;C02;01/03/2025;Si;Nacido vivo;;2;Propio
+P000607;C01;13/02/2025;Si;Aborto;04/04/2025;2;Propio
+P000607;C01;08/08/2025;No;Negativo;;1;Propio
+P000607;C01;09/10/2025;No;Negativo;;0;Propio
+P000608;C02;06/12/2024;Si;Nacido vivo;;2;Propio
+P000609;C01;07/11/2022;Si;Nacido vivo;;1;Propio
+P000611;C01;17/06/2023;Si;Nacido vivo;;1;Propio
+P000612;C01;29/12/2024;Si;Aborto;09/02/2025;1;Propio
+P000612;C01;13/02/2026;Si;En curso;;0;Propio
+P000614;C01;23/01/2024;Si;Aborto;08/03/2024;1;Propio
+P000615;C01;09/03/2024;No;Negativo;;2;Propio
+P000617;C01;29/03/2024;No;Negativo;;2;Propio
+P000617;C01;24/06/2024;Si;Nacido vivo;;1;Propio
+P000619;C03;29/11/2024;Si;Nacido vivo;;0;Propio
+P000620;C01;23/07/2024;Si;Aborto;;0;Propio
+P000620;C01;09/10/2025;Si;Nacido vivo;;0;Propio
+P000621;C02;06/03/2022;No;Negativo;;0;Propio
+P000622;C02;14/06/2024;Si;Nacido vivo;;2;Propio
+P000623;C01;21/08/2024;Si;Aborto;18/10/2024;2;Propio
+P000623;C01;10/09/2025;;;;1;Propio
+P000624;C01;16/06/2022;No;Negativo;;2;Propio
+P000624;C01;27/09/2022;Si;Nacido vivo;;1;Propio
+P000625;C03;01/07/2023;No;Negativo;;3;Propio
+P000625;C03;13/01/2024;Si;Nacido vivo;;2;Propio
+P000626;C03;27/04/2024;;;;3;Propio
+P000626;C03;20/07/2024;No;Negativo;;2;Propio
+P000626;C03;15/08/2024;No;Negativo;;1;Propio
+P000626;C03;11/11/2024;Si;Nacido vivo;;;Propio
+P000627;C02;24/03/2024;Si;Nacido vivo;;0;Propio
+P000628;C01;24/02/2022;Si;Aborto;24/04/2022;4;Propio
+P000628;C01;21/05/2022;Si;Aborto;10/07/2022;3;Propio
+P000628;C01;07/09/2022;Si;Aborto;02/11/2022;2;Propio
+P000628;C01;30/11/2023;Si;Nacido vivo;;1;Propio
+P000629;C03;18/10/2022;Si;Nacido vivo;;2;Propio
+P000630;C01;30/09/2023;Si;Nacido vivo;;1;Propio
+P000631;C01;30/05/2024;No;Negativo;;0;Propio
+P000632;C03;09/10/2024;Si;Aborto;;1;Propio
+P000632;C03;02/02/2025;Si;Nacido vivo;;0;Propio
+P000633;C01;04/08/2023;No;Negativo;;2;Propio
+P000634;C03;04/09/2023;Si;Nacido vivo;;3;Propio
+P000635;C03;04/10/2022;No;Negativo;;0;Propio
+P000639;C02;19/08/2023;Si;Nacido vivo;;1;Propio
+P000641;C01;07/11/2023;Si;Nacido vivo;;0;Propio
+P000642;C01;23/11/2024;Si;Aborto;06/02/2025;3;Propio
+P000642;C01;14/05/2025;Si;Aborto;23/07/2025;2;Propio
+P000642;C01;04/09/2025;No;Negativo;;1;Propio
+P000642;C01;28/12/2025;Si;Nacido vivo;;0;Propio
+P000643;C03;11/08/2023;Si;Nacido vivo;;3;Propio
+P000645;C01;11/02/2024;;;;1;Propio
+P000645;C01;26/03/2024;No;Negativo;;0;Propio
+P000645;C01;25/08/2024;Si;Nacido vivo;;3;Propio
+P000647;C01;20/09/2022;Si;Nacido vivo;;2;Propio
+P000649;C02;10/02/2024;No;Negativo;;1;Propio
+P000650;C02;08/01/2024;Si;Nacido vivo;;3;Propio
+P000652;C01;01/02/2024;No;Negativo;;1;Propio
+P000652;C01;02/11/2024;Si;Aborto;16/12/2024;2;Propio
+P000652;C01;10/06/2025;No;Negativo;;1;Propio
+P000653;C03;28/10/2023;Si;Nacido vivo;;2;Propio
+P000654;C02;25/10/2024;Si;Aborto;08/01/2025;2;Propio
+P000654;C02;07/02/2026;Si;En curso;;1;Propio
+P000655;C01;09/12/2022;Si;Nacido vivo;;1;Propio
+P000656;C01;21/03/2023;Si;Nacido vivo;;1;Propio
+P000657;C02;21/12/2023;No;Negativo;;0;Propio
+P000658;C03;19/12/2023;No;Negativo;;2;Propio
+P000658;C03;11/12/2024;No;Negativo;;0;Propio
+P000658;C03;18/05/2025;No;Negativo;;2;Propio
+P000659;C03;22/04/2021;No;Negativo;;4;Propio
+P000659;C03;26/05/2021;Si;Aborto;11/07/2021;3;Propio
+P000661;C01;03/01/2024;No;Negativo;;1;Propio
+P000661;C01;02/06/2025;No;Negativo;;1;Propio
+P000661;C01;21/12/2025;Si;Nacido vivo;;0;Propio
+P000662;C01;21/11/2024;No;Negativo;;1;Propio
+P000663;C02;21/11/2022;No;Negativo;;1;Propio
+P000663;C02;05/05/2023;Si;Nacido vivo;;0;Propio
+P000664;C01;17/07/2023;Si;Nacido vivo;;2;Propio
+P000665;C01;14/03/2022;No;Negativo;;2;Propio
+P000665;C01;10/09/2022;Si;Aborto;06/11/2022;1;Propio
+P000665;C01;11/07/2023;No;Negativo;;3;Propio
+P000665;C01;17/12/2023;Si;Nacido vivo;;2;Propio
+P000666;C02;08/09/2023;Si;Nacido vivo;;0;Propio
+P000667;C01;12/06/2021;No;Negativo;;5;Propio
+P000667;C01;07/08/2021;No;Negativo;;4;Propio
+P000667;C01;09/12/2021;Si;Aborto;12/02/2022;3;Propio
+P000668;C01;27/02/2024;No;Negativo;;2;Propio
+P000668;C01;06/03/2026;Si;En curso;;1;Propio
+P000669;C01;05/07/2024;No;Negativo;;2;Propio
+P000669;C01;12/09/2024;Si;Nacido vivo;;1;Propio
+P000670;C01;03/05/2024;Si;Nacido vivo;;2;Propio
+P000671;C01;23/01/2024;Si;Nacido vivo;;1;Propio
+P000673;C03;14/10/2023;No;Negativo;;0;Propio
+P000673;C03;20/02/2024;No;Negativo;;3;Propio
+P000673;C03;26/05/2024;Si;Aborto;;2;Propio
+P000673;C03;19/09/2024;Si;Nacido vivo;;1;Propio
+P000675;C01;01/02/2025;Si;Nacido vivo;;2;Propio
+P000678;C02;01/04/2023;No;Negativo;;1;Propio
+P000678;C02;19/05/2023;Si;Nacido vivo;;0;Propio
+P000679;C01;23/01/2023;No;Negativo;;3;Propio
+P000679;C01;26/04/2024;Si;Nacido vivo;;2;Propio
+P000681;C01;17/05/2024;Si;Nacido vivo;;0;Propio
+P000684;C03;28/08/2024;Si;Nacido vivo;;0;Propio
+P000685;C03;19/12/2024;No;Negativo;;1;Propio
+P000685;C03;28/04/2025;Si;Aborto;09/06/2025;0;Propio
+P000686;C01;21/08/2024;Si;Aborto;;1;Propio
+P000686;C01;10/02/2025;No;Negativo;;3;Propio
+P000687;C02;06/10/2022;No;Negativo;;2;Propio
+P000688;C01;02/11/2022;Si;Nacido vivo;;1;Propio
+P000691;C01;31/08/2023;Si;Nacido vivo;;3;Propio
+P000692;C02;12/05/2025;Si;Aborto;04/07/2025;3;Propio
+P000694;C01;20/07/2023;No;Negativo;;1;Propio
+P000695;C03;04/05/2024;No;Negativo;;1;Propio
+P000697;C02;09/12/2024;Si;Aborto;12/02/2025;0;Propio
+P000698;C02;25/06/2024;No;Negativo;;2;Propio
+P000698;C02;11/10/2025;;;;3;Propio
+P000701;C01;05/07/2023;No;Negativo;;1;Propio
+P000701;C01;07/11/2023;Si;Aborto;;0;Propio
+P000702;C02;15/02/2024;Si;Nacido vivo;;;Propio
+P000703;C01;07/05/2026;No;Negativo;;3;Propio
+P000703;C01;08/08/2026;No;Negativo;;2;Propio
+P000704;C01;26/05/2022;No;Negativo;;3;Propio
+P000704;C01;05/07/2023;Si;Nacido vivo;;3;Propio
+P000705;C01;12/08/2021;No;Negativo;;2;Propio
+P000705;C01;08/12/2021;Si;Nacido vivo;;1;Propio
+P000706;C02;19/10/2022;No;Negativo;;3;Propio
+P000706;C02;15/01/2023;No;Negativo;;2;Propio
+P000706;C02;17/07/2023;No;Negativo;;1;Propio
+P000708;C01;23/10/2024;Si;Nacido vivo;;0;Propio
+P000709;C02;13/10/2023;No;Negativo;;1;Propio
+P000709;C02;02/03/2024;No;Negativo;;0;Propio
+P000710;C02;24/01/2025;Si;Nacido vivo;;2;Propio
+P000712;C02;07/07/2023;Si;Aborto;;1;Propio
+P000712;C02;18/12/2023;Si;Nacido vivo;;0;Propio
+P000713;C01;29/01/2025;Si;Aborto;28/03/2025;0;Propio
+P000714;C01;30/09/2024;No;Negativo;;1;Propio
+P000714;C01;20/01/2025;No;Negativo;;0;Propio
+P000717;C03;30/06/2025;No;Negativo;;3;Propio
+P000717;C03;10/11/2025;Si;Nacido vivo;;2;Propio
+P000718;C01;06/08/2024;Si;Nacido vivo;;0;Propio
+P000719;C02;01/11/2023;Si;Nacido vivo;;3;Propio
+P000720;C02;18/12/2023;Si;Nacido vivo;;3;Propio
+P000721;C02;12/01/2025;Si;Nacido vivo;;1;Propio
+P000722;C01;11/10/2021;Si;Nacido vivo;;0;Propio
+P000723;C01;26/02/2025;Si;Aborto;09/04/2025;4;Propio
+P000723;C01;14/06/2025;No;Negativo;;3;Propio
+P000723;C01;29/06/2025;;;;2;Propio
+P000723;C01;20/02/2026;No;Negativo;;0;Propio
+P000724;C01;16/03/2024;Si;Nacido vivo;;;Propio
+P000725;C03;28/07/2024;Si;Nacido vivo;;1;Propio
+P000727;C01;12/08/2023;;;;0;Propio
+P000727;C01;03/11/2024;No;Negativo;;1;Propio
+P000728;C03;28/08/2023;Si;Nacido vivo;;1;Propio
+P000729;C02;09/10/2024;Si;Nacido vivo;;2;Propio
+P000730;C03;05/02/2025;Si;Nacido vivo;;3;Propio
+P000731;C02;08/02/2025;Si;Nacido vivo;;1;Propio
+P000732;C02;13/03/2024;Si;Aborto;;0;Propio
+P000734;C03;30/10/2022;No;Negativo;;3;Propio
+P000734;C03;09/06/2023;No;Negativo;;1;Propio
+P000734;C03;29/10/2023;Si;Nacido vivo;;0;Propio
+P000735;C03;27/01/2025;Si;Nacido vivo;;3;Propio
+P000736;C02;07/09/2022;Si;Aborto;;3;Propio
+P000737;C02;03/10/2023;Si;Aborto;15/11/2023;0;Propio
+P000738;C02;17/06/2023;Si;Nacido vivo;;1;Propio
+P000739;C02;04/06/2024;Si;Nacido vivo;;1;Propio
+P000740;C01;22/03/2025;No;Negativo;;0;Propio
+P000740;C01;13/12/2025;No;Negativo;;2;Propio
+P000740;C01;12/03/2026;No;Negativo;;1;Propio
+P000741;C03;16/04/2024;Si;Nacido vivo;;1;Propio
+P000742;C01;07/01/2025;No;Negativo;;5;Propio
+P000742;C01;19/05/2025;No;Negativo;;4;Propio
+P000742;C01;16/06/2025;Si;Nacido vivo;;3;Propio
+P000743;C01;13/06/2024;No;Negativo;;4;Propio
+P000743;C01;22/07/2024;Si;Aborto;09/09/2024;3;Propio
+P000743;C01;26/01/2025;Si;Nacido vivo;;1;Propio
+P000744;C01;11/09/2022;No;Negativo;;;Propio
+P000744;C01;10/11/2022;No;Negativo;;2;Propio
+P000744;C01;05/03/2023;Si;Nacido vivo;;3;Propio
+P000745;C01;07/09/2023;No;Negativo;;;Propio
+P000745;C01;10/12/2023;Si;Aborto;;0;Propio
+P000746;C01;26/01/2025;Si;Aborto;01/04/2025;1;Propio
+P000746;C01;26/06/2025;No;Negativo;;0;Propio
+P000746;C01;08/02/2026;Si;Aborto;;3;Propio
+P000746;C01;12/06/2026;No;Negativo;;2;Propio
+P000747;C01;16/01/2024;Si;Nacido vivo;;1;Propio
+P000748;C01;13/06/2023;;;;3;Propio
+P000750;C01;04/12/2022;Si;Aborto;;1;Propio
+P000750;C01;26/10/2023;Si;Nacido vivo;;2;Propio
+P000751;C02;13/04/2023;Si;Aborto;;0;Propio
+P000752;C03;26/12/2023;Si;Nacido vivo;;3;Propio
+P000753;C02;04/08/2024;No;Negativo;;1;Propio
+P000753;C02;13/09/2024;Si;Aborto;19/11/2024;0;Propio
+P000753;C02;01/12/2025;No;Negativo;;4;Propio
+P000753;C02;14/01/2026;;;;3;Propio
+P000755;C01;02/05/2024;;;;1;Propio
+P000755;C01;23/05/2025;Si;Nacido vivo;;0;Propio
+P000756;C02;20/08/2024;No;Negativo;;1;Propio
+P000756;C02;13/11/2024;Si;Nacido vivo;;0;Propio
+P000757;C02;13/04/2024;;;;2;Propio
+P000757;C02;12/08/2024;Si;Nacido vivo;;1;Propio
+P000758;C03;03/08/2024;Si;Nacido vivo;;0;Propio
+P000759;C02;20/03/2022;No;Negativo;;1;Propio
+P000759;C02;15/07/2022;Si;Nacido vivo;;0;Propio
+P000763;C01;13/03/2024;Si;Nacido vivo;;0;Propio
+P000764;C01;25/09/2021;Si;Nacido vivo;;1;Propio
+P000765;C02;19/10/2022;No;Negativo;;1;Propio
+P000766;C02;06/06/2023;Si;Aborto;23/07/2023;1;Propio
+P000766;C02;09/11/2023;Si;Nacido vivo;;0;Propio
+P000768;C01;15/03/2024;Si;Nacido vivo;;1;Propio
+P000771;C01;06/10/2024;Si;Aborto;11/12/2024;1;Propio
+P000771;C01;18/03/2025;Si;Nacido vivo;;;Propio
+P000772;C01;29/01/2025;Si;Aborto;;4;Propio
+P000772;C01;23/05/2025;No;Negativo;;3;Propio
+P000772;C01;24/07/2025;Si;Nacido vivo;;2;Propio
+P000773;C02;22/04/2023;Si;Aborto;20/06/2023;2;Propio
+P000776;C01;28/01/2023;Si;Nacido vivo;;0;Propio
+P000778;C01;18/05/2023;Si;Nacido vivo;;1;Propio
+P000779;C01;22/11/2024;Si;Aborto;09/01/2025;0;Propio
+P000779;C01;14/07/2025;No;Negativo;;;Propio
+P000779;C01;18/06/2026;Si;Aborto;17/08/2026;1;Propio
+P000780;C02;15/12/2023;;;;0;Propio
+P000780;C02;08/06/2024;Si;Nacido vivo;;2;Propio
+P000781;C02;25/03/2023;No;Negativo;;0;Propio
+P000782;C01;12/01/2024;No;Negativo;;3;Propio
+P000783;C02;16/11/2023;No;Negativo;;4;Propio
+P000783;C02;01/03/2024;No;Negativo;;3;Propio
+P000783;C02;25/07/2024;Si;Nacido vivo;;;Propio
+P000786;C01;29/06/2023;Si;Nacido vivo;;0;Propio
+P000787;C01;07/12/2024;Si;Aborto;12/02/2025;2;Propio
+P000787;C01;17/05/2025;Si;Nacido vivo;;1;Propio
+P000788;C02;23/05/2022;No;Negativo;;5;Propio
+P000788;C02;11/09/2022;No;Negativo;;4;Propio
+P000788;C02;14/12/2022;No;Negativo;;3;Propio
+P000789;C01;22/03/2023;Si;Nacido vivo;;1;Propio
+P000790;C02;18/09/2024;No;Negativo;;2;Propio
+P000790;C02;18/05/2025;No;Negativo;;4;Propio
+P000790;C02;26/11/2025;Si;Aborto;16/01/2026;3;Propio
+P000791;C02;10/06/2023;No;Negativo;;2;Propio
+P000792;C02;08/05/2024;Si;Nacido vivo;;1;Propio
+P000793;C02;23/02/2024;Si;Nacido vivo;;2;Propio
+P000796;C03;11/09/2022;No;Negativo;;1;Propio
+P000796;C03;14/05/2023;Si;Aborto;25/07/2023;3;Propio
+P000796;C03;03/09/2023;Si;Nacido vivo;;2;Propio
+P000797;C01;01/12/2022;No;Negativo;;1;Propio
+P000798;C02;26/11/2024;No;Negativo;;3;Propio
+P000798;C02;14/02/2025;Si;Aborto;19/04/2025;2;Propio
+P000798;C02;12/12/2025;No;Negativo;;1;Propio
+P000799;C03;20/11/2022;Si;Nacido vivo;;1;Propio
+P000800;C03;13/02/2024;No;Negativo;;3;Propio
+P000800;C03;22/11/2024;Si;Nacido vivo;;0;Propio
+P000801;C01;08/02/2022;Si;Nacido vivo;;2;Propio
+P000802;C01;02/03/2024;Si;Nacido vivo;;2;Propio
+P000803;C02;15/12/2022;No;Negativo;;0;Propio
+P000807;C01;26/04/2024;Si;Aborto;10/07/2024;2;Propio
+P000808;C02;16/09/2024;;;;2;Propio
+P000810;C01;06/12/2022;No;Negativo;;2;Propio
+P000810;C01;10/04/2023;No;Negativo;;1;Propio
+P000811;C01;03/01/2024;Si;Aborto;12/02/2024;2;Propio
+P000811;C01;18/04/2024;Si;Nacido vivo;;1;Propio
+P000812;C01;12/10/2024;Si;Aborto;04/12/2024;1;Propio
+P000812;C01;14/02/2025;;;;0;Propio
+P000812;C01;08/07/2025;No;Negativo;;2;Propio
+P000812;C01;09/09/2025;No;Negativo;;1;Propio
+P000812;C01;12/01/2026;Si;En curso;;2;Propio
+P000813;C03;01/04/2023;Si;Nacido vivo;;2;Propio
+P000815;C03;15/09/2024;No;Negativo;;3;Propio
+P000815;C03;31/03/2025;No;Negativo;;2;Propio
+P000816;C01;15/08/2024;;;;1;Propio
+P000816;C01;16/10/2024;Si;Nacido vivo;;0;Propio
+P000817;C01;01/03/2024;No;Negativo;;0;Propio
+P000818;C01;10/02/2023;Si;Aborto;30/03/2023;1;Propio
+P000819;C03;07/08/2024;No;Negativo;;1;Propio
+P000820;C03;03/07/2023;Si;Aborto;02/09/2023;1;Propio
+P000821;C01;24/11/2024;Si;Nacido vivo;;0;Propio
+P000823;C02;01/01/2024;No;Negativo;;0;Propio
+P000824;C03;25/11/2022;Si;Aborto;;3;Propio
+P000824;C03;26/12/2023;Si;Nacido vivo;;0;Propio
+P000825;C01;09/09/2024;Si;Nacido vivo;;0;Propio
+P000826;C01;14/01/2025;Si;Nacido vivo;;0;Propio
+P000827;C02;10/05/2023;Si;Nacido vivo;;2;Propio
+P000828;C01;07/11/2024;Si;Nacido vivo;;1;Propio
+P000829;C01;06/07/2024;Si;Nacido vivo;;0;Propio
+P000830;C01;24/06/2022;No;Negativo;;4;Propio
+P000830;C01;19/09/2022;Si;Aborto;;3;Propio
+P000830;C01;13/04/2023;Si;Nacido vivo;;2;Propio
+P000832;C01;17/10/2022;No;Negativo;;1;Propio
+P000832;C01;16/01/2023;Si;Nacido vivo;;;Propio
+P000833;C01;15/02/2024;Si;Aborto;27/04/2024;4;Propio
+P000833;C01;20/06/2024;No;Negativo;;3;Propio
+P000833;C01;29/07/2024;Si;Aborto;23/09/2024;2;Propio
+P000833;C01;08/08/2025;No;Negativo;;0;Propio
+P000834;C01;08/09/2024;Si;Nacido vivo;;0;Propio
+P000835;C01;24/01/2024;Si;Nacido vivo;;1;Propio
+P000837;C02;07/09/2024;Si;Nacido vivo;;2;Propio
+P000838;C01;12/03/2024;No;Negativo;;3;Propio
+P000838;C01;01/05/2024;;;;2;Propio
+P000839;C02;17/09/2023;No;Negativo;;;Propio
+P000840;C01;06/02/2025;Si;Nacido vivo;;2;Propio
+P000841;C01;06/09/2022;Si;Nacido vivo;;3;Propio
+P000844;C01;30/06/2022;No;Negativo;;2;Propio
+P000846;C01;15/04/2024;Si;Aborto;;1;Propio
+P000846;C01;26/07/2024;No;Negativo;;0;Propio
+P000847;C03;25/11/2021;Si;Nacido vivo;;1;Propio
+P000848;C01;14/03/2025;Si;Nacido vivo;;0;Propio
+P000849;C03;17/03/2025;Si;Nacido vivo;;2;Propio
+P000850;C03;10/04/2024;Si;Nacido vivo;;1;Propio
+P000851;C01;22/03/2024;Si;Nacido vivo;;2;Propio
+P000852;C01;21/01/2023;;;;1;Propio
+P000853;C02;15/07/2024;Si;Aborto;20/09/2024;0;Propio
+P000853;C02;21/10/2025;Si;Nacido vivo;;0;Propio
+P000855;C01;18/07/2024;Si;Aborto;19/09/2024;1;Propio
+P000855;C01;18/03/2025;Si;Nacido vivo;;0;Propio
+P000857;C01;15/03/2024;Si;Aborto;14/05/2024;3;Propio
+P000857;C01;10/10/2024;Si;Nacido vivo;;2;Propio
+P000859;C01;30/08/2021;No;Negativo;;3;Propio
+P000863;C03;17/01/2023;Si;Aborto;27/03/2023;1;Propio
+P000863;C03;04/08/2023;Si;Nacido vivo;;0;Propio
+P000864;C02;26/04/2024;Si;Nacido vivo;;1;Propio
+P000865;C01;05/06/2023;;;;1;Propio
+P000865;C01;26/09/2023;Si;Nacido vivo;;0;Propio
+P000866;C02;10/01/2023;Si;Nacido vivo;;0;Propio
+P000867;C02;13/09/2022;Si;Nacido vivo;;0;Propio
+P000868;C03;09/10/2023;No;Negativo;;4;Propio
+P000868;C03;05/12/2023;Si;Aborto;19/01/2024;3;Propio
+P000868;C03;21/03/2024;No;Negativo;;2;Propio
+P000868;C03;23/07/2024;No;Negativo;;1;Propio
+P000868;C03;11/09/2025;Si;Nacido vivo;;2;Propio
+P000869;C02;08/07/2022;No;Negativo;;2;Propio
+P000869;C02;26/09/2024;Si;Nacido vivo;;1;Propio
+P000870;C01;04/03/2024;No;Negativo;;2;Propio
+P000870;C01;04/12/2024;Si;Nacido vivo;;0;Propio
+P000871;C03;07/05/2023;No;Negativo;;3;Propio
+P000872;C02;14/12/2022;No;Negativo;;1;Propio
+P000872;C02;19/06/2023;Si;Nacido vivo;;0;Propio
+P000874;C01;30/12/2023;No;Negativo;;4;Propio
+P000874;C01;29/05/2024;No;Negativo;;3;Propio
+P000875;C01;13/12/2023;Si;Aborto;26/02/2024;1;Propio
+P000875;C01;12/06/2024;No;Negativo;;0;Propio
+P000875;C01;05/04/2026;Si;En curso;;1;Propio
+P000876;C01;01/03/2024;Si;Nacido vivo;;0;Propio
+P000877;C01;12/12/2022;No;Negativo;;4;Propio
+P000877;C01;01/02/2023;Si;Nacido vivo;;3;Propio
+P000879;C02;27/03/2026;Si;En curso;;0;Propio
+P000880;C02;29/04/2021;Si;Aborto;13/06/2021;1;Propio
+P000881;C02;04/01/2023;Si;Nacido vivo;;2;Propio
+P000882;C03;04/12/2023;Si;Nacido vivo;;2;Propio
+P000883;C01;29/12/2024;Si;Nacido vivo;;2;Propio
+P000884;C01;20/11/2022;Si;Nacido vivo;;1;Propio
+P000887;C03;28/10/2024;Si;Aborto;;3;Propio
+P000887;C03;06/06/2025;Si;Nacido vivo;;2;Propio
+P000888;C02;01/04/2023;Si;Aborto;;1;Propio
+P000888;C02;20/10/2025;Si;Nacido vivo;;0;Propio
+P000889;C02;05/03/2024;Si;Nacido vivo;;1;Propio
+P000890;C02;29/07/2023;;;;3;Propio
+P000890;C02;27/08/2023;No;Negativo;;2;Propio
+P000890;C02;30/12/2023;Si;Nacido vivo;;1;Propio
+P000892;C01;14/05/2024;Si;Nacido vivo;;0;Propio
+P000893;C02;15/11/2021;No;Negativo;;1;Propio
+P000893;C02;04/02/2022;Si;Aborto;14/04/2022;0;Propio
+P000894;C01;10/10/2023;No;Negativo;;0;Propio
+P000894;C01;06/04/2024;No;Negativo;;2;Propio
+P000894;C01;20/04/2025;Si;Aborto;31/05/2025;1;Propio
+P000894;C01;23/06/2026;;;;3;Propio
+P000895;C02;20/09/2024;No;Negativo;;3;Propio
+P000895;C02;28/11/2024;No;Negativo;;2;Propio
+P000895;C02;25/02/2025;No;Negativo;;1;Propio
+P000895;C02;22/04/2025;Si;Nacido vivo;;0;Propio
+P000898;C01;15/01/2022;No;Negativo;;0;Propio
+P000899;C01;11/01/2025;No;Negativo;;1;Propio
+P000901;C02;02/10/2023;Si;Aborto;23/11/2023;3;Propio
+P000901;C02;29/01/2025;No;Negativo;;1;Propio
+P000901;C02;22/02/2025;Si;Nacido vivo;;0;Propio
+P000902;C01;26/01/2023;Si;Nacido vivo;;1;Propio
+P000903;C02;20/09/2023;No;Negativo;;1;Propio
+P000903;C02;23/07/2024;No;Negativo;;4;Propio
+P000903;C02;06/09/2024;No;Negativo;;3;Propio
+P000904;C01;17/12/2022;No;Negativo;;1;Propio
+P000904;C01;14/08/2024;Si;Nacido vivo;;0;Propio
+P000905;C01;14/09/2023;No;Negativo;;5;Propio
+P000905;C01;14/12/2023;No;Negativo;;4;Propio
+P000905;C01;19/06/2024;Si;Nacido vivo;;3;Propio
+P000906;C01;20/06/2023;Si;Nacido vivo;;;Propio
+P000907;C02;05/02/2023;Si;Nacido vivo;;2;Propio
+P000908;C01;03/05/2024;Si;Nacido vivo;;0;Propio
+P000910;C01;02/04/2024;Si;Nacido vivo;;0;Propio
+P000911;C01;29/08/2021;Si;Aborto;;2;Propio
+P000911;C01;04/04/2022;No;Negativo;;1;Propio
+P000912;C03;11/12/2023;Si;Aborto;;1;Propio
+P000912;C03;20/07/2024;No;Negativo;;0;Propio
+P000913;C02;09/03/2024;Si;Nacido vivo;;2;Propio
+P000914;C01;25/01/2024;No;Negativo;;2;Propio
+P000915;C02;21/01/2023;Si;Nacido vivo;;3;Propio
+P000916;C01;19/01/2025;Si;Nacido vivo;;1;Propio
+P000918;C02;22/12/2022;Si;Nacido vivo;;0;Propio
+P000919;C02;10/03/2023;No;Negativo;;3;Propio
+P000919;C02;20/07/2023;Si;Nacido vivo;;2;Propio
+P000921;C01;04/07/2022;Si;Aborto;;0;Propio
+P000921;C01;01/07/2023;No;Negativo;;1;Propio
+P000922;C03;29/10/2023;No;Negativo;;1;Propio
+P000923;C01;13/03/2022;Si;Nacido vivo;;1;Propio
+P000924;C02;07/03/2024;No;Negativo;;0;Propio
+P000925;C02;10/03/2023;Si;Aborto;;3;Propio
+P000925;C02;31/05/2023;No;Negativo;;2;Propio
+P000927;C01;29/01/2025;No;Negativo;;1;Propio
+P000927;C01;22/03/2025;Si;Nacido vivo;;0;Propio
+P000929;C01;14/08/2023;;;;0;Propio
+P000930;C02;23/09/2024;Si;Aborto;23/11/2024;1;Propio
+P000930;C02;25/04/2025;No;Negativo;;5;Propio
+P000930;C02;11/06/2025;No;Negativo;;4;Propio
+P000930;C02;31/01/2026;No;Negativo;;3;Propio
+P000930;C02;24/06/2026;Si;En curso;;;Propio
+P000932;C01;03/09/2023;No;Negativo;;1;Propio
+P000932;C01;17/10/2023;No;Negativo;;0;Propio
+P000933;C01;22/11/2024;Si;Nacido vivo;;0;Propio
+P000934;C02;15/02/2023;No;Negativo;;1;Propio
+P000934;C02;21/04/2023;Si;Nacido vivo;;0;Propio
+P000935;C03;14/04/2023;No;Negativo;;3;Propio
+P000935;C03;24/06/2023;Si;Nacido vivo;;2;Propio
+P000936;C01;19/08/2024;No;Negativo;;1;Propio
+P000937;C01;12/11/2021;No;Negativo;;2;Propio
+P000937;C01;12/06/2022;Si;Nacido vivo;;2;Propio
+P000939;C01;03/01/2024;No;Negativo;;4;Propio
+P000939;C01;14/02/2024;No;Negativo;;3;Propio
+P000939;C01;15/04/2024;Si;Nacido vivo;;2;Propio
+P000940;C03;14/08/2022;Si;Nacido vivo;;0;Propio
+P000942;C01;26/04/2022;Si;Nacido vivo;;0;Propio
+P000943;C01;28/04/2022;Si;Nacido vivo;;1;Propio
+P000944;C03;01/09/2025;;;;3;Propio
+P000944;C03;07/12/2025;No;Negativo;;2;Propio
+P000944;C03;06/05/2026;Si;En curso;;1;Propio
+P000946;C01;21/04/2023;No;Negativo;;1;Propio
+P000948;C01;20/03/2022;Si;Nacido vivo;;3;Propio
+P000949;C02;08/11/2025;Si;Nacido vivo;;0;Propio
+P000950;C03;23/09/2025;No;Negativo;;1;Propio
+P000950;C03;19/12/2025;No;Negativo;;0;Propio
+P000951;C02;08/06/2022;Si;Nacido vivo;;1;Propio
+P000952;C03;27/03/2022;No;Negativo;;1;Propio
+P000952;C03;19/04/2022;Si;Aborto;;0;Propio
+P000952;C03;09/03/2023;No;Negativo;;0;Propio
+P000954;C02;26/05/2022;Si;Aborto;23/07/2022;2;Propio
+P000955;C03;12/02/2025;Si;Nacido vivo;;1;Propio
+P000956;C02;09/10/2022;No;Negativo;;4;Propio
+P000956;C02;23/10/2022;Si;Nacido vivo;;3;Propio
+P000957;C02;22/11/2024;Si;Nacido vivo;;0;Propio
+P000958;C01;14/09/2021;Si;Aborto;29/10/2021;3;Propio
+P000958;C01;08/05/2022;Si;Nacido vivo;;1;Propio
+P000959;C01;02/08/2024;No;Negativo;;0;Propio
+P000960;C03;05/12/2024;No;Negativo;;1;Propio
+P000961;C01;27/02/2023;No;Negativo;;0;Propio
+P000961;C01;11/09/2023;No;Negativo;;2;Propio
+P000961;C01;09/11/2023;No;Negativo;;1;Propio
+P000961;C01;14/01/2024;No;Negativo;;0;Propio
+P000961;C01;20/01/2026;;;;0;Propio
+P000962;C01;23/04/2024;No;Negativo;;1;Propio
+P000962;C01;03/04/2025;No;Negativo;;3;Propio
+P000962;C01;20/08/2025;Si;Nacido vivo;;2;Propio
+P000964;C03;29/10/2023;Si;Nacido vivo;;1;Propio
+P000966;C02;15/06/2021;Si;Nacido vivo;;0;Propio
+P000967;C02;14/06/2023;Si;Nacido vivo;;0;Propio
+P000969;C03;26/07/2024;Si;Nacido vivo;;1;Propio
+P000970;C01;30/08/2022;Si;Nacido vivo;;2;Propio
+P000972;C01;26/05/2024;Si;Nacido vivo;;2;Propio
+P000973;C02;04/01/2023;Si;Nacido vivo;;1;Propio
+P000975;C01;01/11/2024;Si;Nacido vivo;;1;Propio
+P000976;C01;27/05/2022;Si;Aborto;03/08/2022;4;Propio
+P000976;C01;24/01/2025;No;Negativo;;3;Propio
+P000976;C01;01/07/2025;Si;Aborto;30/08/2025;2;Propio
+P000976;C01;21/01/2026;Si;Aborto;05/03/2026;1;Propio
+P000977;C03;07/10/2022;No;Negativo;;4;Propio
+P000977;C03;25/01/2023;Si;Nacido vivo;;3;Propio
+P000978;C02;16/10/2023;Si;Nacido vivo;;0;Propio
+P000979;C02;18/08/2023;Si;Aborto;30/09/2023;3;Propio
+P000979;C02;21/03/2024;;;;2;Propio
+P000980;C02;13/11/2024;Si;Nacido vivo;;1;Propio
+P000981;C01;21/10/2023;Si;Nacido vivo;;0;Propio
+P000982;C01;15/08/2025;;;;5;Propio
+P000982;C01;04/11/2025;No;Negativo;;4;Propio
+P000982;C01;04/12/2025;No;Negativo;;3;Propio
+P000982;C01;20/02/2026;No;Negativo;;2;Propio
+P000983;C03;17/12/2024;No;Negativo;;1;Propio
+P000983;C03;25/07/2026;No;Negativo;;0;Propio
+P000984;C01;08/09/2024;Si;Nacido vivo;;0;Propio
+P000985;C02;26/05/2023;No;Negativo;;0;Propio
+P000986;C01;01/06/2023;No;Negativo;;0;Propio
+P000986;C01;12/12/2023;Si;Nacido vivo;;1;Propio
+P000987;C02;30/11/2023;Si;Nacido vivo;;1;Propio
+P000989;C01;21/03/2021;No;Negativo;;2;Propio
+P000990;C01;26/07/2022;No;Negativo;;;Propio
+P000990;C01;18/10/2022;No;Negativo;;4;Propio
+P000990;C01;28/11/2022;No;Negativo;;3;Propio
+P000990;C01;01/04/2023;No;Negativo;;2;Propio
+P000990;C01;04/05/2023;Si;Nacido vivo;;1;Propio
+P000991;C03;10/02/2022;Si;Nacido vivo;;0;Propio
+P000992;C01;23/02/2024;Si;Nacido vivo;;0;Propio
+P000993;C02;25/06/2023;No;Negativo;;2;Propio
+P000993;C02;28/08/2023;Si;Nacido vivo;;1;Propio
+P000994;C01;18/10/2024;Si;Nacido vivo;;3;Propio
+P000995;C01;01/04/2025;Si;Aborto;;1;Propio
+P000995;C01;10/08/2025;Si;Nacido vivo;;0;Propio
+P000996;C01;14/10/2024;No;Negativo;;4;Propio
+P000996;C01;19/12/2024;Si;Aborto;;3;Propio
+P000997;C01;26/02/2023;Si;Nacido vivo;;2;Propio
+P000998;C01;02/05/2023;Si;Nacido vivo;;1;Propio
+P000999;C02;08/01/2025;Si;Nacido vivo;;3;Propio
+P001000;C03;04/09/2023;Si;Aborto;;2;Propio
+P001000;C03;06/03/2024;Si;Nacido vivo;;1;Propio
+P001001;C03;15/12/2023;Si;Nacido vivo;;0;Propio
+P001002;C01;28/04/2022;No;Negativo;;2;Propio
+P001002;C01;24/06/2022;No;Negativo;;1;Propio
+P001003;C01;28/08/2021;No;Negativo;;1;Propio
+P001003;C01;23/11/2021;Si;Nacido vivo;;0;Propio
+P001004;C02;25/05/2022;No;Negativo;;1;Propio
+P001005;C01;21/01/2025;Si;Nacido vivo;;2;Propio
+P001006;C02;07/12/2024;Si;Nacido vivo;;0;Propio
+P001008;C02;13/01/2025;No;Negativo;;1;Propio
+P001009;C01;30/10/2023;No;Negativo;;2;Propio
+P001009;C01;10/04/2024;Si;Nacido vivo;;0;Propio
+P001010;C01;03/08/2022;No;Negativo;;2;Propio
+P001010;C01;10/02/2023;No;Negativo;;1;Propio
+P001010;C01;03/04/2023;Si;Nacido vivo;;0;Propio
+P001011;C01;19/09/2024;Si;Aborto;21/11/2024;3;Propio
+P001011;C01;30/12/2025;No;Negativo;;2;Propio
+P001011;C01;10/03/2026;No;Negativo;;1;Propio
+P001013;C01;22/06/2023;Si;Nacido vivo;;0;Propio
+P001014;C03;01/06/2023;No;Negativo;;3;Propio
+P001014;C03;27/08/2023;No;Negativo;;2;Propio
+P001014;C03;31/10/2025;No;Negativo;;1;Propio
+P001014;C03;21/09/2026;No;Negativo;;;Propio
+P001015;C03;05/06/2022;Si;Nacido vivo;;0;Propio
+P001016;C03;10/04/2023;;;;0;Propio
+P001016;C03;09/09/2023;Si;Nacido vivo;;;Propio
+P001018;C03;26/05/2021;Si;Aborto;29/07/2021;3;Propio
+P001019;C01;27/01/2023;Si;Nacido vivo;;2;Propio
+P001020;C02;09/01/2025;Si;Aborto;24/03/2025;0;Propio
+P001021;C01;02/07/2024;Si;Nacido vivo;;3;Propio
+P001022;C01;22/09/2024;Si;Nacido vivo;;1;Propio
+P001023;C02;04/02/2023;No;Negativo;;0;Propio
+P001023;C02;30/07/2023;Si;Aborto;24/09/2023;0;Propio
+P001024;C01;23/02/2025;No;Negativo;;4;Propio
+P001024;C01;26/05/2025;Si;Aborto;09/08/2025;3;Propio
+P001025;C02;01/05/2024;Si;Nacido vivo;;0;Propio
+P001027;C01;11/10/2022;No;Negativo;;2;Propio
+P001027;C01;09/02/2023;No;Negativo;;1;Propio
+P001027;C01;29/07/2023;Si;Nacido vivo;;2;Propio
+P001028;C01;26/01/2023;No;Negativo;;0;Propio
+P001029;C01;08/12/2024;Si;Aborto;04/02/2025;2;Propio
+P001029;C01;30/01/2026;No;Negativo;;1;Propio
+P001029;C01;15/03/2026;Si;Aborto;;0;Propio
+P001030;C01;04/05/2023;Si;Aborto;18/06/2023;2;Propio
+P001030;C01;24/09/2023;Si;Nacido vivo;;1;Propio
+P001031;C01;17/10/2021;Si;Nacido vivo;;3;Propio
+P001032;C03;17/08/2023;Si;Nacido vivo;;3;Propio
+P001033;C01;01/04/2026;Si;En curso;;2;Propio
+P001034;C01;18/01/2022;Si;Nacido vivo;;2;Propio
+P001035;C01;01/01/2023;No;Negativo;;3;Propio
+P001035;C01;11/03/2023;No;Negativo;;2;Propio
+P001035;C01;03/05/2023;;;;;Propio
+P001037;C02;06/12/2024;No;Negativo;;1;Propio
+P001037;C02;15/05/2025;Si;Aborto;22/07/2025;0;Propio
+P001037;C02;09/03/2026;No;Negativo;;1;Propio
+P001038;C01;15/02/2024;Si;Nacido vivo;;3;Propio
+P001039;C03;22/03/2023;Si;Nacido vivo;;;Propio
+P001042;C01;02/12/2023;Si;Nacido vivo;;3;Propio
+P001044;C01;26/10/2023;Si;Nacido vivo;;1;Propio
+P001045;C01;12/04/2023;Si;Nacido vivo;;3;Propio
+P001046;C02;19/01/2023;No;Negativo;;2;Propio
+P001047;C01;01/04/2025;;;;1;Propio
+P001047;C01;03/03/2026;Si;En curso;;0;Propio
+P001049;C01;23/11/2024;Si;Aborto;07/01/2025;3;Propio
+P001050;C02;30/11/2023;No;Negativo;;1;Propio
+P001050;C02;31/03/2024;Si;Nacido vivo;;0;Propio
+P001051;C01;09/02/2024;Si;Nacido vivo;;0;Propio
+P001053;C02;16/07/2023;Si;Nacido vivo;;1;Propio
+P001054;C01;27/08/2023;Si;Aborto;02/11/2023;0;Propio
+P001054;C01;17/10/2024;No;Negativo;;0;Propio
+P001054;C01;03/07/2025;Si;Nacido vivo;;0;Propio
+P001055;C01;02/09/2023;Si;Nacido vivo;;2;Propio
+P001056;C02;30/07/2024;Si;Nacido vivo;;0;Propio
+P001057;C03;10/08/2022;No;Negativo;;0;Propio
+P001059;C03;23/04/2023;Si;Nacido vivo;;0;Propio
+P001061;C03;20/12/2021;Si;Nacido vivo;;0;Propio
+P001063;C03;03/11/2021;No;Negativo;;0;Propio
+P001064;C02;28/06/2022;;;;2;Propio
+P001065;C02;18/03/2022;;;;0;Propio
+P001066;C03;03/09/2022;No;Negativo;;;Propio
+P001066;C03;30/09/2022;;;;4;Propio
+P001066;C03;29/12/2022;;;;3;Propio
+P001067;C01;11/07/2025;Si;Nacido vivo;;1;Propio
+P001068;C03;26/05/2023;Si;Nacido vivo;;0;Propio
+P001069;C03;02/04/2024;No;Negativo;;3;Propio
+P001069;C03;15/06/2024;No;Negativo;;2;Propio
+P001069;C03;30/09/2024;Si;Nacido vivo;;;Propio
+P001071;C01;31/05/2023;Si;Nacido vivo;;2;Propio
+P001072;C02;09/08/2022;Si;Nacido vivo;;1;Propio
+P001073;C02;15/08/2024;Si;Nacido vivo;;2;Propio
+P001074;C02;01/08/2024;No;Negativo;;;Propio
+P001076;C01;02/03/2025;Si;Aborto;06/05/2025;4;Propio
+P001076;C01;10/08/2025;Si;Aborto;02/10/2025;3;Propio
+P001077;C01;14/10/2025;;;;3;Propio
+P001077;C01;10/01/2026;Si;En curso;;2;Propio
+P001078;C02;02/05/2021;;;;2;Propio
+P001081;C01;11/10/2021;Si;Nacido vivo;;1;Propio
+P001082;C01;14/04/2024;Si;Aborto;27/06/2024;2;Propio
+P001082;C01;25/10/2024;Si;Nacido vivo;;1;Propio
+P001083;C03;03/10/2023;Si;Aborto;;1;Propio
+P001084;C02;27/07/2023;Si;Nacido vivo;;0;Propio
+P001085;C01;07/04/2021;;;;0;Propio
+P001086;C01;17/01/2024;No;Negativo;;2;Propio
+P001089;C02;17/06/2024;Si;Nacido vivo;;3;Propio
+P001092;C02;06/10/2023;No;Negativo;;1;Propio
+P001092;C02;01/11/2023;Si;Nacido vivo;;0;Propio
+P001093;C03;28/09/2022;Si;Nacido vivo;;1;Propio
+P001094;C01;03/08/2024;No;Negativo;;1;Propio
+P001094;C01;08/03/2025;;;;0;Propio
+P001095;C01;24/06/2023;No;Negativo;;2;Propio
+P001096;C01;11/02/2025;No;Negativo;;0;Propio
+P001096;C01;14/07/2025;Si;Aborto;04/09/2025;3;Propio
+P001096;C01;28/04/2026;No;Negativo;;2;Propio
+P001098;C01;19/03/2025;No;Negativo;;0;Propio
+P001099;C01;04/09/2024;No;Negativo;;2;Propio
+P001099;C01;23/10/2024;Si;Nacido vivo;;1;Propio
+P001100;C02;09/02/2025;Si;Nacido vivo;;0;Propio
+P001104;C01;12/10/2024;Si;Nacido vivo;;1;Propio
+P001106;C01;09/08/2024;No;Negativo;;0;Propio
+P001107;C01;27/12/2023;No;Negativo;;3;Propio
+P001107;C01;19/11/2024;No;Negativo;;2;Propio
+P001107;C01;03/04/2025;Si;Nacido vivo;;;Propio
+P001108;C01;16/11/2024;Si;Nacido vivo;;0;Propio
+P001109;C01;17/04/2025;Si;Aborto;12/06/2025;0;Propio
+P001109;C01;24/04/2026;No;Negativo;;2;Propio
+P001111;C02;23/06/2022;No;Negativo;;1;Propio
+P001112;C03;17/09/2023;No;Negativo;;4;Propio
+P001112;C03;15/01/2024;;;;3;Propio
+P001112;C03;01/04/2024;Si;Nacido vivo;;2;Propio
+P001113;C01;26/01/2024;No;Negativo;;6;Propio
+P001113;C01;18/03/2024;Si;Aborto;17/05/2024;5;Propio
+P001113;C01;26/06/2024;Si;Aborto;09/09/2024;4;Propio
+P001113;C01;03/11/2024;No;Negativo;;3;Propio
+P001114;C02;07/07/2024;Si;Aborto;;2;Propio
+P001114;C02;21/10/2024;No;Negativo;;1;Propio
+P001114;C02;17/03/2025;Si;Nacido vivo;;0;Propio
+P001117;C01;21/10/2022;No;Negativo;;2;Propio
+P001117;C01;06/03/2023;Si;Nacido vivo;;1;Propio
+P001118;C02;12/03/2024;Si;Nacido vivo;;1;Propio
+P001119;C03;05/03/2025;Si;Aborto;28/04/2025;4;Propio
+P001119;C03;03/11/2025;Si;Nacido vivo;;3;Propio
+P001120;C01;13/04/2023;Si;Nacido vivo;;3;Propio
+P001121;C03;12/03/2022;;;;3;Propio
+P001121;C03;01/08/2022;No;Negativo;;2;Propio
+P001121;C03;09/11/2022;Si;Aborto;18/01/2023;1;Propio
+P001121;C03;02/07/2023;No;Negativo;;2;Propio
+P001121;C03;15/08/2023;Si;Aborto;;1;Propio
+P001121;C03;24/01/2024;Si;Nacido vivo;;0;Propio
+P001122;C02;19/10/2022;No;Negativo;;1;Propio
+P001124;C01;28/04/2022;Si;Nacido vivo;;0;Propio
+P001125;C02;12/11/2023;No;Negativo;;3;Propio
+P001125;C02;26/01/2024;Si;Nacido vivo;;2;Propio
+P001126;C03;02/12/2022;No;Negativo;;0;Propio
+P001126;C03;03/09/2023;No;Negativo;;4;Propio
+P001126;C03;28/09/2023;Si;Aborto;07/11/2023;3;Propio
+P001126;C03;27/01/2025;Si;Nacido vivo;;0;Propio
+P001128;C01;05/12/2024;Si;Nacido vivo;;3;Propio
+P001130;C03;19/11/2023;No;Negativo;;;Propio
+P001130;C03;05/01/2024;No;Negativo;;1;Propio
+P001130;C03;19/05/2024;No;Negativo;;0;Propio
+P001131;C01;26/06/2022;Si;Nacido vivo;;0;Propio
+P001133;C03;16/11/2023;No;Negativo;;1;Propio
+P001133;C03;28/02/2024;;;;0;Propio
+P001134;C01;20/02/2026;Si;En curso;;2;Propio
+P001135;C01;05/09/2022;No;Negativo;;4;Propio
+P001135;C01;27/11/2022;Si;Nacido vivo;;3;Propio
+P001136;C02;15/07/2023;Si;Nacido vivo;;0;Propio
+P001138;C02;22/11/2022;Si;Nacido vivo;;3;Propio
+P001139;C02;14/12/2023;No;Negativo;;4;Propio
+P001139;C02;12/02/2024;;;;3;Propio
+P001140;C01;04/10/2021;Si;Aborto;01/12/2021;1;Propio
+P001140;C01;18/05/2022;Si;Aborto;13/07/2022;2;Propio
+P001140;C01;18/02/2023;Si;Nacido vivo;;3;Propio
+P001141;C03;28/06/2023;No;Negativo;;3;Propio
+P001141;C03;12/08/2023;Si;Aborto;06/10/2023;2;Propio
+P001141;C03;07/02/2024;Si;Aborto;19/03/2024;1;Propio
+P001141;C03;08/07/2024;No;Negativo;;;Propio
+P001141;C03;13/05/2025;No;Negativo;;0;Propio
+P001143;C03;03/02/2022;Si;Nacido vivo;;1;Propio
+P001144;C01;20/01/2025;No;Negativo;;2;Propio
+P001145;C03;19/02/2025;Si;Nacido vivo;;0;Propio
+P001146;C03;18/12/2024;No;Negativo;;1;Propio
+P001147;C02;25/09/2023;;;;;Propio
+P001148;C01;06/10/2022;Si;Nacido vivo;;1;Propio
+P001149;C01;12/11/2022;Si;Nacido vivo;;3;Propio
+P001151;C02;05/03/2024;No;Negativo;;0;Propio
+P001152;C02;05/06/2024;No;Negativo;;4;Propio
+P001152;C02;06/09/2024;No;Negativo;;3;Propio
+P001152;C02;29/10/2024;No;Negativo;;2;Propio
+P001152;C02;22/08/2025;;;;1;Propio
+P001153;C03;01/02/2024;Si;Nacido vivo;;1;Propio
+P001154;C01;29/03/2024;Si;Nacido vivo;;1;Propio
+P001155;C01;29/05/2024;Si;Nacido vivo;;0;Propio
+P001156;C02;09/08/2025;Si;Aborto;01/10/2025;0;Propio
+P001157;C01;22/06/2024;Si;Nacido vivo;;2;Propio
+P001158;C01;01/11/2021;Si;Aborto;;2;Propio
+P001158;C01;28/04/2022;Si;Nacido vivo;;1;Propio
+P001159;C01;26/02/2025;;;;2;Propio
+P001159;C01;30/06/2026;Si;En curso;;1;Propio
+P001160;C03;06/04/2023;No;Negativo;;2;Propio
+P001160;C03;04/07/2023;No;Negativo;;1;Propio
+P001160;C03;18/09/2023;Si;Nacido vivo;;0;Propio
+P001161;C03;14/07/2022;No;Negativo;;2;Propio
+P001161;C03;08/08/2022;No;Negativo;;1;Propio
+P001162;C01;23/06/2023;No;Negativo;;4;Propio
+P001162;C01;16/09/2023;No;Negativo;;3;Propio
+P001162;C01;04/10/2023;;;;2;Propio
+P001162;C01;04/11/2023;Si;Nacido vivo;;1;Propio
+P001163;C01;24/02/2024;Si;Nacido vivo;;0;Propio
+P001164;C03;20/01/2025;Si;Nacido vivo;;2;Propio
+P001165;C03;22/09/2023;Si;Nacido vivo;;0;Propio
+P001166;C03;02/09/2023;Si;Nacido vivo;;2;Propio
+P001167;C03;04/07/2023;Si;Nacido vivo;;2;Propio
+P001168;C01;15/02/2023;No;Negativo;;0;Propio
+P001169;C01;30/12/2022;No;Negativo;;;Propio
+P001171;C02;29/03/2025;No;Negativo;;1;Propio
+P001173;C01;26/01/2024;No;Negativo;;5;Propio
+P001173;C01;25/05/2024;Si;Aborto;;4;Propio
+P001173;C01;11/09/2024;No;Negativo;;3;Propio
+P001173;C01;08/03/2025;Si;Aborto;10/05/2025;2;Propio
+P001173;C01;08/05/2026;;;;1;Propio
+P001173;C01;31/07/2026;Si;Aborto;;0;Propio
+P001174;C02;18/03/2024;No;Negativo;;1;Propio
+P001174;C02;30/05/2024;Si;Aborto;21/07/2024;0;Propio
+P001175;C02;26/08/2022;Si;Nacido vivo;;3;Propio
+P001176;C01;17/03/2024;No;Negativo;;3;Propio
+P001176;C01;09/09/2024;No;Negativo;;4;Propio
+P001176;C01;10/12/2024;Si;Nacido vivo;;3;Propio
+P001178;C02;04/07/2024;No;Negativo;;1;Propio
+P001178;C02;10/08/2024;Si;Nacido vivo;;0;Propio
+P001179;C01;04/03/2024;No;Negativo;;2;Propio
+P001179;C01;08/04/2024;Si;Aborto;22/05/2024;1;Propio
+P001179;C01;28/10/2024;Si;Aborto;;1;Propio
+P001179;C01;29/06/2026;No;Negativo;;0;Propio
+P001180;C03;20/10/2023;No;Negativo;;5;Propio
+P001180;C03;15/12/2023;No;Negativo;;4;Propio
+P001180;C03;24/07/2024;Si;Aborto;;3;Propio
+P001180;C03;20/08/2025;No;Negativo;;2;Propio
+P001180;C03;21/06/2026;No;Negativo;;3;Propio
+P001181;C03;31/10/2021;No;Negativo;;3;Propio
+P001181;C03;12/12/2021;Si;Nacido vivo;;2;Propio
+P001182;C01;03/02/2025;No;Negativo;;1;Propio
+P001182;C01;20/05/2026;Si;Aborto;18/07/2026;1;Propio
+P001183;C03;20/12/2024;Si;Aborto;25/02/2025;2;Propio
+P001184;C03;12/04/2022;No;Negativo;;2;Propio
+P001185;C02;23/06/2023;Si;Nacido vivo;;1;Propio
+P001186;C03;01/09/2021;Si;Nacido vivo;;2;Propio
+P001187;C01;29/06/2024;No;Negativo;;4;Propio
+P001187;C01;23/07/2024;Si;Nacido vivo;;3;Propio
+P001188;C02;30/06/2021;Si;Aborto;13/09/2021;5;Propio
+P001188;C02;28/01/2022;No;Negativo;;4;Propio
+P001188;C02;05/09/2022;No;Negativo;;3;Propio
+P001188;C02;27/12/2022;Si;Nacido vivo;;1;Propio
+P001189;C02;02/05/2023;No;Negativo;;;Propio
+P001190;C03;10/06/2022;No;Negativo;;4;Propio
+P001190;C03;05/07/2022;No;Negativo;;3;Propio
+P001190;C03;16/08/2022;Si;Nacido vivo;;2;Propio
+P001192;C01;01/07/2022;No;Negativo;;6;Propio
+P001192;C01;14/08/2022;No;Negativo;;5;Propio
+P001192;C01;26/11/2022;No;Negativo;;4;Propio
+P001192;C01;07/02/2023;No;Negativo;;3;Propio
+P001192;C01;01/05/2023;Si;Nacido vivo;;2;Propio
+P001193;C03;13/07/2023;No;Negativo;;;Propio
+P001193;C03;08/12/2023;No;Negativo;;3;Propio
+P001194;C02;02/06/2023;Si;Nacido vivo;;0;Propio
+P001195;C01;21/11/2022;Si;Aborto;08/01/2023;0;Propio
+P001195;C01;23/10/2023;Si;Nacido vivo;;0;Propio
+P001197;C01;28/05/2022;Si;Aborto;18/07/2022;2;Propio
+P001198;C03;18/06/2022;Si;Nacido vivo;;3;Propio
+P001200;C01;20/09/2022;Si;Nacido vivo;;2;Propio
+P001201;C01;31/03/2022;No;Negativo;;5;Propio
+P001201;C01;04/07/2022;No;Negativo;;4;Propio
+P001201;C01;15/08/2022;No;Negativo;;3;Propio
+P001201;C01;20/11/2022;No;Negativo;;2;Propio
+P001201;C01;11/04/2023;Si;Aborto;12/06/2023;1;Propio
+P001201;C01;26/02/2024;No;Negativo;;1;Propio
+P001202;C02;04/07/2022;Si;Nacido vivo;;3;Propio
+P001203;C02;14/04/2024;;;;1;Propio
+P001203;C02;12/08/2024;No;Negativo;;0;Propio
+P001203;C02;05/04/2025;Si;Nacido vivo;;1;Propio
+P001206;C01;01/06/2024;Si;Nacido vivo;;0;Propio
+P001207;C02;22/10/2024;Si;Nacido vivo;;3;Propio
+P001208;C01;07/06/2023;Si;Nacido vivo;;2;Propio
+P001209;C01;06/10/2022;Si;Nacido vivo;;2;Propio
+P001210;C01;13/02/2024;Si;Aborto;21/04/2024;0;Propio
+P001211;C01;22/05/2022;No;Negativo;;2;Propio
+P001211;C01;14/08/2022;No;Negativo;;;Propio
+P001211;C01;29/10/2022;Si;Nacido vivo;;0;Propio
+P001212;C01;05/04/2024;Si;Aborto;20/05/2024;1;Propio
+P001213;C01;29/02/2024;Si;Nacido vivo;;0;Propio
+P001217;C02;17/11/2024;No;Negativo;;5;Propio
+P001217;C02;22/12/2024;;;;4;Propio
+P001217;C02;26/01/2025;Si;Nacido vivo;;3;Propio
+P001218;C03;12/11/2025;Si;Aborto;07/01/2026;0;Propio
+P001219;C02;21/02/2024;No;Negativo;;3;Propio
+P001221;C01;30/01/2023;No;Negativo;;0;Propio
+P001221;C01;11/07/2023;Si;Nacido vivo;;3;Propio
+P001223;C03;11/03/2024;Si;Nacido vivo;;3;Propio
+P001225;C01;25/02/2025;Si;Nacido vivo;;1;Propio
+P001227;C01;13/06/2024;No;Negativo;;6;Propio
+P001227;C01;02/10/2024;;;;5;Propio
+P001227;C01;11/01/2025;;;;4;Propio
+P001227;C01;21/03/2025;Si;Nacido vivo;;3;Propio
+P001228;C01;07/01/2023;Si;Nacido vivo;;1;Propio
+P001229;C01;07/08/2024;No;Negativo;;;Propio
+P001229;C01;02/11/2024;No;Negativo;;1;Propio
+P001230;C02;23/10/2021;No;Negativo;;5;Propio
+P001230;C02;28/12/2021;No;Negativo;;4;Propio
+P001230;C02;06/02/2022;Si;Nacido vivo;;3;Propio
+P001231;C03;09/01/2022;No;Negativo;;;Propio
+P001232;C01;05/12/2022;Si;Nacido vivo;;0;Propio
+P001233;C03;30/11/2024;Si;Nacido vivo;;1;Propio
+P001234;C01;18/12/2024;Si;Nacido vivo;;1;Propio
+P001235;C01;11/11/2023;Si;Nacido vivo;;1;Propio
+P001236;C03;04/04/2022;Si;Nacido vivo;;0;Propio
+P001237;C01;01/07/2023;Si;Nacido vivo;;1;Propio
+P001238;C01;14/04/2022;Si;Nacido vivo;;0;Propio
+P001239;C02;17/07/2024;Si;Nacido vivo;;1;Propio
+P001240;C01;14/09/2022;No;Negativo;;1;Propio
+P001242;C01;21/03/2023;Si;Nacido vivo;;1;Propio
+P001243;C01;11/10/2022;Si;Nacido vivo;;3;Propio
+P001245;C01;09/02/2025;No;Negativo;;0;Propio
+P001247;C01;16/03/2025;Si;Nacido vivo;;0;Propio
+P001248;C01;04/11/2023;No;Negativo;;3;Propio
+P001248;C01;22/02/2024;No;Negativo;;2;Propio
+P001248;C01;22/07/2024;Si;Aborto;29/09/2024;1;Propio
+P001249;C01;23/06/2024;No;Negativo;;1;Propio
+P001249;C01;18/07/2024;Si;Nacido vivo;;0;Propio
+P001250;C01;08/12/2023;Si;Nacido vivo;;2;Propio
+P001251;C03;12/02/2023;Si;Aborto;25/04/2023;0;Propio
+P001251;C03;19/08/2023;Si;Nacido vivo;;1;Propio
+P001253;C02;13/06/2022;No;Negativo;;3;Propio
+P001253;C02;17/08/2022;Si;Nacido vivo;;2;Propio
+P001254;C01;21/10/2023;No;Negativo;;1;Propio
+P001254;C01;20/01/2024;Si;Aborto;;0;Propio
+P001254;C01;29/11/2024;Si;Nacido vivo;;3;Propio
+P001255;C03;04/11/2021;Si;Nacido vivo;;2;Propio
+P001257;C03;25/03/2021;No;Negativo;;0;Propio
+P001258;C01;25/09/2023;Si;Nacido vivo;;0;Propio
+P001261;C01;15/12/2021;Si;Nacido vivo;;3;Propio
+P001262;C01;01/02/2022;Si;Nacido vivo;;;Propio
+P001263;C02;17/03/2021;No;Negativo;;4;Propio
+P001263;C02;27/09/2021;No;Negativo;;3;Propio
+P001263;C02;28/12/2022;No;Negativo;;2;Propio
+P001263;C02;17/05/2023;Si;Aborto;;1;Propio
+P001263;C02;27/04/2024;No;Negativo;;1;Propio
+P001264;C01;03/08/2022;Si;Aborto;07/10/2022;1;Propio
+P001264;C01;07/12/2022;Si;Nacido vivo;;0;Propio
+P001266;C03;10/01/2023;No;Negativo;;0;Propio
+P001267;C01;05/02/2024;No;Negativo;;1;Propio
+P001267;C01;20/10/2024;Si;Nacido vivo;;0;Propio
+P001268;C01;07/10/2022;Si;Aborto;;1;Propio
+P001268;C01;20/04/2023;No;Negativo;;0;Propio
+P001269;C02;25/03/2025;Si;Aborto;19/05/2025;0;Propio
+P001270;C03;27/07/2024;Si;Nacido vivo;;0;Propio
+P001271;C01;10/12/2023;Si;Nacido vivo;;1;Propio
+P001273;C03;25/12/2024;Si;Nacido vivo;;2;Propio
+P001276;C01;12/05/2024;Si;Nacido vivo;;3;Propio
+P001278;C01;30/01/2022;No;Negativo;;0;Propio
+P001279;C02;23/12/2024;Si;Nacido vivo;;2;Propio
+P001280;C02;05/11/2023;No;Negativo;;1;Propio
+P001281;C01;06/04/2024;Si;Nacido vivo;;1;Propio
+P001282;C01;10/01/2024;Si;Nacido vivo;;2;Propio
+P001283;C01;21/06/2024;Si;Nacido vivo;;1;Propio
+P001284;C03;14/01/2024;No;Negativo;;;Propio
+P001285;C01;03/06/2024;No;Negativo;;2;Propio
+P001285;C01;15/08/2024;Si;Nacido vivo;;1;Propio
+P001286;C02;07/05/2024;No;Negativo;;2;Propio
+P001286;C02;09/07/2025;No;Negativo;;0;Propio
+P001286;C02;07/01/2026;No;Negativo;;0;Propio
+P001288;C01;28/03/2024;Si;Nacido vivo;;1;Propio
+P001289;C03;03/12/2023;No;Negativo;;0;Propio
+P001290;C01;03/04/2024;Si;Nacido vivo;;1;Propio
+P001292;C01;01/05/2024;Si;Aborto;24/06/2024;2;Propio
+P001292;C01;28/12/2025;Si;Nacido vivo;;1;Propio
+P001293;C02;20/04/2022;Si;Nacido vivo;;0;Propio
+P001295;C02;18/04/2023;Si;Nacido vivo;;1;Propio
+P001296;C01;27/10/2021;Si;Nacido vivo;;1;Propio
+P001297;C01;31/01/2023;No;Negativo;;1;Propio
+P001299;C02;02/02/2024;Si;Nacido vivo;;2;Propio
+P001301;C01;13/03/2024;No;Negativo;;1;Propio
+P001301;C01;26/01/2025;No;Negativo;;;Propio
+P001302;C03;09/01/2024;Si;Aborto;19/02/2024;;Propio
+P001302;C03;29/03/2024;Si;Nacido vivo;;0;Propio
+P001303;C01;22/12/2023;No;Negativo;;0;Propio
+P001303;C01;26/10/2024;;;;0;Propio
+P001304;C03;15/02/2023;;;;4;Propio
+P001304;C03;12/12/2023;Si;Nacido vivo;;3;Propio
+P001306;C03;26/12/2021;Si;Aborto;;0;Propio
+P001306;C03;15/06/2022;Si;Nacido vivo;;3;Propio
+P001308;C02;03/11/2024;No;Negativo;;0;Propio
+P001308;C02;26/03/2025;Si;Nacido vivo;;0;Propio
+P001310;C01;25/05/2025;Si;Nacido vivo;;2;Propio
+P001311;C01;19/05/2024;No;Negativo;;;Propio
+P001311;C01;15/08/2024;Si;Nacido vivo;;3;Propio
+P001312;C01;20/06/2022;Si;Nacido vivo;;3;Propio
+P001314;C02;05/04/2024;Si;Nacido vivo;;2;Propio
+P001315;C02;28/09/2024;Si;Nacido vivo;;0;Propio
+P001316;C01;10/08/2024;No;Negativo;;1;Propio
+P001316;C01;16/10/2024;No;Negativo;;0;Propio
+P001316;C01;06/08/2026;Si;Aborto;01/10/2026;0;Propio
+P001317;C01;19/11/2022;No;Negativo;;2;Propio
+P001317;C01;12/03/2023;Si;Nacido vivo;;1;Propio
+P001318;C02;28/08/2023;No;Negativo;;2;Propio
+P001318;C02;04/11/2023;Si;Nacido vivo;;1;Propio
+P001319;C02;04/09/2021;No;Negativo;;3;Propio
+P001319;C02;12/03/2022;;;;0;Propio
+P001321;C02;29/09/2021;No;Negativo;;1;Propio
+P001322;C01;21/10/2024;Si;Nacido vivo;;3;Propio
+P001323;C01;07/08/2024;Si;Nacido vivo;;1;Propio
+P001324;C01;25/01/2025;No;Negativo;;1;Propio
+P001325;C01;09/06/2022;No;Negativo;;2;Propio
+P001325;C01;12/07/2022;Si;Nacido vivo;;1;Propio
+P001326;C01;07/07/2021;Si;Nacido vivo;;;Propio
+P001327;C03;02/01/2025;Si;Aborto;12/02/2025;1;Propio
+P001327;C03;09/02/2026;Si;En curso;;1;Propio
+P001328;C01;30/08/2024;Si;Aborto;09/11/2024;1;Propio
+P001328;C01;20/04/2025;Si;Nacido vivo;;0;Propio
+P001329;C02;04/07/2021;Si;Nacido vivo;;3;Propio
+P001330;C01;27/03/2023;Si;Nacido vivo;;0;Propio
+P001332;C02;16/05/2024;No;Negativo;;2;Propio
+P001332;C02;24/06/2024;No;Negativo;;1;Propio
+P001333;C01;18/04/2023;Si;Nacido vivo;;1;Propio
+P001334;C01;09/07/2024;Si;Nacido vivo;;2;Propio
+P001336;C01;03/08/2023;Si;Nacido vivo;;;Propio
+P001337;C02;11/07/2021;;;;0;Propio
+P001338;C01;02/09/2022;Si;Nacido vivo;;0;Propio
+P001339;C01;10/07/2023;Si;Nacido vivo;;2;Propio
+P001340;C01;20/03/2021;Si;Aborto;03/05/2021;2;Propio
+P001340;C01;22/11/2021;Si;Nacido vivo;;1;Propio
+P001341;C01;11/03/2022;No;Negativo;;1;Propio
+P001341;C01;23/12/2022;Si;Aborto;26/02/2023;1;Propio
+P001341;C01;03/09/2023;No;Negativo;;1;Propio
+P001341;C01;21/03/2024;Si;Aborto;;1;Propio
+P001343;C01;09/12/2021;No;Negativo;;1;Propio
+P001343;C01;08/04/2022;No;Negativo;;0;Propio
+P001343;C01;06/01/2023;Si;Nacido vivo;;3;Propio
+P001344;C03;05/06/2024;Si;Nacido vivo;;1;Propio
+P001345;C01;17/06/2023;Si;Aborto;04/08/2023;1;Propio
+P001345;C01;24/12/2023;Si;Nacido vivo;;1;Propio
+P001346;C03;24/10/2024;Si;Nacido vivo;;1;Propio
+P001347;C02;04/11/2024;Si;Nacido vivo;;3;Propio
+P001348;C01;09/10/2024;Si;Aborto;21/11/2024;3;Propio
+P001348;C01;09/06/2025;No;Negativo;;1;Propio
+P001350;C01;11/10/2023;Si;Nacido vivo;;2;Propio
+P001353;C01;18/05/2021;No;Negativo;;0;Propio
+P001354;C01;29/04/2023;;;;;Propio
+P001355;C01;13/06/2024;Si;Nacido vivo;;1;Propio
+P001357;C01;18/07/2021;Si;Nacido vivo;;2;Propio
+P001358;C02;17/01/2024;Si;Aborto;;2;Propio
+P001358;C02;11/06/2024;No;Negativo;;1;Propio
+P001358;C02;08/08/2024;No;Negativo;;;Propio
+P001359;C01;25/02/2023;No;Negativo;;2;Propio
+P001359;C01;15/08/2023;No;Negativo;;1;Propio
+P001359;C01;29/09/2023;Si;Nacido vivo;;0;Propio
+P001360;C01;16/12/2023;Si;Nacido vivo;;1;Propio
+P001361;C02;05/02/2025;Si;Aborto;20/03/2025;3;Propio
+P001362;C02;23/03/2023;Si;Nacido vivo;;0;Propio
+P001363;C03;28/05/2022;Si;Nacido vivo;;2;Propio
+P001364;C02;09/08/2022;No;Negativo;;2;Propio
+P001366;C01;28/06/2023;No;Negativo;;0;Propio
+P001367;C01;04/10/2022;No;Negativo;;0;Propio
+P001369;C02;18/03/2023;No;Negativo;;0;Propio
+P001371;C01;06/12/2023;No;Negativo;;1;Propio
+P001371;C01;02/03/2024;Si;Aborto;19/04/2024;0;Propio
+P001371;C01;22/08/2024;No;Negativo;;0;Propio
+P001371;C01;05/06/2025;No;Negativo;;1;Propio
+P001372;C03;22/04/2023;No;Negativo;;2;Propio
+P001372;C03;29/06/2023;No;Negativo;;1;Propio
+P001372;C03;24/09/2023;Si;Aborto;01/12/2023;0;Propio
+P001372;C03;07/10/2024;;;;1;Propio
+P001372;C03;01/03/2025;Si;Nacido vivo;;0;Propio
+P001373;C01;12/06/2023;Si;Nacido vivo;;1;Propio
+P001374;C02;24/12/2023;No;Negativo;;5;Propio
+P001374;C02;11/01/2024;No;Negativo;;4;Propio
+P001374;C02;14/03/2024;Si;Nacido vivo;;3;Propio
+P001376;C01;02/12/2023;Si;Nacido vivo;;0;Propio
+P001377;C01;30/08/2023;Si;Aborto;;1;Propio
+P001377;C01;27/12/2023;;;;0;Propio
+P001378;C01;21/12/2024;No;Negativo;;1;Propio
+P001378;C01;02/03/2025;Si;Nacido vivo;;0;Propio
+P001379;C03;03/01/2024;Si;Aborto;11/03/2024;3;Propio
+P001379;C03;16/05/2024;Si;Nacido vivo;;2;Propio
+P001380;C01;30/09/2023;No;Negativo;;4;Propio
+P001380;C01;03/03/2024;No;Negativo;;3;Propio
+P001380;C01;20/04/2024;Si;Aborto;;2;Propio
+P001381;C01;04/08/2023;Si;Aborto;27/09/2023;1;Propio
+P001381;C01;19/05/2024;No;Negativo;;0;Propio
+P001381;C01;06/09/2025;Si;Nacido vivo;;1;Propio
+P001383;C01;04/05/2022;No;Negativo;;4;Propio
+P001383;C01;21/05/2022;Si;Aborto;;3;Propio
+P001383;C01;08/04/2023;No;Negativo;;4;Propio
+P001383;C01;13/06/2023;No;Negativo;;3;Propio
+P001384;C01;07/06/2024;Si;Aborto;;2;Propio
+P001384;C01;24/09/2024;No;Negativo;;1;Propio
+P001384;C01;13/06/2025;Si;Nacido vivo;;0;Propio
+P001385;C01;20/08/2022;No;Negativo;;0;Propio
+P001386;C01;24/08/2024;Si;Nacido vivo;;0;Propio
+P001387;C01;29/01/2023;No;Negativo;;;Propio
+P001387;C01;03/03/2023;No;Negativo;;1;Propio
+P001387;C01;01/02/2024;Si;Nacido vivo;;2;Propio
+P001388;C02;26/04/2023;Si;Nacido vivo;;0;Propio
+P001390;C03;27/12/2024;Si;Nacido vivo;;2;Propio
+P001391;C02;10/03/2024;No;Negativo;;2;Propio
+P001391;C02;04/09/2024;Si;Nacido vivo;;1;Propio
+P001392;C02;06/09/2022;Si;Nacido vivo;;1;Propio
+P001393;C01;26/11/2022;Si;Nacido vivo;;0;Propio
+P001396;C02;24/05/2022;No;Negativo;;0;Propio
+P001396;C02;12/12/2023;Si;Nacido vivo;;2;Propio
+P001397;C03;11/01/2024;No;Negativo;;0;Propio
+P001399;C02;04/04/2024;No;Negativo;;2;Propio
+P001399;C02;25/08/2024;;;;1;Propio
+P001399;C02;29/11/2024;Si;Nacido vivo;;0;Propio
+P001401;C01;02/10/2021;Si;Aborto;23/11/2021;;Propio
+P001401;C01;28/02/2022;No;Negativo;;2;Propio
+P001401;C01;14/04/2022;No;Negativo;;1;Propio
+P001401;C01;14/11/2022;No;Negativo;;0;Propio
+P001402;C02;24/06/2023;Si;Aborto;13/08/2023;2;Propio
+P001403;C01;30/08/2023;No;Negativo;;2;Propio
+P001403;C01;16/10/2023;Si;Nacido vivo;;1;Propio
+P001404;C02;27/08/2024;No;Negativo;;3;Propio
+P001404;C02;09/12/2024;No;Negativo;;2;Propio
+P001404;C02;20/02/2025;No;Negativo;;1;Propio
+P001404;C02;25/04/2025;Si;Aborto;06/06/2025;0;Propio
+P001405;C01;22/04/2021;;;;3;Propio
+P001405;C01;09/08/2021;No;Negativo;;2;Propio
+P001406;C01;30/12/2022;No;Negativo;;2;Propio
+P001406;C01;12/03/2023;No;Negativo;;1;Propio
+P001406;C01;05/02/2024;No;Negativo;;5;Propio
+P001406;C01;16/03/2024;No;Negativo;;4;Propio
+P001406;C01;09/09/2024;No;Negativo;;3;Propio
+P001406;C01;21/10/2024;No;Negativo;;2;Propio
+P001406;C01;26/12/2024;No;Negativo;;1;Propio
+P001407;C01;09/08/2021;No;Negativo;;3;Propio
+P001407;C01;18/07/2022;Si;Nacido vivo;;;Propio
+P001408;C02;18/02/2026;Si;En curso;;1;Propio
+P001410;C02;15/12/2024;;;;1;Propio
+P001411;C03;10/12/2023;Si;Nacido vivo;;3;Propio
+P001412;C03;01/01/2024;Si;Nacido vivo;;3;Propio
+P001413;C01;17/05/2024;No;Negativo;;4;Propio
+P001413;C01;25/06/2024;No;Negativo;;3;Propio
+P001413;C01;28/12/2024;No;Negativo;;2;Propio
+P001414;C02;01/04/2023;;;;2;Propio
+P001415;C03;12/11/2021;Si;Nacido vivo;;2;Propio
+P001416;C01;23/09/2024;No;Negativo;;5;Propio
+P001416;C01;15/12/2024;No;Negativo;;4;Propio
+P001416;C01;02/04/2025;No;Negativo;;3;Propio
+P001416;C01;09/06/2025;Si;Nacido vivo;;2;Propio
+P001417;C01;22/03/2024;No;Negativo;;4;Propio
+P001417;C01;14/06/2024;Si;Nacido vivo;;3;Propio
+P001419;C02;29/09/2024;Si;Nacido vivo;;3;Propio
+P001420;C01;18/06/2024;Si;Nacido vivo;;0;Propio
+P001421;C02;25/12/2024;No;Negativo;;2;Propio
+P001421;C02;21/04/2025;No;Negativo;;1;Propio
+P001421;C02;09/07/2025;Si;Nacido vivo;;0;Propio
+P001422;C01;21/11/2023;No;Negativo;;0;Propio
+P001423;C01;08/05/2025;Si;Nacido vivo;;1;Propio
+P001424;C01;04/11/2024;No;Negativo;;2;Propio
+P001424;C01;24/01/2025;No;Negativo;;1;Propio
+P001424;C01;15/02/2025;No;Negativo;;0;Propio
+P001425;C01;20/07/2021;Si;Aborto;31/08/2021;3;Propio
+P001425;C01;24/08/2022;No;Negativo;;0;Propio
+P001426;C01;23/08/2024;No;Negativo;;1;Propio
+P001426;C01;02/12/2024;Si;Nacido vivo;;0;Propio
+P001427;C01;27/03/2022;Si;Aborto;22/05/2022;1;Propio
+P001427;C01;10/01/2023;Si;Nacido vivo;;1;Propio
+P001430;C01;15/11/2023;No;Negativo;;0;Propio
+P001431;C03;11/10/2022;No;Negativo;;;Propio
+P001431;C03;22/07/2023;Si;Nacido vivo;;2;Propio
+P001432;C01;21/07/2023;No;Negativo;;1;Propio
+P001432;C01;17/08/2023;No;Negativo;;0;Propio
+P001432;C01;27/07/2024;Si;Nacido vivo;;0;Propio
+P001434;C01;30/04/2022;Si;Nacido vivo;;3;Propio
+P001435;C03;02/12/2023;Si;Nacido vivo;;0;Propio
+P001436;C02;15/12/2024;No;Negativo;;4;Propio
+P001436;C02;23/02/2025;No;Negativo;;3;Propio
+P001436;C02;12/04/2025;Si;Nacido vivo;;2;Propio
+P001438;C01;07/01/2022;Si;Nacido vivo;;1;Propio
+P001440;C01;28/11/2021;Si;Nacido vivo;;1;Propio
+P001441;C01;10/10/2022;No;Negativo;;1;Propio
+P001441;C01;28/08/2024;Si;Aborto;11/11/2024;2;Propio
+P001441;C01;28/04/2025;No;Negativo;;3;Propio
+P001441;C01;12/06/2025;Si;Nacido vivo;;2;Propio
+P001442;C02;17/07/2021;Si;Aborto;;0;Propio
+P001442;C02;12/06/2022;No;Negativo;;0;Propio
+P001443;C01;06/02/2023;Si;Nacido vivo;;2;Propio
+P001444;C02;01/11/2025;Si;Nacido vivo;;0;Propio
+P001446;C01;28/02/2025;Si;Aborto;10/05/2025;1;Propio
+P001446;C01;30/01/2026;;;;4;Propio
+P001446;C01;26/03/2026;;;;3;Propio
+P001448;C02;27/01/2022;;;;3;Propio
+P001448;C02;05/04/2022;Si;Nacido vivo;;2;Propio
+P001449;C03;16/12/2024;Si;Nacido vivo;;0;Propio
+P001450;C02;27/08/2024;Si;Nacido vivo;;0;Propio
+P001451;C01;09/06/2024;No;Negativo;;2;Propio
+P001451;C01;09/08/2024;Si;Nacido vivo;;1;Propio
+P001452;C01;01/02/2023;Si;Nacido vivo;;1;Propio
+P001453;C01;16/03/2024;Si;Nacido vivo;;3;Propio
+P001455;C01;01/10/2023;No;Negativo;;2;Propio
+P001455;C01;06/11/2023;No;Negativo;;1;Propio
+P001455;C01;02/01/2024;Si;Aborto;14/03/2024;0;Propio
+P001457;C01;03/03/2026;No;Negativo;;0;Propio
+P001458;C01;06/04/2025;No;Negativo;;4;Propio
+P001458;C01;24/06/2025;Si;Nacido vivo;;3;Propio
+P001459;C03;12/06/2022;Si;Nacido vivo;;0;Propio
+P001460;C01;24/11/2024;No;Negativo;;1;Propio
+P001461;C03;30/10/2022;No;Negativo;;3;Propio
+P001461;C03;22/01/2023;No;Negativo;;2;Propio
+P001461;C03;22/02/2023;No;Negativo;;1;Propio
+P001461;C03;01/03/2025;No;Negativo;;0;Propio
+P001461;C03;25/08/2025;Si;Nacido vivo;;2;Propio
+P001462;C02;22/03/2023;Si;Aborto;02/06/2023;0;Propio
+P001463;C02;12/12/2024;Si;Nacido vivo;;0;Propio
+P001464;C01;11/10/2024;Si;Nacido vivo;;1;Propio
+P001465;C03;12/06/2023;Si;Nacido vivo;;2;Propio
+P001466;C01;29/01/2024;No;Negativo;;3;Propio
+P001466;C01;25/04/2024;Si;Aborto;;2;Propio
+P001466;C01;16/09/2024;Si;Nacido vivo;;1;Propio
+P001467;C03;28/09/2024;No;Negativo;;4;Propio
+P001467;C03;06/12/2024;Si;Aborto;;3;Propio
+P001467;C03;22/03/2026;Si;Aborto;08/05/2026;2;Propio
+P001468;C02;08/06/2023;Si;Nacido vivo;;2;Propio
+P001469;C03;26/05/2023;Si;Aborto;;3;Propio
+P001470;C01;19/08/2024;No;Negativo;;2;Propio
+P001470;C01;09/02/2025;Si;Aborto;15/04/2025;1;Propio
+P001470;C01;05/08/2025;Si;Aborto;27/09/2025;0;Propio
+P001472;C03;04/11/2024;No;Negativo;;2;Propio
+P001472;C03;04/07/2025;;;;;Propio
+P001472;C03;10/09/2025;Si;Nacido vivo;;0;Propio
+P001475;C01;27/01/2025;Si;Nacido vivo;;0;Propio
+P001476;C01;20/04/2023;Si;Nacido vivo;;2;Propio
+P001477;C02;24/05/2022;;;;3;Propio
+P001477;C02;05/07/2022;Si;Nacido vivo;;2;Propio
+P001478;C03;26/11/2024;No;Negativo;;4;Propio
+P001478;C03;13/01/2025;;;;3;Propio
+P001478;C03;12/03/2025;No;Negativo;;2;Propio
+P001479;C02;10/11/2021;No;Negativo;;1;Propio
+P001482;C02;01/11/2023;Si;Nacido vivo;;1;Propio
+P001484;C02;02/04/2023;No;Negativo;;2;Propio
+P001484;C02;28/04/2023;Si;Nacido vivo;;1;Propio
+P001485;C01;06/05/2021;No;Negativo;;3;Propio
+P001485;C01;06/07/2021;No;Negativo;;2;Propio
+P001488;C01;10/06/2024;Si;Nacido vivo;;0;Propio
+P001490;C03;30/09/2022;No;Negativo;;0;Propio
+P001491;C02;20/01/2025;Si;Nacido vivo;;3;Propio
+P001492;C01;16/05/2023;No;Negativo;;2;Propio
+P001492;C01;12/01/2024;No;Negativo;;1;Propio
+P001492;C01;22/07/2024;No;Negativo;;0;Propio
+P001493;C02;18/01/2022;No;Negativo;;1;Propio
+P001493;C02;18/04/2022;Si;Aborto;;0;Propio
+P001493;C02;06/05/2023;Si;Nacido vivo;;3;Propio
+P001494;C02;21/10/2024;Si;Nacido vivo;;0;Propio
+P001495;C02;09/07/2024;Si;Nacido vivo;;2;Propio
+P001496;C01;16/09/2024;Si;Nacido vivo;;1;Propio
+P001498;C02;04/03/2023;Si;Nacido vivo;;2;Propio
+P001499;C03;22/01/2026;Si;Aborto;14/03/2026;1;Propio
+P001502;C01;10/12/2021;Si;Nacido vivo;;2;Propio
+P001503;C01;17/08/2024;Si;Nacido vivo;;2;Propio
+P001504;C03;01/03/2024;;;;0;Propio
+P001505;C01;28/05/2024;Si;Aborto;;4;Propio
+P001505;C01;01/10/2024;No;Negativo;;3;Propio
+P001505;C01;26/12/2024;Si;Aborto;;2;Propio
+P001508;C01;09/08/2024;Si;Nacido vivo;;3;Propio
+P001510;C02;25/03/2023;Si;Nacido vivo;;2;Propio
+P001511;C02;27/02/2024;No;Negativo;;2;Propio
+P001512;C03;25/11/2024;No;Negativo;;3;Propio
+P001513;C03;29/02/2024;Si;Nacido vivo;;3;Propio
+P001515;C02;26/09/2021;Si;Nacido vivo;;2;Propio
+P001516;C01;24/05/2021;No;Negativo;;1;Propio
+P001516;C01;16/12/2022;Si;Aborto;;0;Propio
+P001516;C01;06/11/2023;Si;Nacido vivo;;2;Propio
+P001517;C01;03/06/2023;Si;Nacido vivo;;2;Propio
+P001518;C02;22/03/2023;Si;Nacido vivo;;0;Propio
+P001519;C02;28/06/2023;Si;Nacido vivo;;2;Propio
+P001520;C01;02/07/2023;No;Negativo;;1;Propio
+P001521;C01;14/04/2023;Si;Nacido vivo;;2;Propio
+P001522;C01;28/09/2024;Si;Aborto;;2;Propio
+P001522;C01;10/03/2025;Si;Nacido vivo;;1;Propio
+P001523;C03;16/02/2023;Si;Nacido vivo;;0;Propio
+P001524;C01;03/05/2025;Si;Nacido vivo;;1;Propio
+P001525;C01;07/03/2024;Si;Aborto;;1;Propio
+P001525;C01;02/07/2024;Si;Nacido vivo;;0;Propio
+P001526;C01;09/02/2024;Si;Aborto;28/03/2024;3;Propio
+P001527;C01;01/10/2023;;;;2;Propio
+P001527;C01;25/05/2024;Si;Nacido vivo;;1;Propio
+P001528;C01;01/01/2024;No;Negativo;;3;Propio
+P001529;C01;03/06/2021;Si;Nacido vivo;;3;Propio
+P001532;C01;24/01/2023;No;Negativo;;0;Propio
+P001532;C01;21/08/2023;Si;Nacido vivo;;0;Propio
+P001533;C01;25/10/2023;;;;0;Propio
+P001533;C01;15/05/2024;Si;Aborto;20/07/2024;5;Propio
+P001533;C01;23/11/2024;No;Negativo;;4;Propio
+P001533;C01;16/01/2025;Si;Nacido vivo;;3;Propio
+P001534;C01;26/10/2024;Si;Aborto;;0;Propio
+P001534;C01;14/08/2025;No;Negativo;;2;Propio
+P001534;C01;27/09/2025;;;;1;Propio
+P001534;C01;20/09/2026;Si;En curso;;0;Propio
+P001535;C01;14/08/2023;Si;Aborto;;3;Propio
+P001535;C01;11/02/2024;No;Negativo;;2;Propio
+P001535;C01;24/04/2024;Si;Nacido vivo;;1;Propio
+P001536;C02;20/05/2024;No;Negativo;;2;Propio
+P001537;C03;03/10/2023;No;Negativo;;1;Propio
+P001537;C03;20/11/2023;No;Negativo;;0;Propio
+P001538;C01;06/09/2022;Si;Nacido vivo;;;Propio
+P001539;C01;18/11/2022;Si;Aborto;;0;Propio
+P001539;C01;28/10/2024;Si;Nacido vivo;;2;Propio
+P001540;C01;22/10/2023;Si;Nacido vivo;;3;Propio
+P001541;C01;06/01/2024;Si;Nacido vivo;;3;Propio
+P001542;C03;16/03/2023;Si;Aborto;29/05/2023;1;Propio
+P001542;C03;14/11/2023;Si;Aborto;15/01/2024;0;Propio
+P001542;C03;12/08/2024;Si;Nacido vivo;;2;Propio
+P001544;C03;27/04/2023;Si;Nacido vivo;;3;Propio
+P001546;C03;29/01/2022;No;Negativo;;1;Propio
+P001546;C03;09/10/2022;No;Negativo;;;Propio
+P001547;C01;30/09/2024;Si;Nacido vivo;;0;Propio
+P001548;C02;20/07/2022;Si;Nacido vivo;;0;Propio
+P001549;C01;27/01/2023;Si;Nacido vivo;;1;Propio
+P001550;C01;18/10/2024;No;Negativo;;;Propio
+P001550;C01;05/12/2025;Si;Aborto;15/01/2026;3;Propio
+P001550;C01;05/03/2026;No;Negativo;;2;Propio
+P001550;C01;21/04/2026;Si;En curso;;1;Propio
+P001551;C01;04/05/2023;Si;Nacido vivo;;0;Propio
+P001552;C01;12/12/2022;No;Negativo;;1;Propio
+P001553;C02;26/07/2023;No;Negativo;;1;Propio
+P001553;C02;12/01/2024;Si;Nacido vivo;;0;Propio
+P001554;C02;08/02/2025;Si;Nacido vivo;;1;Propio
+P001555;C02;26/06/2022;Si;Nacido vivo;;0;Propio
+P001556;C01;12/10/2025;No;Negativo;;0;Propio
+P001556;C01;03/05/2026;Si;En curso;;0;Propio
+P001557;C01;28/11/2024;No;Negativo;;2;Propio
+P001557;C01;30/01/2025;No;Negativo;;1;Propio
+P001558;C03;02/03/2024;No;Negativo;;3;Propio
+P001559;C01;22/10/2022;Si;Aborto;25/12/2022;2;Propio
+P001560;C01;17/05/2022;Si;Nacido vivo;;2;Propio
+P001561;C01;12/05/2023;No;Negativo;;3;Propio
+P001561;C01;26/02/2025;No;Negativo;;3;Propio
+P001562;C03;18/12/2024;Si;Nacido vivo;;0;Propio
+P001563;C03;29/07/2022;Si;Nacido vivo;;2;Propio
+P001564;C03;10/05/2024;No;Negativo;;1;Propio
+P001564;C03;01/08/2024;Si;Nacido vivo;;0;Propio
+P001565;C01;16/05/2023;Si;Nacido vivo;;2;Propio
+P001566;C03;05/09/2022;No;Negativo;;3;Propio
+P001568;C01;23/08/2022;No;Negativo;;3;Propio
+P001569;C02;01/11/2021;No;Negativo;;2;Propio
+P001571;C03;23/06/2024;No;Negativo;;1;Propio
+P001571;C03;10/08/2024;No;Negativo;;0;Propio
+P001572;C01;30/12/2022;Si;Nacido vivo;;3;Propio
+P001573;C01;03/09/2022;Si;Nacido vivo;;0;Propio
+P001574;C02;24/07/2023;No;Negativo;;0;Propio
+P001574;C02;26/02/2024;Si;Nacido vivo;;1;Propio
+P001575;C01;05/12/2023;Si;Nacido vivo;;0;Propio
+P001576;C02;30/06/2025;Si;Nacido vivo;;1;Propio
+P001577;C02;22/02/2025;Si;Nacido vivo;;2;Propio
+P001578;C02;14/11/2023;No;Negativo;;2;Propio
+P001578;C02;18/02/2024;No;Negativo;;1;Propio
+P001579;C02;09/02/2023;Si;Aborto;;1;Propio
+P001580;C01;16/08/2023;No;Negativo;;2;Propio
+P001580;C01;04/09/2024;No;Negativo;;0;Propio
+P001580;C01;25/03/2025;Si;Aborto;;;Propio
+P001581;C01;06/03/2023;;;;2;Propio
+P001582;C01;13/12/2023;No;Negativo;;2;Propio
+P001582;C01;26/08/2024;Si;Nacido vivo;;1;Propio
+P001583;C01;25/05/2023;;;;3;Propio
+P001583;C01;08/09/2023;No;Negativo;;2;Propio
+P001584;C01;04/09/2023;No;Negativo;;3;Propio
+P001585;C01;03/05/2023;Si;Aborto;14/06/2023;0;Propio
+P001585;C01;07/12/2023;Si;Aborto;30/01/2024;0;Propio
+P001585;C01;25/05/2024;;;;2;Propio
+P001585;C01;09/08/2024;Si;Aborto;;1;Propio
+P001585;C01;08/12/2024;No;Negativo;;0;Propio
+P001586;C01;25/12/2023;Si;Nacido vivo;;1;Propio
+P001587;C01;02/08/2021;No;Negativo;;1;Propio
+P001589;C01;24/10/2023;No;Negativo;;2;Propio
+P001589;C01;16/10/2024;No;Negativo;;2;Propio
+P001589;C01;18/05/2025;Si;Nacido vivo;;2;Propio
+P001590;C03;03/08/2022;Si;Nacido vivo;;1;Propio
+P001591;C02;05/10/2024;Si;Nacido vivo;;0;Propio
+P001592;C01;29/08/2024;No;Negativo;;1;Propio
+P001593;C03;15/07/2023;No;Negativo;;0;Propio
+P001593;C03;29/02/2024;Si;Nacido vivo;;2;Propio
+P001595;C03;02/11/2024;Si;Aborto;13/12/2024;0;Propio
+P001596;C01;13/02/2024;No;Negativo;;4;Propio
+P001596;C01;29/03/2024;;;;3;Propio
+P001596;C01;17/08/2024;No;Negativo;;3;Propio
+P001596;C01;07/02/2026;No;Negativo;;0;Propio
+P001597;C01;31/03/2022;Si;Nacido vivo;;1;Propio
+P001598;C01;08/06/2025;No;Negativo;;2;Propio
+P001598;C01;18/07/2025;;;;1;Propio
+P001599;C01;01/09/2024;Si;Aborto;;4;Propio
+P001599;C01;03/02/2025;;;;3;Propio
+P001599;C01;09/06/2025;Si;Nacido vivo;;2;Propio
+P001600;C01;19/04/2023;Si;Aborto;05/06/2023;0;Propio
+P001601;C01;22/08/2024;No;Negativo;;0;Propio
+P001602;C02;23/11/2024;Si;Nacido vivo;;0;Propio
+P001603;C01;12/10/2024;;;;0;Propio
+P001604;C01;14/12/2022;Si;Nacido vivo;;1;Propio
+P001605;C03;03/12/2023;No;Negativo;;2;Propio
+P001605;C03;06/02/2024;Si;Nacido vivo;;1;Propio
+P001606;C03;04/01/2025;No;Negativo;;0;Propio
+P001606;C03;19/10/2025;Si;Nacido vivo;;3;Propio
+P001607;C01;23/01/2024;No;Negativo;;4;Propio
+P001607;C01;28/05/2024;No;Negativo;;3;Propio
+P001607;C01;05/07/2024;Si;Nacido vivo;;2;Propio
+P001608;C02;07/04/2025;No;Negativo;;3;Propio
+P001608;C02;20/11/2025;No;Negativo;;2;Propio
+P001609;C01;11/04/2024;No;Negativo;;;Propio
+P001609;C01;23/05/2024;Si;Aborto;;2;Propio
+P001609;C01;08/11/2024;Si;Nacido vivo;;1;Propio
+P001610;C01;02/01/2023;Si;Aborto;07/03/2023;3;Propio
+P001610;C01;20/06/2023;Si;Aborto;03/08/2023;2;Propio
+P001610;C01;20/11/2023;Si;Aborto;;1;Propio
+P001610;C01;13/02/2024;Si;Nacido vivo;;0;Propio
+P001611;C02;05/09/2021;;;;2;Propio
+P001611;C02;29/01/2022;No;Negativo;;1;Propio
+P001611;C02;15/07/2022;No;Negativo;;3;Propio
+P001611;C02;11/10/2023;Si;Aborto;08/12/2023;2;Propio
+P001611;C02;04/05/2024;Si;Nacido vivo;;1;Propio
+P001612;C01;17/08/2024;Si;Nacido vivo;;0;Propio
+P001613;C01;02/11/2021;Si;Aborto;;3;Propio
+P001613;C01;03/07/2022;No;Negativo;;3;Propio
+P001613;C01;31/07/2022;Si;Aborto;14/10/2022;2;Propio
+P001613;C01;21/05/2023;No;Negativo;;1;Propio
+P001613;C01;16/08/2023;No;Negativo;;0;Propio
+P001613;C01;24/11/2023;No;Negativo;;2;Propio
+P001614;C01;19/06/2023;Si;Nacido vivo;;0;Propio
+P001615;C01;06/05/2025;No;Negativo;;4;Propio
+P001615;C01;07/07/2025;No;Negativo;;3;Propio
+P001615;C01;30/08/2025;Si;Nacido vivo;;2;Propio
+P001617;C01;12/07/2022;No;Negativo;;0;Propio
+P001619;C03;16/05/2024;No;Negativo;;0;Propio
+P001620;C02;14/12/2024;Si;Nacido vivo;;2;Propio
+P001621;C03;13/07/2023;Si;Nacido vivo;;3;Propio
+P001622;C02;11/03/2022;Si;Aborto;25/04/2022;1;Propio
+P001623;C02;19/12/2021;Si;Aborto;20/02/2022;3;Propio
+P001626;C01;21/08/2022;No;Negativo;;0;Propio
+P001627;C01;15/11/2024;Si;Aborto;;5;Propio
+P001627;C01;03/12/2025;;;;4;Propio
+P001627;C01;30/04/2026;Si;En curso;;3;Propio
+P001628;C01;14/09/2023;No;Negativo;;2;Propio
+P001628;C01;27/11/2023;;;;1;Propio
+P001628;C01;17/06/2024;Si;Nacido vivo;;1;Propio
+P001630;C01;18/01/2022;Si;Aborto;23/03/2022;2;Propio
+P001630;C01;19/06/2022;;;;1;Propio
+P001631;C03;31/05/2024;No;Negativo;;2;Propio
+P001631;C03;19/12/2024;No;Negativo;;1;Propio
+P001631;C03;19/08/2025;Si;Nacido vivo;;2;Propio
+P001632;C01;13/01/2024;;;;2;Propio
+P001633;C01;29/06/2023;No;Negativo;;3;Propio
+P001633;C01;12/02/2024;Si;Nacido vivo;;;Propio
+P001635;C01;21/01/2024;Si;Aborto;01/03/2024;2;Propio
+P001635;C01;14/04/2025;Si;Aborto;11/06/2025;0;Propio
+P001636;C01;09/11/2022;Si;Nacido vivo;;1;Propio
+P001637;C01;25/04/2022;No;Negativo;;2;Propio
+P001637;C01;06/02/2023;No;Negativo;;1;Propio
+P001638;C02;17/01/2024;Si;Nacido vivo;;2;Propio
+P001639;C03;18/02/2022;Si;Aborto;;;Propio
+P001639;C03;02/03/2023;No;Negativo;;1;Propio
+P001642;C03;09/08/2021;No;Negativo;;2;Propio
+P001642;C03;17/10/2021;Si;Nacido vivo;;1;Propio
+P001643;C02;08/08/2023;No;Negativo;;4;Propio
+P001643;C02;08/10/2023;Si;Nacido vivo;;3;Propio
+P001646;C01;31/05/2024;No;Negativo;;1;Propio
+P001647;C01;17/10/2024;No;Negativo;;2;Propio
+P001647;C01;10/12/2024;No;Negativo;;1;Propio
+P001647;C01;06/06/2025;Si;Nacido vivo;;;Propio
+P001648;C02;20/02/2024;Si;Aborto;10/04/2024;1;Propio
+P001649;C01;02/05/2024;Si;Nacido vivo;;0;Propio
+P001650;C03;05/02/2024;Si;Nacido vivo;;3;Propio
+P001651;C02;14/11/2024;Si;Nacido vivo;;1;Propio
+P001652;C01;15/11/2024;No;Negativo;;3;Propio
+P001652;C01;28/01/2025;Si;Nacido vivo;;2;Propio
+P001653;C01;19/02/2025;No;Negativo;;0;Propio
+P001654;C01;10/08/2021;No;Negativo;;3;Propio
+P001654;C01;08/05/2022;Si;Aborto;14/07/2022;2;Propio
+P001654;C01;22/09/2022;No;Negativo;;1;Propio
+P001654;C01;14/02/2023;No;Negativo;;0;Propio
+P001654;C01;04/10/2024;Si;Aborto;;1;Propio
+P001655;C02;09/02/2025;Si;Nacido vivo;;0;Propio
+P001656;C01;02/12/2024;Si;Nacido vivo;;2;Propio
+P001657;C02;06/06/2021;No;Negativo;;3;Propio
+P001659;C02;06/06/2023;Si;Nacido vivo;;3;Propio
+P001660;C01;25/08/2023;No;Negativo;;2;Propio
+P001660;C01;29/09/2023;No;Negativo;;1;Propio
+P001660;C01;09/01/2024;No;Negativo;;3;Propio
+P001660;C01;09/09/2024;No;Negativo;;2;Propio
+P001660;C01;19/01/2025;No;Negativo;;1;Propio
+P001661;C01;13/07/2023;Si;Nacido vivo;;1;Propio
+P001662;C01;28/07/2022;No;Negativo;;1;Propio
+P001662;C01;09/11/2022;No;Negativo;;0;Propio
+P001662;C01;28/08/2023;No;Negativo;;0;Propio
+P001662;C01;04/11/2024;Si;Nacido vivo;;3;Propio
+P001663;C03;06/04/2021;Si;Nacido vivo;;3;Propio
+P001665;C03;17/09/2023;Si;Nacido vivo;;1;Propio
+P001666;C02;19/06/2023;Si;Nacido vivo;;2;Propio
+P001667;C01;15/12/2022;No;Negativo;;3;Propio
+P001667;C01;17/03/2023;Si;Nacido vivo;;2;Propio
+P001668;C01;10/08/2023;No;Negativo;;1;Propio
+P001669;C01;10/06/2024;Si;Aborto;09/08/2024;2;Propio
+P001669;C01;11/04/2025;Si;Nacido vivo;;1;Propio
+P001670;C02;13/12/2024;Si;Nacido vivo;;1;Propio
+P001672;C01;03/04/2024;Si;Aborto;15/05/2024;1;Propio
+P001675;C03;29/03/2024;Si;Aborto;04/06/2024;1;Propio
+P001676;C03;19/06/2023;Si;Nacido vivo;;0;Propio
+P001677;C01;24/07/2022;No;Negativo;;2;Propio
+P001677;C01;06/10/2022;No;Negativo;;0;Propio
+P001677;C01;03/02/2023;No;Negativo;;2;Propio
+P001677;C01;25/03/2023;Si;Aborto;21/05/2023;1;Propio
+P001677;C01;11/10/2023;Si;Aborto;;0;Propio
+P001678;C02;24/11/2023;No;Negativo;;0;Propio
+P001679;C03;20/02/2022;Si;Nacido vivo;;0;Propio
+P001681;C01;03/01/2022;Si;Nacido vivo;;0;Propio
+P001682;C03;15/09/2024;Si;Nacido vivo;;0;Propio
+P001683;C01;09/05/2024;No;Negativo;;3;Propio
+P001683;C01;10/09/2024;Si;Aborto;10/11/2024;2;Propio
+P001683;C01;03/03/2026;No;Negativo;;1;Propio
+P001684;C01;18/04/2022;No;Negativo;;0;Propio
+P001685;C01;22/05/2023;Si;Aborto;04/07/2023;1;Propio
+P001686;C01;02/10/2023;Si;Nacido vivo;;2;Propio
+P001688;C02;24/10/2022;No;Negativo;;0;Propio
+P001688;C02;23/05/2024;No;Negativo;;2;Propio
+P001688;C02;17/09/2024;;;;1;Propio
+P001688;C02;02/06/2025;Si;Nacido vivo;;0;Propio
+P001689;C01;16/10/2022;No;Negativo;;0;Propio
+P001689;C01;03/10/2023;Si;Aborto;05/12/2023;0;Propio
+P001689;C01;27/08/2024;Si;Aborto;;4;Propio
+P001689;C01;02/04/2025;Si;Aborto;17/05/2025;3;Propio
+P001690;C01;16/08/2024;No;Negativo;;1;Propio
+P001691;C03;11/01/2025;No;Negativo;;2;Propio
+P001691;C03;05/04/2025;No;Negativo;;1;Propio
+P001691;C03;07/06/2025;No;Negativo;;0;Propio
+P001692;C03;14/12/2024;No;Negativo;;0;Propio
+P001693;C01;18/03/2024;Si;Nacido vivo;;0;Propio
+P001694;C01;16/02/2024;No;Negativo;;1;Propio
+P001694;C01;30/03/2024;Si;Nacido vivo;;0;Propio
+P001695;C02;24/01/2025;;;;0;Propio
+P001696;C03;17/06/2024;Si;Nacido vivo;;0;Propio
+P001697;C02;22/12/2022;No;Negativo;;3;Propio
+P001697;C02;26/02/2023;Si;Nacido vivo;;2;Propio
+P001698;C01;18/06/2023;Si;Aborto;04/08/2023;2;Propio
+P001698;C01;14/04/2024;No;Negativo;;1;Propio
+P001698;C01;18/06/2025;No;Negativo;;0;Propio
+P001699;C01;09/06/2025;No;Negativo;;2;Propio
+P001701;C01;24/08/2023;No;Negativo;;1;Propio
+P001701;C01;27/06/2024;No;Negativo;;0;Propio
+P001702;C03;24/02/2023;No;Negativo;;1;Propio
+P001702;C03;06/04/2023;No;Negativo;;0;Propio
+P001703;C02;29/03/2025;No;Negativo;;3;Propio
+P001703;C02;20/08/2025;No;Negativo;;3;Propio
+P001703;C02;02/12/2025;No;Negativo;;2;Propio
+P001703;C02;31/05/2026;Si;En curso;;1;Propio
+P001705;C03;12/03/2022;No;Negativo;;2;Propio
+P001705;C03;20/06/2022;Si;Nacido vivo;;1;Propio
+P001707;C03;27/12/2022;No;Negativo;;1;Propio
+P001707;C03;27/06/2023;No;Negativo;;0;Propio
+P001707;C03;02/01/2024;;;;0;Propio
+P001708;C01;26/03/2022;Si;Aborto;02/06/2022;1;Propio
+P001708;C01;13/01/2023;Si;Nacido vivo;;2;Propio
+P001709;C01;07/12/2023;Si;Nacido vivo;;2;Propio
+P001710;C01;08/04/2021;No;Negativo;;3;Propio
+P001710;C01;07/09/2021;Si;Nacido vivo;;2;Propio
+P001711;C03;08/09/2023;Si;Aborto;;0;Propio
+P001712;C03;25/05/2025;No;Negativo;;2;Propio
+P001712;C03;03/08/2025;Si;Aborto;;1;Propio
+P001713;C01;05/03/2023;No;Negativo;;3;Propio
+P001713;C01;16/05/2024;Si;Nacido vivo;;0;Propio
+P001714;C03;06/10/2023;Si;Nacido vivo;;3;Propio
+P001715;C01;11/08/2024;Si;Nacido vivo;;1;Propio
+P001716;C02;06/03/2022;Si;Nacido vivo;;0;Propio
+P001717;C01;16/01/2025;Si;Nacido vivo;;3;Propio
+P001718;C03;12/07/2022;Si;Nacido vivo;;1;Propio
+P001719;C03;26/06/2022;;;;1;Propio
+P001720;C02;15/01/2025;No;Negativo;;1;Propio
+P001720;C02;19/02/2025;No;Negativo;;0;Propio
+P001720;C02;10/10/2025;Si;Nacido vivo;;1;Propio
+P001721;C01;19/02/2025;Si;Nacido vivo;;1;Propio
+P001725;C01;07/07/2023;No;Negativo;;1;Propio
+P001725;C01;06/10/2023;Si;Aborto;26/11/2023;0;Propio
+P001725;C01;13/08/2024;No;Negativo;;3;Propio
+P001725;C01;02/11/2024;Si;Nacido vivo;;2;Propio
+P001726;C01;22/04/2024;Si;Nacido vivo;;2;Propio
+P001727;C03;18/02/2023;No;Negativo;;3;Propio
+P001727;C03;14/03/2023;No;Negativo;;2;Propio
+P001727;C03;05/04/2023;Si;Nacido vivo;;1;Propio
+P001729;C02;04/02/2025;Si;Nacido vivo;;0;Propio
+P001730;C01;16/05/2025;No;Negativo;;3;Propio
+P001731;C01;14/06/2024;No;Negativo;;2;Propio
+P001731;C01;28/07/2024;;;;1;Propio
+P001732;C02;07/11/2023;Si;Nacido vivo;;1;Propio
+P001733;C02;16/11/2022;Si;Nacido vivo;;0;Propio
+P001736;C02;22/01/2025;No;Negativo;;1;Propio
+P001736;C02;05/11/2025;No;Negativo;;2;Propio
+P001737;C02;08/11/2024;Si;Nacido vivo;;;Propio
+P001738;C01;14/11/2023;No;Negativo;;0;Propio
+P001738;C01;28/07/2025;Si;Nacido vivo;;2;Propio
+P001740;C02;16/10/2021;No;Negativo;;2;Propio
+P001742;C01;04/01/2023;Si;Nacido vivo;;0;Propio
+P001743;C03;29/04/2022;Si;Aborto;28/06/2022;1;Propio
+P001743;C03;10/09/2022;No;Negativo;;0;Propio
+P001744;C02;25/04/2022;No;Negativo;;2;Propio
+P001745;C01;15/07/2023;Si;Aborto;;3;Propio
+P001745;C01;12/04/2024;Si;Nacido vivo;;1;Propio
+P001746;C01;17/03/2025;Si;Nacido vivo;;1;Propio
+P001749;C02;17/07/2023;No;Negativo;;0;Propio
+P001750;C03;16/06/2023;Si;Nacido vivo;;0;Propio
+P001751;C02;14/03/2024;No;Negativo;;3;Propio
+P001752;C01;12/04/2022;No;Negativo;;1;Propio
+P001753;C01;25/05/2024;Si;Nacido vivo;;2;Propio
+P001754;C02;14/05/2024;Si;Nacido vivo;;3;Propio
+P001755;C03;24/07/2022;No;Negativo;;1;Propio
+P001756;C01;09/06/2024;Si;Nacido vivo;;0;Propio
+P001757;C02;29/11/2024;No;Negativo;;1;Propio
+P001757;C02;22/06/2025;Si;Nacido vivo;;3;Propio
+P001758;C01;16/10/2022;No;Negativo;;3;Propio
+P001758;C01;23/04/2023;Si;Nacido vivo;;2;Propio
+P001759;C01;06/11/2024;No;Negativo;;2;Propio
+P001759;C01;25/01/2025;Si;Nacido vivo;;1;Propio
+P001760;C02;23/11/2022;No;Negativo;;3;Propio
+P001761;C01;06/05/2024;No;Negativo;;3;Propio
+P001762;C02;04/12/2023;No;Negativo;;2;Propio
+P001764;C01;16/08/2024;Si;Nacido vivo;;1;Propio
+P001765;C01;11/05/2024;Si;Nacido vivo;;1;Propio
+P001766;C01;27/06/2024;No;Negativo;;2;Propio
+P001766;C01;19/08/2024;No;Negativo;;1;Propio
+P001766;C01;18/12/2024;Si;Nacido vivo;;2;Propio
+P001767;C01;18/08/2022;Si;Nacido vivo;;1;Propio
+P001768;C02;18/08/2024;No;Negativo;;0;Propio
+P001768;C02;26/11/2025;No;Negativo;;1;Propio
+P001768;C02;14/12/2025;Si;Nacido vivo;;0;Propio
+P001769;C01;04/02/2025;Si;Aborto;05/04/2025;3;Propio
+P001770;C03;27/02/2025;;;;0;Propio
+P001772;C02;09/09/2024;Si;Aborto;04/11/2024;1;Propio
+P001772;C02;28/01/2025;Si;Nacido vivo;;0;Propio
+P001773;C02;11/05/2022;Si;Aborto;;3;Propio
+P001773;C02;04/09/2022;Si;Nacido vivo;;2;Propio
+P001774;C03;01/12/2023;Si;Nacido vivo;;1;Propio
+P001775;C01;13/08/2024;No;Negativo;;3;Propio
+P001775;C01;12/02/2025;No;Negativo;;2;Propio
+P001775;C01;19/07/2025;No;Negativo;;1;Propio
+P001777;C02;18/07/2022;Si;Nacido vivo;;1;Propio
+P001778;C01;01/04/2021;Si;Nacido vivo;;0;Propio
+P001780;C01;12/04/2024;No;Negativo;;5;Propio
+P001780;C01;26/07/2024;;;;4;Propio
+P001780;C01;26/11/2024;Si;Aborto;31/01/2025;3;Propio
+P001782;C03;18/05/2025;No;Negativo;;0;Propio
+P001783;C02;13/10/2024;No;Negativo;;4;Propio
+P001783;C02;05/01/2025;No;Negativo;;3;Propio
+P001784;C01;08/09/2023;No;Negativo;;3;Propio
+P001786;C01;24/06/2024;Si;Aborto;;0;Propio
+P001786;C01;24/01/2025;Si;Nacido vivo;;3;Propio
+P001787;C03;04/04/2024;Si;Nacido vivo;;2;Propio
+P001791;C01;29/06/2022;Si;Nacido vivo;;1;Propio
+P001793;C03;11/12/2024;Si;Aborto;02/02/2025;2;Propio
+P001794;C03;19/01/2024;Si;Nacido vivo;;0;Propio
+P001795;C01;24/05/2024;No;Negativo;;1;Propio
+P001795;C01;16/02/2025;Si;Nacido vivo;;0;Propio
+P001796;C01;14/01/2023;No;Negativo;;3;Propio
+P001796;C01;27/03/2023;Si;Nacido vivo;;2;Propio
+P001797;C01;22/03/2024;No;Negativo;;3;Propio
+P001798;C01;18/03/2022;No;Negativo;;1;Propio
+P001799;C02;14/02/2024;No;Negativo;;1;Propio
+P001800;C01;06/12/2024;Si;Nacido vivo;;0;Propio
+P001802;C01;19/04/2023;Si;Aborto;02/07/2023;4;Propio
+P001802;C01;04/10/2023;;;;3;Propio
+P001802;C01;14/02/2024;No;Negativo;;2;Propio
+P001802;C01;29/05/2024;No;Negativo;;1;Propio
+P001804;C01;11/02/2022;;;;0;Propio
+P001805;C01;14/11/2023;Si;Nacido vivo;;0;Propio
+P001806;C01;14/02/2024;Si;Aborto;29/03/2024;4;Propio
+P001806;C01;20/06/2024;No;Negativo;;3;Propio
+P001808;C02;12/10/2021;Si;Nacido vivo;;1;Propio
+P001809;C02;21/01/2026;Si;Aborto;28/03/2026;1;Propio
+P001810;C01;28/08/2021;Si;Aborto;30/10/2021;0;Propio
+P001812;C03;04/02/2025;Si;Aborto;05/04/2025;4;Propio
+P001812;C03;14/11/2025;No;Negativo;;3;Propio
+P001812;C03;10/02/2026;No;Negativo;;;Propio
+P001812;C03;03/08/2026;Si;En curso;;1;Propio
+P001813;C02;25/04/2023;No;Negativo;;2;Propio
+P001813;C02;31/08/2023;No;Negativo;;0;Propio
+P001815;C01;03/09/2023;No;Negativo;;;Propio
+P001815;C01;06/07/2024;Si;Nacido vivo;;;Propio
+P001818;C01;19/12/2023;No;Negativo;;3;Propio
+P001818;C01;31/01/2024;No;Negativo;;2;Propio
+P001818;C01;28/06/2024;Si;Aborto;05/09/2024;1;Propio
+P001818;C01;27/03/2025;No;Negativo;;1;Propio
+P001818;C01;04/05/2025;Si;Nacido vivo;;0;Propio
+P001819;C02;28/01/2024;Si;Aborto;21/03/2024;2;Propio
+P001820;C03;10/06/2024;Si;Nacido vivo;;2;Propio
+P001821;C01;30/09/2022;Si;Nacido vivo;;0;Propio
+P001823;C01;19/10/2024;Si;Aborto;15/12/2024;2;Propio
+P001823;C01;09/02/2025;No;Negativo;;1;Propio
+P001823;C01;07/04/2025;Si;Nacido vivo;;0;Propio
+P001824;C03;07/11/2025;Si;Nacido vivo;;1;Propio
+P001825;C02;18/05/2024;Si;Aborto;;0;Propio
+P001825;C02;07/12/2025;No;Negativo;;2;Propio
+P001827;C03;01/11/2021;Si;Aborto;13/01/2022;0;Propio
+P001828;C03;10/07/2023;Si;Aborto;25/08/2023;5;Propio
+P001828;C03;21/10/2024;No;Negativo;;4;Propio
+P001828;C03;18/02/2025;Si;Nacido vivo;;3;Propio
+P001829;C01;25/10/2021;Si;Nacido vivo;;1;Propio
+P001830;C02;12/01/2024;No;Negativo;;3;Propio
+P001830;C02;28/04/2024;Si;Nacido vivo;;1;Propio
+P001831;C01;27/03/2022;Si;Aborto;;3;Propio
+P001831;C01;24/08/2022;No;Negativo;;2;Propio
+P001833;C03;23/06/2023;No;Negativo;;1;Propio
+P001834;C03;15/03/2022;Si;Nacido vivo;;1;Propio
+P001835;C01;24/12/2023;Si;Aborto;27/02/2024;2;Propio
+P001835;C01;12/06/2024;Si;Nacido vivo;;1;Propio
+P001836;C01;22/08/2021;Si;Nacido vivo;;1;Propio
+P001837;C02;25/04/2024;Si;Aborto;;2;Propio
+P001838;C01;31/08/2024;No;Negativo;;;Propio
+P001839;C02;07/01/2024;;;;4;Propio
+P001839;C02;28/02/2024;No;Negativo;;3;Propio
+P001839;C02;10/08/2024;;;;2;Propio
+P001839;C02;03/10/2024;No;Negativo;;1;Propio
+P001839;C02;04/06/2026;Si;En curso;;2;Propio
+P001840;C03;19/01/2022;No;Negativo;;;Propio
+P001840;C03;28/12/2022;No;Negativo;;2;Propio
+P001840;C03;25/06/2023;Si;Aborto;19/08/2023;1;Propio
+P001840;C03;25/01/2024;No;Negativo;;0;Propio
+P001840;C03;27/01/2025;Si;Nacido vivo;;1;Propio
+P001841;C01;08/09/2021;No;Negativo;;4;Propio
+P001841;C01;26/12/2021;Si;Nacido vivo;;3;Propio
+P001842;C01;11/02/2024;No;Negativo;;3;Propio
+P001843;C01;19/12/2021;Si;Nacido vivo;;0;Propio
+P001844;C01;10/08/2023;No;Negativo;;4;Propio
+P001844;C01;29/12/2023;No;Negativo;;3;Propio
+P001844;C01;19/03/2024;Si;Aborto;05/05/2024;2;Propio
+P001844;C01;04/06/2024;Si;Aborto;06/08/2024;1;Propio
+P001844;C01;19/04/2025;No;Negativo;;2;Propio
+P001844;C01;05/06/2025;Si;Aborto;18/07/2025;1;Propio
+P001845;C01;16/09/2023;Si;Nacido vivo;;1;Propio
+P001846;C01;18/10/2022;No;Negativo;;2;Propio
+P001847;C03;12/08/2023;Si;Nacido vivo;;2;Propio
+P001848;C02;19/09/2021;No;Negativo;;0;Propio
+P001849;C01;16/01/2022;Si;Nacido vivo;;2;Propio
+P001850;C01;22/06/2023;Si;Nacido vivo;;0;Propio
+P001851;C02;24/12/2024;Si;Nacido vivo;;1;Propio
+P001852;C01;12/03/2025;Si;Nacido vivo;;2;Propio
+P001853;C01;15/09/2024;;;;1;Propio
+P001853;C01;30/12/2025;No;Negativo;;3;Propio
+P001853;C01;19/04/2026;No;Negativo;;2;Propio
+P001853;C01;01/06/2026;Si;Aborto;15/08/2026;1;Propio
+P001855;C01;27/05/2023;Si;Aborto;02/08/2023;2;Propio
+P001855;C01;15/11/2023;No;Negativo;;1;Propio
+P001855;C01;24/12/2023;No;Negativo;;0;Propio
+P001855;C01;06/10/2024;No;Negativo;;2;Propio
+P001855;C01;10/11/2024;Si;Nacido vivo;;1;Propio
+P001856;C02;17/02/2025;Si;Aborto;30/04/2025;1;Propio
+P001857;C03;15/02/2022;Si;Nacido vivo;;0;Propio
+P001859;C01;03/06/2022;No;Negativo;;3;Propio
+P001859;C01;11/08/2022;No;Negativo;;2;Propio
+P001860;C01;11/04/2025;Si;Nacido vivo;;2;Propio
+P001861;C02;04/10/2022;Si;Nacido vivo;;0;Propio
+P001862;C03;06/01/2025;Si;Nacido vivo;;3;Propio
+P001867;C02;14/12/2022;Si;Nacido vivo;;3;Propio
+P001868;C02;17/04/2025;No;Negativo;;0;Propio
+P001869;C03;13/03/2024;Si;Nacido vivo;;3;Propio
+P001870;C03;28/02/2024;Si;Aborto;;0;Propio
+P001870;C03;05/01/2025;No;Negativo;;1;Propio
+P001870;C03;29/08/2025;Si;Aborto;15/10/2025;0;Propio
+P001871;C02;19/06/2022;Si;Nacido vivo;;0;Propio
+P001872;C01;07/06/2024;Si;Nacido vivo;;3;Propio
+P001874;C01;03/04/2024;No;Negativo;;0;Propio
+P001875;C01;12/11/2023;Si;Nacido vivo;;1;Propio
+P001876;C02;14/08/2024;No;Negativo;;3;Propio
+P001877;C01;11/11/2024;No;Negativo;;2;Propio
+P001878;C01;23/08/2024;Si;Aborto;06/10/2024;2;Propio
+P001878;C01;22/06/2025;No;Negativo;;1;Propio
+P001879;C02;31/01/2025;No;Negativo;;2;Propio
+P001880;C02;03/06/2023;Si;Aborto;14/08/2023;2;Propio
+P001881;C01;01/10/2022;No;Negativo;;2;Propio
+P001881;C01;26/02/2024;Si;Aborto;06/05/2024;1;Propio
+P001882;C02;19/04/2025;Si;Aborto;12/06/2025;0;Propio
+P001883;C01;23/08/2022;No;Negativo;;3;Propio
+P001885;C03;03/08/2022;Si;Nacido vivo;;2;Propio
+P001886;C03;13/01/2023;Si;Aborto;24/03/2023;1;Propio
+P001886;C03;19/12/2024;;;;1;Propio
+P001887;C03;18/07/2025;Si;Nacido vivo;;1;Propio
+P001888;C03;06/07/2024;No;Negativo;;0;Propio
+P001889;C01;06/02/2024;Si;Nacido vivo;;0;Propio
+P001890;C01;14/01/2024;Si;Nacido vivo;;2;Propio
+P001891;C01;02/06/2023;No;Negativo;;5;Propio
+P001891;C01;17/09/2023;No;Negativo;;4;Propio
+P001891;C01;06/11/2023;No;Negativo;;3;Propio
+P001891;C01;18/12/2023;No;Negativo;;2;Propio
+P001891;C01;25/06/2024;Si;Aborto;18/08/2024;1;Propio
+P001891;C01;07/03/2025;Si;Aborto;29/04/2025;1;Propio
+P001891;C01;05/06/2025;No;Negativo;;0;Propio
+P001892;C02;18/03/2023;No;Negativo;;3;Propio
+P001894;C01;10/08/2025;Si;Nacido vivo;;1;Propio
+P001895;C01;03/09/2022;Si;Aborto;20/10/2022;0;Propio
+P001896;C03;10/07/2024;Si;Nacido vivo;;0;Propio
+P001899;C02;13/11/2023;Si;Nacido vivo;;3;Propio
+P001900;C03;09/09/2024;No;Negativo;;3;Propio
+P001900;C03;09/04/2025;Si;Aborto;;2;Propio
+P001901;C03;29/02/2024;No;Negativo;;0;Propio
+P001902;C02;13/07/2023;No;Negativo;;0;Propio
+P001903;C03;28/01/2024;Si;Aborto;13/03/2024;0;Propio
+P001903;C03;12/06/2024;No;Negativo;;2;Propio
+P001903;C03;02/11/2024;Si;Nacido vivo;;1;Propio
+P001904;C01;20/05/2023;Si;Nacido vivo;;1;Propio
+P001906;C01;24/01/2023;No;Negativo;;3;Propio
+P001906;C01;14/07/2024;Si;Nacido vivo;;1;Propio
+P001907;C03;20/04/2024;No;Negativo;;1;Propio
+P001908;C01;16/03/2023;No;Negativo;;3;Propio
+P001908;C01;16/04/2023;No;Negativo;;2;Propio
+P001908;C01;11/03/2024;Si;Aborto;22/04/2024;2;Propio
+P001908;C01;30/01/2025;Si;Nacido vivo;;0;Propio
+P001909;C01;20/09/2022;Si;Nacido vivo;;0;Propio
+P001910;C01;03/02/2023;No;Negativo;;3;Propio
+P001910;C01;04/04/2023;No;Negativo;;2;Propio
+P001910;C01;11/07/2023;No;Negativo;;;Propio
+P001910;C01;23/05/2024;No;Negativo;;1;Propio
+P001910;C01;13/11/2024;Si;Aborto;29/12/2024;2;Propio
+P001911;C01;21/08/2023;No;Negativo;;0;Propio
+P001911;C01;15/02/2025;Si;Aborto;;3;Propio
+P001911;C01;30/06/2026;Si;Aborto;12/09/2026;0;Propio
+P001913;C03;01/01/2024;Si;Aborto;;4;Propio
+P001913;C03;08/05/2024;No;Negativo;;3;Propio
+P001914;C02;03/10/2023;No;Negativo;;1;Propio
+P001915;C03;01/01/2024;No;Negativo;;1;Propio
+P001915;C03;29/03/2024;Si;Aborto;21/05/2024;0;Propio
+P001915;C03;06/01/2025;No;Negativo;;2;Propio
+P001915;C03;24/02/2025;Si;Nacido vivo;;1;Propio
+P001916;C01;29/01/2024;Si;Nacido vivo;;2;Propio
+P001917;C01;22/02/2024;Si;Aborto;06/05/2024;3;Propio
+P001917;C01;13/12/2024;Si;Nacido vivo;;0;Propio
+P001918;C03;14/01/2024;No;Negativo;;0;Propio
+P001919;C01;05/07/2022;Si;Nacido vivo;;1;Propio
+P001920;C02;03/03/2023;Si;Aborto;;1;Propio
+P001920;C02;02/07/2023;No;Negativo;;;Propio
+P001921;C03;11/09/2024;Si;Nacido vivo;;0;Propio
+P001922;C01;20/02/2023;No;Negativo;;1;Propio
+P001922;C01;01/06/2024;No;Negativo;;0;Propio
+P001923;C01;05/07/2023;No;Negativo;;0;Propio
+P001923;C01;11/12/2024;Si;Nacido vivo;;3;Propio
+P001924;C02;01/04/2025;No;Negativo;;1;Propio
+P001924;C02;25/07/2025;Si;Nacido vivo;;1;Propio
+P001925;C01;29/09/2023;;;;;Propio
+P001925;C01;14/11/2023;Si;Aborto;27/12/2023;;Propio
+P001925;C01;09/02/2024;No;Negativo;;3;Propio
+P001925;C01;18/05/2025;No;Negativo;;0;Propio
+P001927;C01;15/02/2024;No;Negativo;;2;Propio
+P001927;C01;14/05/2024;Si;Aborto;18/07/2024;1;Propio
+P001927;C01;18/01/2025;Si;Nacido vivo;;0;Propio
+P001928;C01;19/02/2024;No;Negativo;;2;Propio
+P001928;C01;09/12/2024;Si;Nacido vivo;;2;Propio
+P001930;C02;30/11/2023;Si;Nacido vivo;;1;Propio
+P001935;C02;21/11/2022;No;Negativo;;4;Propio
+P001935;C02;01/03/2023;No;Negativo;;3;Propio
+P001935;C02;18/07/2023;No;Negativo;;2;Propio
+P001935;C02;17/09/2023;Si;Nacido vivo;;1;Propio
+P001936;C03;28/12/2023;No;Negativo;;0;Propio
+P001937;C01;10/01/2025;Si;Aborto;26/03/2025;2;Propio
+P001937;C01;08/06/2025;No;Negativo;;1;Propio
+P001938;C02;05/11/2023;No;Negativo;;2;Propio
+P001938;C02;10/01/2024;Si;Nacido vivo;;1;Propio
+P001939;C01;04/02/2024;No;Negativo;;3;Propio
+P001940;C01;25/07/2024;Si;Nacido vivo;;0;Propio
+P001941;C03;22/09/2024;Si;Nacido vivo;;2;Propio
+P001943;C01;12/03/2022;Si;Nacido vivo;;0;Propio
+P001944;C01;05/06/2023;;;;6;Propio
+P001944;C01;03/10/2023;No;Negativo;;5;Propio
+P001944;C01;26/10/2023;No;Negativo;;4;Propio
+P001944;C01;28/03/2025;;;;3;Propio
+P001944;C01;10/07/2025;No;Negativo;;2;Propio
+P001944;C01;22/11/2025;Si;Nacido vivo;;;Propio
+P001945;C02;16/02/2025;Si;Nacido vivo;;3;Propio
+P001946;C03;12/02/2025;;;;0;Propio
+P001947;C01;29/11/2022;Si;Nacido vivo;;0;Propio
+P001948;C03;02/10/2024;Si;Aborto;16/11/2024;2;Propio
+P001950;C02;27/10/2021;No;Negativo;;2;Propio
+P001950;C02;20/09/2022;No;Negativo;;0;Propio
+P001952;C01;20/02/2022;No;Negativo;;1;Propio
+P001952;C01;08/09/2022;No;Negativo;;0;Propio
+P001952;C01;01/04/2023;Si;Nacido vivo;;1;Propio
+P001953;C01;05/11/2024;No;Negativo;;0;Propio
+P001955;C01;06/09/2023;Si;Aborto;;0;Propio
+P001955;C01;15/04/2024;;;;2;Propio
+P001955;C01;06/08/2024;Si;Nacido vivo;;1;Propio
+P001956;C02;16/12/2022;Si;Nacido vivo;;0;Propio
+P001958;C02;14/09/2024;No;Negativo;;1;Propio
+P001958;C02;06/12/2024;Si;Nacido vivo;;0;Propio
+P001959;C03;17/10/2024;Si;Nacido vivo;;;Propio
+P001960;C02;09/05/2024;Si;Nacido vivo;;0;Propio
+P001961;C01;03/12/2025;Si;Aborto;;0;Propio
+P001962;C02;22/11/2025;Si;Nacido vivo;;1;Propio
+P001964;C01;18/07/2023;Si;Nacido vivo;;1;Propio
+P001965;C02;04/05/2023;Si;Nacido vivo;;0;Propio
+P001966;C01;07/11/2024;No;Negativo;;0;Propio
+P001966;C01;08/07/2025;Si;Aborto;06/09/2025;1;Propio
+P001966;C01;17/10/2025;;;;0;Propio
+P001966;C01;06/02/2026;No;Negativo;;0;Propio
+P001966;C01;23/03/2026;No;Negativo;;0;Propio
+P001967;C02;08/02/2023;No;Negativo;;1;Propio
+P001968;C02;26/01/2023;No;Negativo;;0;Propio
+P001970;C02;05/04/2024;Si;Nacido vivo;;0;Propio
+P001971;C03;21/07/2021;;;;1;Propio
+P001971;C03;26/10/2021;Si;Nacido vivo;;0;Propio
+P001972;C01;29/05/2022;Si;Nacido vivo;;2;Propio
+P001974;C01;28/03/2025;No;Negativo;;4;Propio
+P001974;C01;19/05/2025;Si;Aborto;01/08/2025;3;Propio
+P001974;C01;08/03/2026;Si;En curso;;0;Propio
+P001975;C03;10/10/2024;No;Negativo;;5;Propio
+P001975;C03;20/01/2025;Si;Aborto;10/03/2025;4;Propio
+P001975;C03;02/05/2025;Si;Nacido vivo;;3;Propio
+P001979;C01;19/08/2024;Si;Nacido vivo;;0;Propio
+P001981;C01;09/07/2022;No;Negativo;;4;Propio
+P001981;C01;16/12/2022;Si;Nacido vivo;;3;Propio
+P001982;C03;30/10/2024;;;;3;Propio
+P001982;C03;23/07/2025;Si;Nacido vivo;;2;Propio
+P001983;C01;12/03/2023;Si;Aborto;;2;Propio
+P001983;C01;03/07/2023;No;Negativo;;1;Propio
+P001983;C01;15/07/2024;Si;Nacido vivo;;2;Propio
+P001984;C02;17/06/2021;Si;Nacido vivo;;0;Propio
+P001985;C02;02/02/2024;No;Negativo;;1;Propio
+P001985;C02;11/04/2024;No;Negativo;;0;Propio
+P001985;C02;14/06/2025;Si;Nacido vivo;;1;Propio
+P001986;C01;20/01/2024;Si;Nacido vivo;;2;Propio
+P001990;C02;01/01/2025;No;Negativo;;5;Propio
+P001990;C02;09/03/2025;No;Negativo;;4;Propio
+P001990;C02;19/06/2025;Si;Nacido vivo;;3;Propio
+P001991;C01;14/05/2023;Si;Nacido vivo;;0;Propio
+P001992;C02;15/04/2023;Si;Aborto;06/06/2023;0;Propio
+P001993;C03;26/03/2025;No;Negativo;;4;Propio
+P001993;C03;28/05/2025;No;Negativo;;3;Propio
+P001993;C03;27/08/2025;Si;Nacido vivo;;2;Propio
+P001994;C02;21/12/2023;Si;Aborto;28/02/2024;0;Propio
+P001995;C02;24/12/2022;Si;Nacido vivo;;3;Propio
+P001996;C03;04/10/2022;No;Negativo;;0;Propio
+P001997;C01;09/11/2024;Si;Nacido vivo;;0;Propio
+P001998;C01;04/09/2024;Si;Nacido vivo;;3;Propio
+P001999;C02;29/03/2023;Si;Nacido vivo;;0;Propio
+P002002;C02;01/01/2024;Si;Nacido vivo;;1;Propio
+P002003;C02;18/04/2021;Si;Nacido vivo;;0;Propio
+P002005;C01;27/05/2025;Si;Aborto;19/07/2025;1;Propio
+P002005;C01;27/01/2026;No;Negativo;;0;Propio
+P002005;C01;10/09/2026;No;Negativo;;2;Propio
+P002006;C01;17/05/2025;Si;Nacido vivo;;1;Propio
+P002009;C02;08/12/2023;No;Negativo;;3;Propio
+P002009;C02;08/03/2024;No;Negativo;;2;Propio
+P002009;C02;17/06/2024;Si;Nacido vivo;;0;Propio
+P002012;C02;20/03/2025;No;Negativo;;2;Propio
+P002013;C03;18/06/2021;No;Negativo;;0;Propio
+P002015;C02;20/03/2025;Si;Aborto;30/05/2025;1;Propio
+P002016;C01;23/10/2022;Si;Aborto;03/12/2022;3;Propio
+P002016;C01;31/01/2023;No;Negativo;;2;Propio
+P002017;C02;04/07/2024;Si;Nacido vivo;;1;Propio
+P002018;C01;06/01/2025;Si;Nacido vivo;;0;Propio
+P002019;C01;26/11/2024;No;Negativo;;1;Propio
+P002019;C01;26/02/2025;Si;Nacido vivo;;0;Propio
+P002020;C01;10/05/2024;Si;Nacido vivo;;3;Propio
+P002021;C01;17/12/2024;Si;Nacido vivo;;0;Propio
+P002022;C03;25/11/2023;Si;Aborto;08/01/2024;2;Propio
+P002022;C03;12/06/2024;Si;Aborto;;1;Propio
+P002022;C03;27/12/2024;Si;Nacido vivo;;0;Propio
+P002023;C01;16/01/2025;Si;Nacido vivo;;3;Propio
+P002024;C01;15/03/2025;No;Negativo;;3;Propio
+P002024;C01;22/04/2025;No;Negativo;;;Propio
+P002025;C01;25/08/2021;No;Negativo;;1;Propio
+P002026;C01;25/11/2022;Si;Nacido vivo;;0;Propio
+P002027;C01;27/08/2023;Si;Nacido vivo;;0;Propio
+P002028;C02;15/03/2023;Si;Aborto;;1;Propio
+P002030;C01;19/06/2023;Si;Aborto;05/08/2023;1;Propio
+P002031;C02;29/08/2023;No;Negativo;;2;Propio
+P002031;C02;10/10/2023;Si;Aborto;19/12/2023;1;Propio
+P002032;C02;23/10/2022;No;Negativo;;4;Propio
+P002032;C02;26/03/2023;No;Negativo;;3;Propio
+P002032;C02;03/07/2023;Si;Nacido vivo;;2;Propio
+P002033;C01;18/03/2023;Si;Aborto;;2;Propio
+P002033;C01;11/02/2024;Si;Aborto;;2;Propio
+P002033;C01;17/08/2024;Si;Nacido vivo;;;Propio
+P002034;C02;24/05/2023;No;Negativo;;5;Propio
+P002034;C02;24/06/2023;No;Negativo;;4;Propio
+P002034;C02;18/11/2023;No;Negativo;;3;Propio
+P002036;C01;22/12/2022;No;Negativo;;1;Propio
+P002038;C02;20/01/2025;No;Negativo;;;Propio
+P002038;C02;15/04/2025;No;Negativo;;1;Propio
+P002039;C03;27/11/2024;Si;Aborto;06/02/2025;0;Propio
+P002040;C01;11/09/2024;;;;3;Propio
+P002040;C01;22/10/2024;Si;Aborto;01/12/2024;;Propio
+P002040;C01;08/02/2025;Si;Nacido vivo;;1;Propio
+P002041;C01;01/12/2023;No;Negativo;;1;Propio
+P002042;C02;04/04/2022;No;Negativo;;1;Propio
+P002043;C03;05/11/2023;No;Negativo;;1;Propio
+P002043;C03;18/03/2024;Si;Nacido vivo;;0;Propio
+P002046;C01;29/12/2024;No;Negativo;;1;Propio
+P002046;C01;30/10/2025;Si;Aborto;;3;Propio
+P002046;C01;05/03/2026;No;Negativo;;2;Propio
+P002048;C01;11/05/2024;Si;Aborto;03/07/2024;6;Propio
+P002048;C01;03/11/2024;No;Negativo;;5;Propio
+P002048;C01;16/12/2024;Si;Aborto;02/02/2025;4;Propio
+P002048;C01;31/08/2025;Si;Nacido vivo;;;Propio
+P002049;C03;01/08/2023;Si;Nacido vivo;;0;Propio
+P002050;C03;14/10/2023;Si;Nacido vivo;;;Propio
+P002051;C01;02/10/2024;No;Negativo;;5;Propio
+P002051;C01;17/11/2024;No;Negativo;;4;Propio
+P002051;C01;01/03/2025;No;Negativo;;3;Propio
+P002051;C01;15/04/2025;No;Negativo;;2;Propio
+P002052;C03;10/04/2022;No;Negativo;;1;Propio
+P002052;C03;25/10/2022;Si;Nacido vivo;;3;Propio
+P002053;C01;07/09/2023;Si;Nacido vivo;;0;Propio
+P002054;C01;21/04/2023;Si;Nacido vivo;;1;Propio
+P002056;C02;23/11/2024;No;Negativo;;2;Propio
+P002056;C02;03/11/2025;Si;Nacido vivo;;1;Propio
+P002057;C02;06/04/2024;Si;Nacido vivo;;2;Propio
+P002058;C01;18/05/2023;Si;Nacido vivo;;0;Propio
+P002060;C03;24/09/2021;Si;Nacido vivo;;3;Propio
+P002061;C02;10/06/2023;Si;Nacido vivo;;1;Propio
+P002062;C01;16/05/2024;Si;Nacido vivo;;2;Propio
+P002065;C01;05/07/2023;No;Negativo;;0;Propio
+P002065;C01;08/10/2023;Si;Nacido vivo;;;Propio
+P002066;C01;10/06/2023;Si;Nacido vivo;;2;Propio
+P002067;C03;23/07/2022;Si;Nacido vivo;;2;Propio
+P002068;C03;14/12/2021;Si;Aborto;24/02/2022;0;Propio
+P002068;C03;11/02/2023;Si;Nacido vivo;;2;Propio
+P002069;C03;01/11/2024;No;Negativo;;4;Propio
+P002069;C03;21/03/2025;Si;Aborto;18/05/2025;3;Propio
+P002069;C03;11/04/2026;No;Negativo;;3;Propio
+P002069;C03;25/05/2026;Si;Aborto;;2;Propio
+P002070;C01;15/09/2023;Si;Nacido vivo;;1;Propio
+P002072;C03;03/02/2021;No;Negativo;;2;Propio
+P002072;C03;10/05/2021;No;Negativo;;1;Propio
+P002072;C03;17/07/2021;Si;Nacido vivo;;0;Propio
+P002073;C01;08/04/2023;Si;Nacido vivo;;2;Propio
+P002074;C01;11/06/2024;Si;Nacido vivo;;;Propio
+P002076;C02;26/06/2023;Si;Nacido vivo;;2;Propio
+P002077;C02;08/07/2022;Si;Aborto;;0;Propio
+P002077;C02;15/03/2025;;;;1;Propio
+P002077;C02;07/05/2025;No;Negativo;;0;Propio
+P002078;C01;09/04/2023;No;Negativo;;1;Propio
+P002078;C01;02/12/2023;No;Negativo;;2;Propio
+P002078;C01;01/02/2024;Si;Aborto;08/04/2024;1;Propio
+P002078;C01;31/08/2024;Si;Aborto;07/11/2024;0;Propio
+P002079;C01;14/01/2022;Si;Nacido vivo;;3;Propio
+P002080;C03;26/05/2023;Si;Aborto;;3;Propio
+P002080;C03;11/07/2024;Si;Nacido vivo;;2;Propio
+P002081;C01;11/05/2024;;;;5;Propio
+P002081;C01;13/09/2024;No;Negativo;;4;Propio
+P002081;C01;29/10/2024;No;Negativo;;3;Propio
+P002082;C01;27/09/2024;Si;Aborto;02/12/2024;1;Propio
+P002082;C01;17/07/2026;Si;Aborto;;1;Propio
+P002083;C01;19/11/2023;Si;Nacido vivo;;1;Propio
+P002084;C02;10/10/2023;Si;Aborto;30/11/2023;2;Propio
+P002085;C02;03/08/2022;Si;Aborto;14/10/2022;2;Propio
+P002085;C02;27/03/2023;No;Negativo;;1;Propio
+P002086;C01;16/03/2023;;;;3;Propio
+P002086;C01;08/07/2023;Si;Aborto;;1;Propio
+P002086;C01;23/04/2024;Si;Nacido vivo;;0;Propio
+P002087;C03;09/12/2023;Si;Nacido vivo;;3;Propio
+P002088;C01;09/09/2024;Si;Nacido vivo;;2;Propio
+P002089;C01;20/03/2022;No;Negativo;;3;Propio
+P002089;C01;28/04/2023;Si;Nacido vivo;;2;Propio
+P002090;C02;28/05/2023;No;Negativo;;4;Propio
+P002090;C02;15/09/2023;;;;3;Propio
+P002090;C02;17/03/2024;No;Negativo;;2;Propio
+P002090;C02;11/11/2024;Si;Nacido vivo;;0;Propio
+P002094;C03;19/05/2023;Si;Aborto;02/07/2023;3;Propio
+P002094;C03;28/08/2023;Si;Nacido vivo;;2;Propio
+P002095;C03;17/03/2025;;;;4;Propio
+P002095;C03;30/04/2025;Si;Aborto;14/06/2025;3;Propio
+P002095;C03;02/08/2025;Si;Nacido vivo;;2;Propio
+P002096;C03;23/04/2022;Si;Nacido vivo;;2;Propio
+P002098;C02;03/09/2021;Si;Nacido vivo;;2;Propio
+P002099;C01;08/01/2024;No;Negativo;;2;Propio
+P002100;C02;18/10/2024;No;Negativo;;1;Propio
+P002101;C02;30/03/2025;No;Negativo;;0;Propio
+P002102;C01;06/04/2024;Si;Aborto;;4;Propio
+P002102;C01;09/10/2024;Si;Nacido vivo;;;Propio
+P002103;C02;07/07/2022;Si;Nacido vivo;;1;Propio
+P002104;C02;27/03/2023;Si;Nacido vivo;;1;Propio
+P002105;C01;01/10/2022;Si;Aborto;18/11/2022;0;Propio
+P002105;C01;20/06/2023;;;;0;Propio
+P002106;C02;02/06/2022;No;Negativo;;0;Propio
+P002108;C02;05/08/2022;Si;Aborto;06/10/2022;0;Propio
+P002109;C02;29/12/2022;Si;Nacido vivo;;0;Propio
+P002110;C03;12/06/2024;Si;Nacido vivo;;2;Propio
+P002111;C01;06/06/2023;No;Negativo;;3;Propio
+P002111;C01;02/02/2024;Si;Aborto;16/03/2024;1;Propio
+P002111;C01;22/02/2025;Si;Nacido vivo;;1;Propio
+P002112;C02;23/03/2025;No;Negativo;;3;Propio
+P002112;C02;05/06/2025;No;Negativo;;2;Propio
+P002112;C02;18/09/2025;No;Negativo;;1;Propio
+P002112;C02;13/04/2026;No;Negativo;;0;Propio
+P002112;C02;27/09/2026;No;Negativo;;2;Propio
+P002113;C01;01/03/2025;Si;Nacido vivo;;;Propio
+P002114;C03;25/10/2025;No;Negativo;;2;Propio
+P002114;C03;03/01/2026;No;Negativo;;1;Propio
+P002114;C03;23/02/2026;No;Negativo;;0;Propio
+P002115;C03;25/10/2023;Si;Aborto;06/01/2024;2;Propio
+P002116;C01;10/07/2024;Si;Nacido vivo;;2;Propio
+P002117;C01;23/03/2023;No;Negativo;;2;Propio
+P002117;C01;15/04/2025;Si;Nacido vivo;;1;Propio
+P002118;C03;26/11/2022;No;Negativo;;4;Propio
+P002118;C03;16/09/2023;No;Negativo;;3;Propio
+P002118;C03;25/02/2024;No;Negativo;;2;Propio
+P002118;C03;31/05/2024;No;Negativo;;2;Propio
+P002118;C03;18/01/2025;Si;Nacido vivo;;1;Propio
+P002121;C02;12/09/2021;Si;Nacido vivo;;;Propio
+P002122;C01;13/10/2024;No;Negativo;;3;Propio
+P002122;C01;23/02/2025;Si;Nacido vivo;;2;Propio
+P002124;C03;16/10/2024;Si;Aborto;19/12/2024;3;Propio
+P002124;C03;06/06/2026;No;Negativo;;1;Propio
+P002125;C03;27/12/2021;Si;Aborto;21/02/2022;3;Propio
+P002125;C03;22/04/2022;Si;Nacido vivo;;2;Propio
+P002126;C01;02/02/2025;No;Negativo;;3;Propio
+P002126;C01;31/03/2025;No;Negativo;;2;Propio
+P002126;C01;12/05/2025;Si;Nacido vivo;;1;Propio
+P002128;C02;22/06/2022;No;Negativo;;0;Propio
+P002129;C03;12/04/2023;Si;Nacido vivo;;0;Propio
+P002133;C02;21/03/2022;Si;Nacido vivo;;0;Propio
+P002134;C03;29/05/2024;No;Negativo;;1;Propio
+P002137;C03;23/03/2023;Si;Aborto;;2;Propio
+P002137;C03;05/09/2023;No;Negativo;;1;Propio
+P002139;C01;21/11/2024;Si;Nacido vivo;;1;Propio
+P002140;C02;04/10/2022;Si;Nacido vivo;;1;Propio
+P002142;C03;06/03/2025;No;Negativo;;;Propio
+P002142;C03;30/04/2025;Si;Aborto;;1;Propio
+P002142;C03;30/06/2026;No;Negativo;;0;Propio
+P002147;C01;30/05/2024;Si;Aborto;;1;Propio
+P002147;C01;02/11/2024;No;Negativo;;0;Propio
+P002148;C01;21/06/2024;No;Negativo;;4;Propio
+P002148;C01;16/08/2024;No;Negativo;;3;Propio
+P002148;C01;10/10/2024;No;Negativo;;2;Propio
+P002148;C01;22/10/2025;Si;Aborto;03/01/2026;1;Propio
+P002148;C01;15/04/2026;Si;En curso;;0;Propio
+P002149;C01;01/12/2021;Si;Aborto;08/02/2022;1;Propio
+P002150;C03;20/12/2023;Si;Aborto;17/02/2024;1;Propio
+P002151;C03;31/07/2024;Si;Nacido vivo;;3;Propio
+P002152;C02;05/09/2023;;;;1;Propio
+P002153;C03;31/05/2024;Si;Nacido vivo;;3;Propio
+P002156;C01;19/03/2022;Si;Nacido vivo;;0;Propio
+P002157;C01;17/02/2023;No;Negativo;;0;Propio
+P002157;C01;08/06/2024;Si;Nacido vivo;;0;Propio
+P002158;C01;19/02/2025;Si;Nacido vivo;;1;Propio
+P002159;C01;15/05/2024;Si;Nacido vivo;;0;Propio
+P002160;C01;03/07/2023;No;Negativo;;0;Propio
+P002161;C01;08/03/2023;Si;Nacido vivo;;1;Propio
+P002162;C01;12/05/2023;;;;2;Propio
+P002162;C01;27/06/2023;;;;1;Propio
+P002162;C01;31/08/2023;Si;Nacido vivo;;0;Propio
+P002163;C03;13/01/2024;Si;Aborto;04/03/2024;0;Propio
+P002163;C03;12/09/2024;No;Negativo;;1;Propio
+P002164;C02;31/05/2022;Si;Nacido vivo;;0;Propio
+P002166;C03;23/08/2023;Si;Nacido vivo;;0;Propio
+P002167;C02;11/12/2023;Si;Nacido vivo;;2;Propio
+P002168;C01;27/03/2023;No;Negativo;;0;Propio
+P002170;C01;02/08/2024;Si;Nacido vivo;;2;Propio
+P002172;C03;25/11/2023;No;Negativo;;1;Propio
+P002172;C03;03/08/2024;Si;Nacido vivo;;3;Propio
+P002173;C01;04/09/2022;Si;Nacido vivo;;1;Propio
+P002174;C01;29/07/2024;Si;Nacido vivo;;0;Propio
+P002176;C01;02/07/2023;Si;Nacido vivo;;1;Propio
+P002178;C01;25/12/2022;Si;Nacido vivo;;3;Propio
+P002179;C01;19/03/2024;No;Negativo;;1;Propio
+P002180;C01;09/07/2024;Si;Nacido vivo;;1;Propio
+P002181;C01;10/04/2021;;;;0;Propio
+P002182;C02;13/10/2023;Si;Nacido vivo;;1;Propio
+P002184;C03;28/07/2021;No;Negativo;;1;Propio
+P002185;C01;10/07/2021;No;Negativo;;4;Propio
+P002185;C01;02/09/2021;Si;Nacido vivo;;3;Propio
+P002186;C02;17/07/2023;No;Negativo;;2;Propio
+P002186;C02;21/09/2023;No;Negativo;;1;Propio
+P002186;C02;26/08/2025;;;;2;Propio
+P002186;C02;25/09/2025;Si;Aborto;;1;Propio
+P002187;C02;17/03/2025;Si;Nacido vivo;;3;Propio
+P002189;C01;22/11/2025;Si;Aborto;08/01/2026;1;Propio
+P002190;C01;23/11/2024;No;Negativo;;0;Propio
+P002192;C01;06/11/2024;Si;Nacido vivo;;0;Propio
+P002193;C03;08/08/2024;Si;Nacido vivo;;2;Propio
+P002195;C02;17/07/2022;No;Negativo;;2;Propio
+P002195;C02;18/03/2023;Si;Nacido vivo;;2;Propio
+P002196;C02;18/08/2022;No;Negativo;;1;Propio
+P002196;C02;20/12/2023;No;Negativo;;0;Propio
+P002196;C02;19/10/2024;Si;Aborto;26/12/2024;;Propio
+P002197;C03;06/03/2024;Si;Nacido vivo;;1;Propio
+P002198;C01;04/05/2024;Si;Nacido vivo;;3;Propio
+P002199;C01;24/08/2023;Si;Nacido vivo;;2;Propio
+P002200;C01;22/06/2023;No;Negativo;;0;Propio
+P002201;C01;28/11/2023;Si;Aborto;18/01/2024;4;Propio
+P002201;C01;08/10/2025;Si;Aborto;;3;Propio
+P002201;C01;21/03/2026;No;Negativo;;2;Propio
+P002203;C01;01/02/2024;Si;Aborto;;2;Propio
+P002203;C01;07/09/2024;Si;Nacido vivo;;1;Propio
+P002204;C01;21/04/2025;Si;Nacido vivo;;3;Propio
+P002205;C03;01/08/2021;No;Negativo;;2;Propio
+P002205;C03;16/05/2023;Si;Nacido vivo;;1;Propio
+P002206;C01;28/09/2023;Si;Nacido vivo;;0;Propio
+P002208;C01;21/02/2023;No;Negativo;;4;Propio
+P002208;C01;17/05/2023;Si;Aborto;;3;Propio
+P002209;C01;03/10/2024;No;Negativo;;3;Propio
+P002209;C01;31/12/2024;No;Negativo;;2;Propio
+P002209;C01;27/04/2025;Si;Aborto;18/06/2025;1;Propio
+P002209;C01;10/10/2025;Si;Aborto;;0;Propio
+P002210;C01;05/05/2022;No;Negativo;;0;Propio
+P002211;C01;05/01/2023;No;Negativo;;2;Propio
+P002211;C01;16/03/2023;Si;Nacido vivo;;1;Propio
+P002212;C01;07/06/2022;No;Negativo;;1;Propio
+P002212;C01;27/09/2023;Si;Aborto;06/12/2023;0;Propio
+P002212;C01;15/03/2025;No;Negativo;;3;Propio
+P002213;C03;30/01/2023;Si;Nacido vivo;;0;Propio
+P002214;C01;02/01/2024;Si;Nacido vivo;;0;Propio
+P002217;C01;06/11/2023;Si;Nacido vivo;;0;Propio
+P002218;C01;20/10/2022;No;Negativo;;1;Propio
+P002218;C01;26/05/2023;Si;Nacido vivo;;3;Propio
+P002219;C01;07/08/2024;No;Negativo;;1;Propio
+P002219;C01;20/09/2024;Si;Nacido vivo;;0;Propio
+P002220;C01;21/01/2023;Si;Nacido vivo;;0;Propio
+P002222;C01;01/09/2024;Si;Nacido vivo;;2;Propio
+P002223;C01;27/09/2021;No;Negativo;;3;Propio
+P002223;C01;10/06/2023;Si;Nacido vivo;;2;Propio
+P002224;C01;27/01/2023;No;Negativo;;3;Propio
+P002224;C01;27/10/2023;Si;Nacido vivo;;;Propio
+P002225;C02;20/07/2022;Si;Nacido vivo;;1;Propio
+P002226;C01;07/12/2022;Si;Nacido vivo;;0;Propio
+P002227;C01;04/10/2023;No;Negativo;;0;Propio
+P002227;C01;28/09/2024;Si;Aborto;;0;Propio
+P002229;C01;28/08/2023;Si;Nacido vivo;;3;Propio
+P002230;C02;15/11/2023;;;;3;Propio
+P002233;C01;12/09/2023;Si;Nacido vivo;;;Propio
+P002234;C03;16/02/2025;Si;Nacido vivo;;2;Propio
+P002235;C01;10/02/2025;;;;5;Propio
+P002235;C01;24/03/2025;No;Negativo;;4;Propio
+P002235;C01;15/06/2025;Si;Nacido vivo;;3;Propio
+P002236;C01;03/07/2022;Si;Nacido vivo;;0;Propio
+P002237;C01;15/10/2022;Si;Nacido vivo;;0;Propio
+P002238;C01;30/06/2022;No;Negativo;;3;Propio
+P002238;C01;12/04/2023;No;Negativo;;5;Propio
+P002238;C01;22/07/2023;Si;Aborto;03/09/2023;4;Propio
+P002238;C01;12/11/2023;Si;Aborto;08/01/2024;3;Propio
+P002238;C01;21/10/2024;No;Negativo;;0;Propio
+P002239;C01;23/03/2025;No;Negativo;;1;Propio
+P002240;C03;11/03/2024;Si;Nacido vivo;;1;Propio
+P002242;C02;31/01/2023;Si;Nacido vivo;;2;Propio
+P002243;C01;25/01/2023;No;Negativo;;2;Propio
+P002243;C01;04/04/2023;No;Negativo;;1;Propio
+P002243;C01;24/05/2024;No;Negativo;;1;Propio
+P002243;C01;05/10/2024;No;Negativo;;0;Propio
+P002243;C01;17/06/2025;Si;Aborto;;3;Propio
+P002244;C03;17/01/2022;Si;Aborto;03/03/2022;0;Propio
+P002244;C03;29/08/2022;Si;Nacido vivo;;0;Propio
+P002245;C01;30/05/2025;No;Negativo;;1;Propio
+P002245;C01;11/09/2025;;;;0;Propio
+P002245;C01;15/06/2026;No;Negativo;;1;Propio
+P002247;C01;09/09/2022;Si;Nacido vivo;;0;Propio
+P002248;C01;25/03/2024;No;Negativo;;4;Propio
+P002248;C01;03/06/2024;Si;Nacido vivo;;3;Propio
+P002250;C01;01/06/2024;Si;Nacido vivo;;2;Propio
+P002251;C01;15/04/2024;No;Negativo;;2;Propio
+P002251;C01;07/06/2024;Si;Aborto;26/07/2024;1;Propio
+P002251;C01;20/02/2025;No;Negativo;;2;Propio
+P002252;C01;23/05/2023;Si;Aborto;;3;Propio
+P002252;C01;17/03/2024;Si;Nacido vivo;;2;Propio
+P002254;C02;01/11/2024;No;Negativo;;4;Propio
+P002254;C02;02/01/2025;;;;3;Propio
+P002255;C02;10/01/2023;No;Negativo;;5;Propio
+P002255;C02;09/06/2023;No;Negativo;;4;Propio
+P002255;C02;02/08/2023;Si;Aborto;07/10/2023;3;Propio
+P002255;C02;22/11/2023;No;Negativo;;2;Propio
+P002255;C02;15/03/2024;No;Negativo;;1;Propio
+P002255;C02;18/11/2024;Si;Nacido vivo;;0;Propio
+P002256;C01;11/03/2024;No;Negativo;;1;Propio
+P002256;C01;05/06/2024;No;Negativo;;0;Propio
+P002258;C01;27/10/2024;No;Negativo;;1;Propio
+P002258;C01;25/01/2025;Si;Nacido vivo;;0;Propio
+P002259;C01;25/07/2024;No;Negativo;;2;Propio
+P002259;C01;18/11/2024;No;Negativo;;1;Propio
+P002259;C01;17/02/2025;Si;Nacido vivo;;;Propio
+P002260;C01;03/05/2024;Si;Nacido vivo;;1;Propio
+P002261;C02;03/04/2025;Si;Nacido vivo;;2;Propio
+P002262;C01;04/01/2025;Si;Aborto;;3;Propio
+P002262;C01;11/06/2025;No;Negativo;;2;Propio
+P002262;C01;17/07/2025;Si;Nacido vivo;;1;Propio
+P002263;C02;19/03/2024;No;Negativo;;0;Propio
+P002265;C01;17/10/2022;Si;Nacido vivo;;0;Propio
+P002266;C01;10/07/2024;;;;2;Propio
+P002266;C01;28/11/2024;Si;Nacido vivo;;1;Propio
+P002267;C02;09/06/2022;No;Negativo;;3;Propio
+P002267;C02;05/11/2022;No;Negativo;;2;Propio
+P002268;C02;19/08/2023;No;Negativo;;0;Propio
+P002270;C02;14/05/2022;Si;Nacido vivo;;2;Propio
+P002271;C01;31/10/2023;No;Negativo;;3;Propio
+P002272;C02;02/09/2024;No;Negativo;;2;Propio
+P002272;C02;18/05/2025;No;Negativo;;0;Propio
+P002273;C01;10/04/2024;No;Negativo;;1;Propio
+P002273;C01;18/05/2024;Si;Aborto;09/07/2024;0;Propio
+P002273;C01;26/09/2025;Si;Nacido vivo;;1;Propio
+P002274;C01;12/06/2022;No;Negativo;;1;Propio
+P002274;C01;21/09/2024;Si;Nacido vivo;;0;Propio
+P002277;C02;03/03/2022;Si;Aborto;24/04/2022;3;Propio
+P002279;C03;17/10/2023;Si;Aborto;14/12/2023;1;Propio
+P002280;C02;05/02/2023;Si;Aborto;01/04/2023;0;Propio
+P002280;C02;23/07/2024;No;Negativo;;4;Propio
+P002280;C02;09/10/2024;No;Negativo;;3;Propio
+P002281;C01;28/08/2024;;;;4;Propio
+P002281;C01;11/12/2024;Si;Nacido vivo;;3;Propio
+P002282;C02;16/06/2024;Si;Nacido vivo;;2;Propio
+P002287;C01;30/06/2022;No;Negativo;;2;Propio
+P002287;C01;19/12/2022;Si;Aborto;24/02/2023;3;Propio
+P002287;C01;09/04/2023;Si;Nacido vivo;;2;Propio
+P002288;C02;17/01/2024;No;Negativo;;4;Propio
+P002288;C02;16/03/2024;Si;Nacido vivo;;3;Propio
+P002289;C01;25/05/2024;Si;Nacido vivo;;1;Propio
+P002291;C02;30/09/2023;Si;Nacido vivo;;1;Propio
+P002292;C01;22/05/2021;No;Negativo;;5;Propio
+P002292;C01;10/07/2021;Si;Aborto;;4;Propio
+P002292;C01;23/02/2022;No;Negativo;;3;Propio
+P002292;C01;23/04/2022;Si;Nacido vivo;;2;Propio
+P002293;C03;26/10/2024;No;Negativo;;2;Propio
+P002293;C03;30/12/2024;Si;Nacido vivo;;1;Propio
+P002294;C03;21/12/2024;Si;Nacido vivo;;3;Propio
+P002295;C01;02/05/2024;Si;Aborto;29/06/2024;0;Propio
+P002295;C01;03/08/2025;Si;Aborto;;4;Propio
+P002295;C01;12/01/2026;Si;En curso;;3;Propio
+P002297;C01;19/08/2022;Si;Nacido vivo;;;Propio
+P002298;C01;07/08/2023;No;Negativo;;0;Propio
+P002299;C01;21/03/2023;No;Negativo;;1;Propio
+P002299;C01;27/04/2023;No;Negativo;;0;Propio
+P002300;C01;07/02/2025;Si;Nacido vivo;;2;Propio
+P002302;C02;06/10/2023;Si;Nacido vivo;;0;Propio
+P002303;C02;29/12/2021;No;Negativo;;5;Propio
+P002303;C02;04/06/2022;No;Negativo;;4;Propio
+P002303;C02;14/08/2022;No;Negativo;;3;Propio
+P002303;C02;24/07/2023;Si;Nacido vivo;;1;Propio
+P002304;C01;06/10/2024;Si;Nacido vivo;;2;Propio
+P002305;C02;04/08/2024;No;Negativo;;2;Propio
+P002305;C02;16/10/2024;No;Negativo;;1;Propio
+P002306;C01;02/09/2024;No;Negativo;;0;Propio
+P002306;C01;07/01/2025;Si;Nacido vivo;;0;Propio
+P002307;C02;16/01/2025;No;Negativo;;4;Propio
+P002307;C02;16/02/2025;No;Negativo;;3;Propio
+P002309;C02;15/06/2024;Si;Nacido vivo;;0;Propio
+P002310;C02;22/02/2021;Si;Aborto;;4;Propio
+P002310;C02;18/06/2021;Si;Nacido vivo;;3;Propio
+P002311;C01;27/12/2023;Si;Nacido vivo;;0;Propio
+P002312;C01;01/07/2023;Si;Nacido vivo;;3;Propio
+P002313;C02;10/11/2023;Si;Nacido vivo;;0;Propio
+P002314;C01;12/03/2025;No;Negativo;;1;Propio
+P002314;C01;23/01/2026;Si;En curso;;2;Propio
+P002316;C01;28/11/2024;No;Negativo;;3;Propio
+P002316;C01;24/01/2025;No;Negativo;;2;Propio
+P002316;C01;02/04/2025;;;;1;Propio
+P002317;C02;05/10/2024;Si;Aborto;;2;Propio
+P002317;C02;22/01/2025;Si;Nacido vivo;;1;Propio
+P002320;C01;02/07/2022;Si;Aborto;14/09/2022;3;Propio
+P002320;C01;14/06/2023;No;Negativo;;2;Propio
+P002320;C01;24/02/2024;No;Negativo;;4;Propio
+P002320;C01;07/04/2024;;;;3;Propio
+P002321;C01;16/10/2024;No;Negativo;;4;Propio
+P002321;C01;12/04/2025;Si;Nacido vivo;;3;Propio
+P002322;C01;24/11/2024;Si;Nacido vivo;;1;Propio
+P002323;C01;01/07/2023;Si;Nacido vivo;;1;Propio
+P002324;C01;26/08/2023;No;Negativo;;4;Propio
+P002324;C01;11/11/2023;Si;Nacido vivo;;3;Propio
+P002325;C01;23/04/2022;Si;Nacido vivo;;0;Propio
+P002327;C02;12/01/2023;Si;Aborto;;1;Propio
+P002328;C03;07/06/2024;No;Negativo;;0;Propio
+P002332;C01;19/12/2024;Si;Nacido vivo;;3;Propio
+P002333;C01;26/02/2024;No;Negativo;;3;Propio
+P002333;C01;03/08/2024;No;Negativo;;3;Propio
+P002333;C01;04/09/2024;No;Negativo;;2;Propio
+P002333;C01;08/11/2025;No;Negativo;;1;Propio
+P002334;C01;22/11/2024;No;Negativo;;2;Propio
+P002334;C01;08/08/2025;;;;3;Propio
+P002334;C01;30/11/2025;No;Negativo;;0;Propio
+P002335;C01;05/09/2024;No;Negativo;;0;Propio
+P002335;C01;21/02/2025;Si;Nacido vivo;;1;Propio
+P002336;C01;24/10/2022;No;Negativo;;2;Propio
+P002337;C01;01/12/2023;Si;Aborto;;2;Propio
+P002337;C01;19/05/2024;No;Negativo;;1;Propio
+P002337;C01;05/01/2025;No;Negativo;;0;Propio
+P002338;C02;20/08/2024;Si;Nacido vivo;;3;Propio
+P002340;C01;26/11/2024;Si;Nacido vivo;;2;Propio
+P002341;C01;25/01/2023;No;Negativo;;0;Propio
+P002341;C01;16/12/2024;Si;Aborto;;2;Propio
+P002341;C01;11/10/2025;Si;Nacido vivo;;1;Propio
+P002342;C01;01/07/2022;No;Negativo;;2;Propio
+P002342;C01;27/07/2022;Si;Nacido vivo;;1;Propio
+P002344;C01;24/04/2022;Si;Aborto;10/06/2022;1;Propio
+P002344;C01;21/09/2022;Si;Nacido vivo;;0;Propio
+P002345;C01;11/11/2022;Si;Aborto;;3;Propio
+P002345;C01;14/08/2023;No;Negativo;;2;Propio
+P002345;C01;22/11/2023;No;Negativo;;1;Propio
+P002345;C01;13/12/2024;Si;Nacido vivo;;3;Propio
+P002348;C02;05/10/2024;Si;Aborto;09/12/2024;0;Propio
+P002348;C02;23/06/2025;Si;Nacido vivo;;;Propio
+P002350;C01;26/06/2024;Si;Nacido vivo;;0;Propio
+P002351;C01;18/01/2024;Si;Nacido vivo;;0;Propio
+P002352;C03;25/02/2025;Si;Aborto;09/05/2025;0;Propio
+P002353;C01;29/08/2024;No;Negativo;;2;Propio
+P002353;C01;21/11/2024;Si;Nacido vivo;;1;Propio
+P002355;C01;18/10/2021;No;Negativo;;4;Propio
+P002355;C01;08/12/2021;Si;Nacido vivo;;3;Propio
+P002356;C01;06/02/2022;Si;Nacido vivo;;1;Propio
+P002358;C01;17/03/2023;Si;Nacido vivo;;0;Propio
+P002359;C01;30/09/2023;Si;Nacido vivo;;0;Propio
+P002360;C01;13/09/2024;Si;Aborto;09/11/2024;2;Propio
+P002360;C01;14/01/2025;No;Negativo;;1;Propio
+P002360;C01;31/05/2025;Si;Aborto;14/08/2025;0;Propio
+P002361;C01;02/03/2024;Si;Aborto;04/05/2024;2;Propio
+P002361;C01;18/12/2025;No;Negativo;;3;Propio
+P002361;C01;14/03/2026;Si;En curso;;2;Propio
+P002362;C01;17/09/2024;Si;Nacido vivo;;0;Propio
+P002364;C03;17/02/2024;Si;Nacido vivo;;1;Propio
+P002365;C01;29/12/2022;No;Negativo;;2;Propio
+P002366;C01;21/09/2022;Si;Nacido vivo;;1;Propio
+P002368;C03;09/02/2025;No;Negativo;;2;Propio
+P002368;C03;15/03/2025;Si;Nacido vivo;;1;Propio
+P002369;C02;05/05/2023;No;Negativo;;3;Propio
+P002369;C02;18/10/2023;No;Negativo;;2;Propio
+P002369;C02;05/12/2023;No;Negativo;;1;Propio
+P002369;C02;19/02/2024;Si;Nacido vivo;;0;Propio
+P002370;C01;17/08/2021;Si;Nacido vivo;;1;Propio
+P002371;C01;03/12/2023;No;Negativo;;3;Propio
+P002371;C01;10/02/2025;No;Negativo;;2;Propio
+P002371;C01;30/09/2025;No;Negativo;;1;Propio
+P002372;C02;12/02/2025;Si;Nacido vivo;;2;Propio
+P002373;C01;12/02/2025;Si;Nacido vivo;;1;Propio
+P002374;C01;06/05/2025;No;Negativo;;3;Propio
+P002375;C03;08/03/2024;No;Negativo;;2;Propio
+P002375;C03;01/07/2024;;;;1;Propio
+P002375;C03;15/10/2024;;;;0;Propio
+P002376;C03;26/05/2023;No;Negativo;;3;Propio
+P002376;C03;13/08/2023;Si;Nacido vivo;;2;Propio
+P002379;C02;20/11/2022;No;Negativo;;1;Propio
+P002382;C01;25/07/2022;Si;Aborto;22/09/2022;0;Propio
+P002382;C01;01/12/2023;Si;Aborto;15/01/2024;0;Propio
+P002383;C01;15/01/2024;Si;Nacido vivo;;0;Propio
+P002384;C02;04/12/2024;Si;Nacido vivo;;2;Propio
+P002385;C01;19/01/2024;No;Negativo;;1;Propio
+P002385;C01;18/12/2024;Si;Aborto;11/02/2025;0;Propio
+P002386;C01;06/03/2023;No;Negativo;;5;Propio
+P002386;C01;20/07/2023;;;;4;Propio
+P002386;C01;24/09/2023;No;Negativo;;3;Propio
+P002386;C01;14/03/2025;No;Negativo;;;Propio
+P002386;C01;26/06/2025;No;Negativo;;0;Propio
+P002387;C01;21/12/2022;Si;Nacido vivo;;1;Propio
+P002388;C01;21/01/2022;Si;Nacido vivo;;0;Propio
+P002389;C01;15/05/2024;Si;Nacido vivo;;0;Propio
+P002391;C02;18/02/2023;No;Negativo;;2;Propio
+P002391;C02;18/03/2023;No;Negativo;;1;Propio
+P002391;C02;26/06/2023;No;Negativo;;0;Propio
+P002392;C01;09/02/2026;Si;En curso;;0;Propio
+P002395;C03;21/09/2021;Si;Aborto;05/11/2021;4;Propio
+P002395;C03;27/03/2022;No;Negativo;;3;Propio
+P002395;C03;17/05/2022;No;Negativo;;2;Propio
+P002395;C03;03/07/2022;No;Negativo;;1;Propio
+P002396;C02;13/08/2022;No;Negativo;;2;Propio
+P002396;C02;22/10/2022;Si;Aborto;19/12/2022;1;Propio
+P002396;C02;22/05/2023;Si;Nacido vivo;;0;Propio
+P002397;C02;09/05/2022;Si;Aborto;29/06/2022;1;Propio
+P002397;C02;04/08/2022;Si;Nacido vivo;;0;Propio
+P002399;C01;10/03/2025;Si;Aborto;24/05/2025;2;Propio
+P002399;C01;02/04/2026;No;Negativo;;1;Propio
+P002400;C01;15/10/2024;No;Negativo;;4;Propio
+P002400;C01;19/03/2025;No;Negativo;;3;Propio
+P002401;C01;15/05/2023;Si;Nacido vivo;;3;Propio
+P002402;C02;25/02/2024;No;Negativo;;0;Propio
+P002403;C03;13/06/2023;No;Negativo;;3;Propio
+P002403;C03;20/10/2023;No;Negativo;;2;Propio
+P002403;C03;07/03/2024;Si;Nacido vivo;;1;Propio
+P002404;C02;21/05/2025;No;Negativo;;2;Propio
+P002404;C02;21/09/2025;Si;Aborto;09/11/2025;1;Propio
+P002404;C02;05/02/2026;Si;En curso;;0;Propio
+P002406;C03;08/07/2022;Si;Aborto;15/09/2022;3;Propio
+P002406;C03;13/05/2023;Si;Aborto;;3;Propio
+P002407;C01;11/12/2021;Si;Nacido vivo;;1;Propio
+P002408;C03;27/01/2025;No;Negativo;;3;Propio
+P002408;C03;28/03/2025;Si;Aborto;24/05/2025;2;Propio
+P002408;C03;25/06/2025;Si;Nacido vivo;;1;Propio
+P002409;C01;27/02/2024;Si;Nacido vivo;;2;Propio
+P002411;C02;04/03/2022;Si;Aborto;15/04/2022;0;Propio
+P002412;C01;30/08/2024;No;Negativo;;2;Propio
+P002412;C01;06/04/2025;No;Negativo;;0;Propio
+P002413;C03;14/06/2024;Si;Aborto;25/07/2024;0;Propio
+P002414;C01;13/08/2024;Si;Nacido vivo;;1;Propio
+P002416;C02;13/04/2024;Si;Nacido vivo;;1;Propio
+P002417;C03;08/06/2022;Si;Nacido vivo;;1;Propio
+P002418;C03;31/07/2024;Si;Nacido vivo;;0;Propio
+P002420;C01;31/12/2024;Si;Nacido vivo;;1;Propio
+P002421;C01;04/06/2024;Si;Nacido vivo;;1;Propio
+P002422;C03;25/11/2022;No;Negativo;;4;Propio
+P002422;C03;23/03/2023;Si;Nacido vivo;;3;Propio
+P002423;C01;20/09/2024;No;Negativo;;2;Propio
+P002425;C01;24/09/2024;No;Negativo;;2;Propio
+P002425;C01;04/03/2025;No;Negativo;;1;Propio
+P002425;C01;10/07/2025;No;Negativo;;0;Propio
+P002425;C01;15/08/2026;No;Negativo;;2;Propio
+P002426;C01;13/02/2023;Si;Aborto;09/04/2023;4;Propio
+P002426;C01;05/10/2023;No;Negativo;;3;Propio
+P002426;C01;31/10/2023;Si;Nacido vivo;;2;Propio
+P002427;C01;13/11/2021;Si;Aborto;19/01/2022;1;Propio
+P002427;C01;13/09/2022;Si;Aborto;07/11/2022;1;Propio
+P002427;C01;23/01/2023;Si;Nacido vivo;;0;Propio
+P002428;C02;11/02/2025;No;Negativo;;1;Propio
+P002428;C02;25/03/2025;Si;Nacido vivo;;0;Propio
+P002429;C01;05/10/2024;;;;1;Propio
+P002429;C01;31/12/2024;No;Negativo;;0;Propio
+P002429;C01;20/10/2025;Si;Nacido vivo;;2;Propio
+P002430;C01;28/08/2023;;;;4;Propio
+P002430;C01;05/12/2023;Si;Nacido vivo;;3;Propio
+P002431;C03;13/06/2021;No;Negativo;;3;Propio
+P002433;C01;30/06/2025;Si;Nacido vivo;;1;Propio
+P002434;C03;28/07/2023;Si;Nacido vivo;;1;Propio
+P002435;C01;20/06/2023;Si;Nacido vivo;;0;Propio
+P002437;C02;12/05/2023;Si;Nacido vivo;;0;Propio
+P002438;C01;09/06/2023;No;Negativo;;3;Propio
+P002439;C03;25/10/2023;Si;Nacido vivo;;1;Propio
+P002440;C03;04/02/2024;Si;Nacido vivo;;2;Propio
+P002441;C03;05/05/2023;No;Negativo;;1;Propio
+P002441;C03;21/07/2023;Si;Nacido vivo;;0;Propio
+P002442;C01;22/12/2024;No;Negativo;;3;Propio
+P002442;C01;24/04/2025;No;Negativo;;2;Propio
+P002442;C01;16/07/2025;;;;1;Propio
+P002442;C01;19/10/2025;Si;Nacido vivo;;0;Propio
+P002443;C01;12/12/2024;No;Negativo;;0;Propio
+P002444;C01;02/03/2024;Si;Aborto;30/04/2024;2;Propio
+P002444;C01;21/06/2024;No;Negativo;;1;Propio
+P002445;C01;23/10/2024;No;Negativo;;0;Propio
+P002446;C01;28/04/2023;No;Negativo;;1;Propio
+P002446;C01;30/12/2023;No;Negativo;;;Propio
+P002446;C01;25/05/2024;;;;1;Propio
+P002446;C01;13/02/2025;Si;Aborto;15/04/2025;2;Propio
+P002447;C01;14/11/2024;No;Negativo;;1;Propio
+P002448;C01;29/04/2024;Si;Aborto;10/07/2024;1;Propio
+P002448;C01;02/09/2024;Si;Nacido vivo;;0;Propio
+P002449;C01;29/01/2024;Si;Aborto;12/04/2024;2;Propio
+P002449;C01;11/02/2025;No;Negativo;;2;Propio
+P002451;C01;06/06/2023;Si;Nacido vivo;;3;Propio
+P002454;C01;20/07/2023;Si;Aborto;05/09/2023;0;Propio
+P002454;C01;14/03/2024;No;Negativo;;1;Propio
+P002456;C01;23/07/2024;Si;Nacido vivo;;2;Propio
+P002457;C02;14/01/2024;Si;Nacido vivo;;0;Propio
+P002459;C02;11/03/2025;No;Negativo;;1;Propio
+P002459;C02;07/07/2025;No;Negativo;;0;Propio
+P002459;C02;14/06/2026;Si;En curso;;0;Propio
+P002460;C02;30/01/2024;No;Negativo;;3;Propio
+P002460;C02;06/11/2024;No;Negativo;;2;Propio
+P002461;C01;03/11/2022;No;Negativo;;;Propio
+P002461;C01;11/02/2023;No;Negativo;;2;Propio
+P002463;C01;09/04/2024;Si;Nacido vivo;;0;Propio
+P002464;C02;17/10/2024;Si;Nacido vivo;;0;Propio
+P002465;C02;10/11/2024;Si;Nacido vivo;;3;Propio
+P002466;C01;10/09/2024;Si;Nacido vivo;;2;Propio
+P002467;C03;27/02/2024;No;Negativo;;2;Propio
+P002467;C03;01/06/2024;No;Negativo;;1;Propio
+P002469;C01;20/08/2023;No;Negativo;;3;Propio
+P002469;C01;23/11/2023;Si;Nacido vivo;;2;Propio
+P002470;C02;16/08/2021;Si;Aborto;25/09/2021;0;Propio
+P002471;C01;30/06/2025;Si;Aborto;26/08/2025;3;Propio
+P002471;C01;05/02/2026;No;Negativo;;2;Propio
+P002472;C01;21/11/2024;Si;Nacido vivo;;2;Propio
+P002475;C01;11/10/2024;Si;Nacido vivo;;2;Propio
+P002476;C03;25/02/2025;Si;Nacido vivo;;1;Propio
+P002478;C02;01/08/2023;No;Negativo;;2;Propio
+P002478;C02;04/09/2023;Si;Aborto;18/11/2023;1;Propio
+P002478;C02;06/08/2026;Si;En curso;;0;Propio
+P002480;C02;17/06/2023;No;Negativo;;0;Propio
+P002481;C01;30/12/2022;Si;Nacido vivo;;;Propio
+P002482;C01;26/07/2023;No;Negativo;;2;Propio
+P002482;C01;03/03/2024;Si;Aborto;21/04/2024;0;Propio
+P002482;C01;27/01/2025;Si;Aborto;19/03/2025;2;Propio
+P002482;C01;28/07/2025;Si;Aborto;07/10/2025;1;Propio
+P002484;C02;31/01/2024;No;Negativo;;5;Propio
+P002484;C02;02/07/2025;No;Negativo;;4;Propio
+P002484;C02;02/08/2025;No;Negativo;;3;Propio
+P002484;C02;28/11/2025;Si;Nacido vivo;;1;Propio
+P002485;C03;28/05/2023;No;Negativo;;2;Propio
+P002486;C01;14/07/2024;Si;Nacido vivo;;2;Propio
+P002487;C03;21/12/2024;No;Negativo;;1;Propio
+P002487;C03;02/07/2025;No;Negativo;;2;Propio
+P002487;C03;16/12/2025;;;;1;Propio
+P002488;C01;23/01/2024;Si;Nacido vivo;;3;Propio
+P002489;C01;11/11/2024;Si;Aborto;;1;Propio
+P002489;C01;06/11/2025;No;Negativo;;2;Propio
+P002489;C01;19/02/2026;Si;Aborto;;1;Propio
+P002490;C01;24/11/2022;No;Negativo;;1;Propio
+P002490;C01;03/12/2023;Si;Nacido vivo;;1;Propio
+P002491;C02;10/04/2024;Si;Aborto;22/06/2024;2;Propio
+P002491;C02;20/02/2025;No;Negativo;;0;Propio
+P002492;C01;11/09/2024;Si;Nacido vivo;;0;Propio
+P002493;C02;18/05/2025;No;Negativo;;1;Propio
+P002496;C01;09/03/2023;No;Negativo;;1;Propio
+P002497;C01;27/02/2023;Si;Nacido vivo;;1;Propio
+P002499;C01;19/10/2021;;;;3;Propio
+P002499;C01;25/07/2022;Si;Aborto;27/09/2022;2;Propio
+P002499;C01;03/06/2023;Si;Nacido vivo;;1;Propio
+P002500;C02;23/03/2023;Si;Nacido vivo;;0;Propio
+P002501;C01;22/12/2021;;;;4;Propio
+P002501;C01;14/02/2022;Si;Nacido vivo;;3;Propio
+P002502;C01;29/12/2022;Si;Nacido vivo;;1;Propio
+P002503;C03;21/09/2023;No;Negativo;;0;Propio
+P002506;C01;09/03/2022;Si;Nacido vivo;;2;Propio
+P002508;C01;11/01/2024;Si;Nacido vivo;;3;Propio
+P002509;C01;18/08/2023;Si;Nacido vivo;;2;Propio
+P002511;C01;01/10/2024;Si;Nacido vivo;;0;Propio
+P002512;C01;05/07/2023;Si;Nacido vivo;;0;Propio
+P002513;C02;08/02/2024;No;Negativo;;2;Propio
+P002513;C02;20/07/2024;Si;Nacido vivo;;1;Propio
+P002514;C02;21/12/2022;No;Negativo;;1;Propio
+P002514;C02;10/12/2023;No;Negativo;;1;Propio
+P002514;C02;06/07/2025;No;Negativo;;1;Propio
+P002516;C01;21/10/2022;No;Negativo;;4;Propio
+P002516;C01;18/01/2023;Si;Nacido vivo;;3;Propio
+P002518;C01;14/08/2022;Si;Nacido vivo;;2;Propio
+P002520;C02;15/03/2024;Si;Nacido vivo;;1;Propio
+P002523;C01;09/06/2022;No;Negativo;;1;Propio
+P002523;C01;10/12/2022;Si;Nacido vivo;;0;Propio
+P002524;C01;29/03/2024;Si;Aborto;21/05/2024;4;Propio
+P002524;C01;04/08/2024;Si;Nacido vivo;;3;Propio
+P002525;C01;24/05/2025;Si;Aborto;07/08/2025;2;Propio
+P002525;C01;28/10/2025;No;Negativo;;1;Propio
+P002525;C01;08/01/2026;No;Negativo;;0;Propio
+P002526;C03;18/01/2022;No;Negativo;;0;Propio
+P002527;C01;02/06/2024;Si;Nacido vivo;;2;Propio
+P002528;C01;25/07/2023;;;;2;Propio
+P002529;C02;07/04/2023;Si;Aborto;17/06/2023;;Propio
+P002530;C03;06/11/2023;Si;Nacido vivo;;0;Propio
+P002531;C03;28/08/2024;No;Negativo;;0;Propio
+P002532;C03;05/06/2022;No;Negativo;;3;Propio
+P002532;C03;10/07/2022;Si;Aborto;;2;Propio
+P002532;C03;20/03/2023;Si;Nacido vivo;;1;Propio
+P002533;C02;18/05/2023;Si;Nacido vivo;;1;Propio
+P002534;C02;29/06/2021;Si;Nacido vivo;;2;Propio
+P002535;C01;01/10/2021;No;Negativo;;;Propio
+P002535;C01;27/02/2022;Si;Nacido vivo;;2;Propio
+P002537;C01;16/10/2022;Si;Nacido vivo;;0;Propio
+P002538;C01;24/11/2025;Si;Nacido vivo;;3;Propio
+P002539;C02;22/01/2023;No;Negativo;;3;Propio
+P002539;C02;23/04/2023;Si;Nacido vivo;;;Propio
+P002541;C01;19/08/2025;Si;Nacido vivo;;1;Propio
+P002542;C01;03/06/2024;No;Negativo;;1;Propio
+P002542;C01;26/11/2024;Si;Nacido vivo;;0;Propio
+P002543;C02;06/02/2025;Si;Nacido vivo;;0;Propio
+P002544;C01;08/08/2025;No;Negativo;;3;Propio
+P002544;C01;26/10/2025;No;Negativo;;2;Propio
+P002545;C01;07/09/2024;Si;Nacido vivo;;3;Propio
+P002547;C01;07/01/2024;No;Negativo;;2;Propio
+P002547;C01;01/05/2024;Si;Nacido vivo;;1;Propio
+P002548;C02;02/10/2022;Si;Aborto;27/11/2022;2;Propio
+P002548;C02;18/02/2023;Si;Nacido vivo;;1;Propio
+P002549;C02;09/09/2023;Si;Aborto;14/11/2023;0;Propio
+P002550;C03;17/07/2024;Si;Nacido vivo;;2;Propio
+P002551;C02;17/07/2023;Si;Nacido vivo;;1;Propio
+P002552;C02;22/09/2024;Si;Nacido vivo;;3;Propio
+P002553;C03;07/03/2022;Si;Nacido vivo;;1;Propio
+P002555;C01;31/12/2025;No;Negativo;;0;Propio
+P002556;C01;25/03/2024;;;;2;Propio
+P002556;C01;08/07/2024;Si;Nacido vivo;;0;Propio
+P002557;C01;17/11/2023;Si;Nacido vivo;;0;Propio
+P002558;C01;23/06/2023;No;Negativo;;3;Propio
+P002558;C01;08/09/2023;Si;Aborto;28/10/2023;2;Propio
+P002559;C01;12/03/2024;No;Negativo;;1;Propio
+P002560;C01;15/02/2024;Si;Nacido vivo;;1;Propio
+P002563;C03;14/08/2023;No;Negativo;;1;Propio
+P002565;C02;21/09/2022;Si;Nacido vivo;;3;Propio
+P002568;C01;10/06/2023;Si;Nacido vivo;;2;Propio
+P002569;C01;13/06/2024;No;Negativo;;2;Propio
+P002569;C01;07/09/2024;No;Negativo;;1;Propio
+P002569;C01;09/11/2024;Si;Nacido vivo;;0;Propio
+P002570;C03;24/07/2023;Si;Aborto;14/09/2023;1;Propio
+P002570;C03;17/12/2023;Si;Aborto;10/02/2024;0;Propio
+P002571;C01;19/11/2023;Si;Nacido vivo;;0;Propio
+P002572;C03;20/02/2023;Si;Nacido vivo;;1;Propio
+P002573;C01;16/10/2023;No;Negativo;;2;Propio
+P002573;C01;28/11/2023;Si;Nacido vivo;;1;Propio
+P002575;C01;17/11/2022;Si;Aborto;02/01/2023;1;Propio
+P002576;C01;10/08/2021;Si;Nacido vivo;;0;Propio
+P002577;C03;24/02/2022;Si;Nacido vivo;;3;Propio
+P002578;C01;01/01/2025;Si;Nacido vivo;;0;Propio
+P002579;C01;27/02/2023;No;Negativo;;2;Propio
+P002579;C01;11/05/2023;Si;Aborto;04/07/2023;1;Propio
+P002579;C01;20/08/2023;Si;Aborto;;0;Propio
+P002579;C01;23/09/2024;Si;Nacido vivo;;0;Propio
+P002580;C01;20/04/2024;Si;Nacido vivo;;0;Propio
+P002581;C01;27/10/2023;Si;Nacido vivo;;0;Propio
+P002583;C01;02/10/2024;;;;1;Propio
+P002583;C01;26/02/2025;Si;Nacido vivo;;0;Propio
+P002584;C02;09/01/2024;Si;Nacido vivo;;0;Propio
+P002586;C01;16/11/2024;Si;Aborto;;3;Propio
+P002586;C01;21/06/2025;No;Negativo;;2;Propio
+P002586;C01;12/08/2025;No;Negativo;;1;Propio
+P002587;C03;03/05/2021;Si;Nacido vivo;;0;Propio
+P002588;C02;19/03/2025;No;Negativo;;1;Propio
+P002588;C02;26/09/2025;No;Negativo;;0;Propio
+P002588;C02;10/09/2026;No;Negativo;;2;Propio
+P002589;C02;02/05/2024;No;Negativo;;2;Propio
+P002589;C02;07/08/2025;No;Negativo;;1;Propio
+P002591;C01;28/01/2024;Si;Aborto;07/04/2024;1;Propio
+P002591;C01;16/02/2025;Si;Nacido vivo;;0;Propio
+P002592;C01;13/05/2024;Si;Nacido vivo;;1;Propio
+P002593;C03;18/05/2024;No;Negativo;;0;Propio
+P002593;C03;13/03/2025;;;;2;Propio
+P002593;C03;21/07/2025;Si;Aborto;01/09/2025;1;Propio
+P002593;C03;09/03/2026;Si;En curso;;0;Propio
+P002594;C01;27/02/2025;No;Negativo;;2;Propio
+P002595;C01;24/08/2024;Si;Nacido vivo;;0;Propio
+P002596;C01;27/11/2022;No;Negativo;;;Propio
+P002596;C01;02/02/2023;No;Negativo;;2;Propio
+P002596;C01;07/12/2023;No;Negativo;;1;Propio
+P002597;C01;18/09/2024;Si;Nacido vivo;;0;Propio
+P002599;C03;01/08/2023;No;Negativo;;1;Propio
+P002599;C03;21/11/2023;;;;0;Propio
+P002600;C02;14/06/2024;Si;Aborto;07/08/2024;1;Propio
+P002600;C02;18/09/2024;Si;Nacido vivo;;0;Propio
+P002601;C02;31/12/2023;Si;Aborto;;2;Propio
+P002602;C01;06/11/2024;Si;Nacido vivo;;1;Propio
+P002603;C01;20/07/2021;Si;Nacido vivo;;0;Propio
+P002604;C01;26/11/2023;No;Negativo;;1;Propio
+P002604;C01;26/01/2024;Si;Nacido vivo;;0;Propio
+P002605;C02;08/03/2024;No;Negativo;;0;Propio
+P002605;C02;08/01/2025;Si;Nacido vivo;;0;Propio
+P002607;C01;06/07/2022;Si;Aborto;30/08/2022;1;Propio
+P002607;C01;05/05/2023;;;;0;Propio
+P002607;C01;31/12/2023;Si;Nacido vivo;;1;Propio
+P002608;C01;20/10/2022;No;Negativo;;;Propio
+P002608;C01;25/12/2022;No;Negativo;;2;Propio
+P002608;C01;14/02/2025;No;Negativo;;1;Propio
+P002609;C03;23/11/2023;Si;Aborto;;1;Propio
+P002609;C03;03/03/2025;No;Negativo;;2;Propio
+P002609;C03;09/05/2025;Si;Aborto;02/07/2025;1;Propio
+P002609;C03;22/12/2025;Si;Nacido vivo;;1;Propio
+P002610;C01;24/07/2022;Si;Nacido vivo;;0;Propio
+P002611;C03;01/08/2025;Si;Nacido vivo;;2;Propio
+P002612;C01;27/11/2022;No;Negativo;;3;Propio
+P002613;C01;26/05/2023;No;Negativo;;1;Propio
+P002613;C01;05/08/2023;Si;Nacido vivo;;0;Propio
+P002614;C02;24/09/2023;Si;Nacido vivo;;1;Propio
+P002616;C02;03/07/2022;Si;Nacido vivo;;3;Propio
+P002617;C02;19/08/2024;No;Negativo;;3;Propio
+P002617;C02;23/10/2025;Si;Nacido vivo;;0;Propio
+P002619;C01;21/01/2023;No;Negativo;;4;Propio
+P002619;C01;05/04/2023;Si;Aborto;;3;Propio
+P002619;C01;06/09/2023;Si;Aborto;18/10/2023;2;Propio
+P002619;C01;10/08/2024;Si;Aborto;21/09/2024;2;Propio
+P002619;C01;15/11/2024;Si;Aborto;;1;Propio
+P002620;C01;17/11/2024;Si;Nacido vivo;;3;Propio
+P002622;C03;10/05/2022;No;Negativo;;0;Propio
+P002623;C02;10/03/2024;No;Negativo;;6;Propio
+P002623;C02;09/04/2024;Si;Aborto;02/06/2024;5;Propio
+P002623;C02;28/12/2024;;;;4;Propio
+P002623;C02;08/03/2025;Si;Nacido vivo;;3;Propio
+P002624;C01;06/02/2024;No;Negativo;;3;Propio
+P002624;C01;19/03/2024;Si;Aborto;;2;Propio
+P002624;C01;28/08/2024;Si;Aborto;;1;Propio
+P002624;C01;15/08/2025;No;Negativo;;2;Propio
+P002624;C01;29/10/2025;Si;Nacido vivo;;1;Propio
+P002625;C02;04/11/2022;Si;Nacido vivo;;2;Propio
+P002626;C01;03/09/2025;Si;Nacido vivo;;1;Propio
+P002627;C01;12/05/2023;No;Negativo;;3;Propio
+P002627;C01;08/01/2024;Si;Aborto;02/03/2024;3;Propio
+P002627;C01;05/03/2025;No;Negativo;;2;Propio
+P002627;C01;02/07/2025;Si;Nacido vivo;;1;Propio
+P002628;C03;10/03/2021;Si;Nacido vivo;;0;Propio
+P002629;C01;30/08/2024;Si;Aborto;28/10/2024;3;Propio
+P002629;C01;01/06/2025;Si;Nacido vivo;;0;Propio
+P002630;C02;15/12/2023;No;Negativo;;1;Propio
+P002631;C02;17/02/2025;Si;Nacido vivo;;0;Propio
+P002632;C01;31/07/2023;No;Negativo;;;Propio
+P002632;C01;07/10/2023;No;Negativo;;2;Propio
+P002632;C01;11/11/2023;Si;Aborto;;1;Propio
+P002632;C01;26/09/2024;Si;Nacido vivo;;0;Propio
+P002634;C01;25/08/2023;No;Negativo;;2;Propio
+P002635;C01;02/09/2023;;;;0;Propio
+P002635;C01;17/08/2024;No;Negativo;;2;Propio
+P002639;C02;04/09/2024;Si;Aborto;06/11/2024;4;Propio
+P002639;C02;17/02/2025;Si;Nacido vivo;;3;Propio
+P002640;C01;04/04/2023;No;Negativo;;1;Propio
+P002641;C02;13/09/2024;Si;Aborto;10/11/2024;1;Propio
+P002643;C02;10/06/2026;No;Negativo;;1;Propio
+P002644;C01;12/04/2024;No;Negativo;;1;Propio
+P002644;C01;18/04/2026;Si;En curso;;0;Propio
+P002645;C01;09/10/2022;No;Negativo;;4;Propio
+P002645;C01;15/12/2022;No;Negativo;;3;Propio
+P002645;C01;27/06/2023;Si;Nacido vivo;;;Propio
+P002646;C01;12/11/2024;Si;Aborto;;2;Propio
+P002646;C01;30/06/2025;No;Negativo;;2;Propio
+P002646;C01;30/07/2025;No;Negativo;;1;Propio
+P002646;C01;19/03/2026;Si;En curso;;1;Propio
+P002647;C01;05/03/2023;No;Negativo;;1;Propio
+P002647;C01;10/07/2023;Si;Nacido vivo;;0;Propio
+P002648;C01;09/03/2022;Si;Aborto;;3;Propio
+P002648;C01;21/11/2022;No;Negativo;;;Propio
+P002648;C01;30/03/2023;No;Negativo;;1;Propio
+P002649;C01;01/02/2025;No;Negativo;;0;Propio
+P002650;C02;02/12/2022;Si;Aborto;04/02/2023;1;Propio
+P002650;C02;24/10/2023;Si;Nacido vivo;;0;Propio
+P002652;C01;09/01/2024;Si;Aborto;22/03/2024;0;Propio
+P002652;C01;25/08/2024;Si;Nacido vivo;;0;Propio
+P002653;C03;03/06/2024;No;Negativo;;0;Propio
+P002655;C01;23/04/2024;Si;Nacido vivo;;;Propio
+P002656;C02;10/03/2022;No;Negativo;;3;Propio
+P002656;C02;09/07/2022;Si;Nacido vivo;;2;Propio
+P002657;C01;26/12/2022;No;Negativo;;1;Propio
+P002657;C01;24/03/2023;Si;Nacido vivo;;0;Propio
+P002658;C03;08/10/2023;Si;Nacido vivo;;0;Propio
+P002659;C02;19/01/2022;Si;Nacido vivo;;1;Propio
+P002660;C02;02/09/2022;No;Negativo;;0;Propio
+P002661;C01;14/12/2023;No;Negativo;;1;Propio
+P002662;C01;22/11/2022;Si;Nacido vivo;;2;Propio
+P002663;C01;25/11/2022;Si;Nacido vivo;;1;Propio
+P002665;C03;23/10/2023;Si;Nacido vivo;;0;Propio
+P002666;C01;21/09/2022;Si;Nacido vivo;;1;Propio
+P002667;C02;14/07/2023;Si;Nacido vivo;;3;Propio
+P002669;C02;22/08/2023;No;Negativo;;1;Propio
+P002670;C01;07/09/2021;No;Negativo;;4;Propio
+P002670;C01;10/04/2022;;;;3;Propio
+P002670;C01;19/10/2022;Si;Nacido vivo;;2;Propio
+P002671;C01;22/02/2023;Si;Aborto;;4;Propio
+P002671;C01;29/07/2023;Si;Aborto;;3;Propio
+P002672;C03;26/11/2022;Si;Nacido vivo;;3;Propio
+P002673;C01;06/08/2021;Si;Nacido vivo;;3;Propio
+P002674;C02;23/06/2026;Si;En curso;;1;Propio
+P002675;C01;19/12/2023;;;;2;Propio
+P002675;C01;07/03/2024;Si;Aborto;19/05/2024;1;Propio
+P002675;C01;15/07/2024;Si;Nacido vivo;;0;Propio
+P002676;C01;19/01/2025;Si;Nacido vivo;;2;Propio
+P002677;C01;31/10/2023;Si;Nacido vivo;;1;Propio
+P002678;C01;05/07/2024;Si;Nacido vivo;;2;Propio
+P002679;C02;17/07/2024;Si;Nacido vivo;;3;Propio
+P002680;C01;31/05/2025;No;Negativo;;0;Propio
+P002681;C02;29/06/2023;Si;Aborto;;2;Propio
+P002681;C02;11/12/2023;No;Negativo;;1;Propio
+P002681;C02;18/05/2024;No;Negativo;;0;Propio
+P002682;C02;11/04/2025;Si;Aborto;05/06/2025;3;Propio
+P002683;C01;04/07/2024;Si;Aborto;;2;Propio
+P002683;C01;13/12/2024;Si;Nacido vivo;;1;Propio
+P002684;C01;12/01/2025;Si;Aborto;27/02/2025;3;Propio
+P002684;C01;15/07/2026;Si;En curso;;0;Propio
+P002685;C01;07/12/2023;No;Negativo;;1;Propio
+P002685;C01;12/02/2024;Si;Aborto;23/04/2024;0;Propio
+P002685;C01;11/09/2024;No;Negativo;;1;Propio
+P002685;C01;31/12/2024;Si;Nacido vivo;;0;Propio
+P002686;C02;02/08/2025;Si;Aborto;10/10/2025;2;Propio
+P002686;C02;01/03/2026;Si;En curso;;1;Propio
+P002687;C03;05/06/2023;Si;Aborto;;2;Propio
+P002687;C03;29/03/2024;Si;Nacido vivo;;1;Propio
+P002688;C02;06/11/2023;No;Negativo;;1;Propio
+P002689;C01;25/03/2024;Si;Nacido vivo;;2;Propio
+P002690;C02;14/04/2026;Si;Aborto;;0;Propio
+P002691;C02;26/11/2024;No;Negativo;;2;Propio
+P002691;C02;13/02/2025;Si;Nacido vivo;;;Propio
+P002692;C01;01/12/2021;No;Negativo;;1;Propio
+P002693;C01;23/08/2023;Si;Nacido vivo;;1;Propio
+P002694;C01;08/11/2022;No;Negativo;;4;Propio
+P002694;C01;16/02/2023;;;;3;Propio
+P002694;C01;26/03/2023;No;Negativo;;2;Propio
+P002694;C01;16/07/2023;No;Negativo;;1;Propio
+P002694;C01;13/11/2024;Si;Nacido vivo;;0;Propio
+P002696;C03;26/02/2024;Si;Nacido vivo;;2;Propio
+P002698;C02;25/01/2023;Si;Nacido vivo;;0;Propio
+P002699;C01;02/10/2024;No;Negativo;;3;Propio
+P002699;C01;03/11/2024;Si;Aborto;;;Propio
+P002700;C02;08/11/2022;No;Negativo;;0;Propio
+P002701;C02;28/02/2024;No;Negativo;;2;Propio
+P002702;C03;05/07/2024;No;Negativo;;1;Propio
+P002702;C03;25/09/2024;No;Negativo;;0;Propio
+P002703;C01;07/10/2023;Si;Nacido vivo;;2;Propio
+P002704;C01;24/02/2024;No;Negativo;;3;Propio
+P002704;C01;17/03/2024;No;Negativo;;2;Propio
+P002704;C01;02/06/2024;Si;Nacido vivo;;1;Propio
+P002705;C01;23/07/2023;No;Negativo;;0;Propio
+P002706;C01;19/07/2022;No;Negativo;;4;Propio
+P002706;C01;03/01/2023;Si;Aborto;20/02/2023;3;Propio
+P002706;C01;28/01/2024;No;Negativo;;;Propio
+P002706;C01;18/02/2024;No;Negativo;;1;Propio
+P002706;C01;06/06/2024;No;Negativo;;3;Propio
+P002708;C03;29/06/2025;Si;Aborto;;2;Propio
+P002710;C02;07/10/2023;No;Negativo;;3;Propio
+P002710;C02;10/12/2023;Si;Nacido vivo;;2;Propio
+P002712;C02;08/03/2024;Si;Nacido vivo;;1;Propio
+P002713;C03;20/10/2023;No;Negativo;;1;Propio
+P002713;C03;10/01/2024;Si;Aborto;;0;Propio
+P002714;C02;19/01/2024;;;;1;Propio
+P002714;C02;12/04/2024;Si;Nacido vivo;;0;Propio
+P002715;C03;13/04/2023;No;Negativo;;3;Propio
+P002716;C01;19/11/2024;;;;3;Propio
+P002717;C03;12/07/2025;Si;Aborto;;1;Propio
+P002718;C01;25/07/2021;Si;Aborto;;1;Propio
+P002718;C01;06/12/2022;Si;Nacido vivo;;0;Propio
+P002719;C03;29/02/2024;;;;0;Propio
+P002719;C03;17/08/2024;Si;Aborto;03/10/2024;2;Propio
+P002719;C03;18/03/2025;No;Negativo;;2;Propio
+P002720;C02;05/10/2024;Si;Nacido vivo;;2;Propio
+P002721;C01;10/06/2024;Si;Nacido vivo;;0;Propio
+P002722;C01;03/01/2025;Si;Nacido vivo;;0;Propio
+P002723;C01;21/06/2023;No;Negativo;;1;Propio
+P002723;C01;13/12/2023;No;Negativo;;0;Propio
+P002724;C01;24/08/2023;Si;Aborto;;2;Propio
+P002724;C01;21/11/2024;No;Negativo;;1;Propio
+P002726;C01;12/06/2022;Si;Aborto;24/08/2022;2;Propio
+P002726;C01;16/12/2023;No;Negativo;;0;Propio
+P002727;C02;03/02/2025;No;Negativo;;2;Propio
+P002727;C02;09/06/2025;Si;Aborto;30/07/2025;;Propio
+P002727;C02;04/06/2026;No;Negativo;;0;Propio
+P002728;C03;25/05/2024;No;Negativo;;0;Propio
+P002729;C02;29/03/2025;Si;Nacido vivo;;1;Propio
+P002730;C03;08/11/2023;No;Negativo;;1;Propio
+P002730;C03;05/04/2024;No;Negativo;;1;Propio
+P002731;C02;25/08/2024;Si;Aborto;03/11/2024;3;Propio
+P002731;C02;29/12/2024;Si;Aborto;;2;Propio
+P002734;C03;05/05/2024;No;Negativo;;5;Propio
+P002734;C03;20/11/2024;Si;Aborto;03/01/2025;;Propio
+P002734;C03;18/02/2025;No;Negativo;;3;Propio
+P002734;C03;13/10/2025;Si;Nacido vivo;;0;Propio
+P002735;C02;25/10/2023;Si;Nacido vivo;;0;Propio
+P002738;C03;20/05/2022;No;Negativo;;1;Propio
+P002738;C03;31/12/2024;;;;2;Propio
+P002738;C03;02/08/2025;Si;Aborto;28/09/2025;1;Propio
+P002738;C03;12/06/2026;Si;En curso;;0;Propio
+P002739;C03;25/04/2022;Si;Nacido vivo;;1;Propio
+P002741;C01;08/04/2024;Si;Aborto;16/06/2024;1;Propio
+P002741;C01;11/07/2024;No;Negativo;;0;Propio
+P002742;C01;22/10/2023;Si;Nacido vivo;;2;Propio
+P002743;C02;18/03/2021;Si;Nacido vivo;;1;Propio
+P002744;C03;31/10/2024;Si;Nacido vivo;;3;Propio
+P002745;C01;20/06/2025;No;Negativo;;2;Propio
+P002747;C01;13/06/2022;Si;Aborto;;3;Propio
+P002747;C01;16/12/2022;No;Negativo;;2;Propio
+P002747;C01;11/03/2023;Si;Aborto;13/05/2023;1;Propio
+P002747;C01;24/06/2023;Si;Nacido vivo;;0;Propio
+P002748;C02;08/03/2023;;;;2;Propio
+P002750;C02;14/09/2021;No;Negativo;;0;Propio
+P002751;C02;22/02/2023;Si;Nacido vivo;;2;Propio
+P002752;C03;13/10/2022;Si;Nacido vivo;;3;Propio
+P002753;C03;30/04/2022;No;Negativo;;0;Propio
+P002753;C03;10/10/2022;Si;Aborto;27/11/2022;1;Propio
+P002754;C02;26/02/2023;No;Negativo;;;Propio
+P002754;C02;05/06/2023;Si;Nacido vivo;;3;Propio
+P002755;C03;10/09/2021;No;Negativo;;2;Propio
+P002757;C03;25/01/2024;No;Negativo;;5;Propio
+P002757;C03;27/09/2024;No;Negativo;;4;Propio
+P002757;C03;20/01/2025;No;Negativo;;3;Propio
+P002758;C01;22/11/2024;No;Negativo;;4;Propio
+P002758;C01;21/07/2025;No;Negativo;;3;Propio
+P002759;C03;30/01/2024;Si;Nacido vivo;;1;Propio
+P002761;C01;12/08/2026;Si;En curso;;0;Propio
+P002762;C01;21/07/2022;No;Negativo;;1;Propio
+P002763;C02;20/11/2024;Si;Nacido vivo;;3;Propio
+P002764;C01;28/03/2022;No;Negativo;;0;Propio
+P002765;C01;01/12/2022;;;;0;Propio
+P002765;C01;14/05/2023;Si;Nacido vivo;;2;Propio
+P002766;C02;20/07/2023;No;Negativo;;2;Propio
+P002766;C02;06/02/2024;Si;Aborto;18/04/2024;1;Propio
+P002766;C02;10/08/2024;Si;Nacido vivo;;0;Propio
+P002767;C01;15/02/2023;Si;Nacido vivo;;2;Propio
+P002768;C01;21/08/2022;No;Negativo;;2;Propio
+P002768;C01;06/10/2022;Si;Nacido vivo;;1;Propio
+P002769;C02;12/07/2022;Si;Nacido vivo;;2;Propio
+P002770;C01;24/11/2024;Si;Nacido vivo;;3;Propio
+P002771;C03;20/11/2024;Si;Nacido vivo;;0;Propio
+P002772;C01;20/03/2024;Si;Nacido vivo;;2;Propio
+P002773;C01;01/05/2021;No;Negativo;;1;Propio
+P002774;C03;29/04/2021;No;Negativo;;;Propio
+P002774;C03;17/06/2021;Si;Nacido vivo;;0;Propio
+P002775;C02;18/09/2022;Si;Nacido vivo;;;Propio
+P002776;C03;17/11/2024;No;Negativo;;3;Propio
+P002776;C03;11/07/2025;;;;1;Propio
+P002776;C03;07/01/2026;No;Negativo;;0;Propio
+P002776;C03;19/07/2026;Si;En curso;;0;Propio
+P002778;C02;22/02/2024;No;Negativo;;2;Propio
+P002778;C02;13/06/2024;Si;Aborto;19/08/2024;1;Propio
+P002778;C02;03/12/2024;Si;Nacido vivo;;0;Propio
+P002779;C02;23/03/2023;Si;Nacido vivo;;1;Propio
+P002780;C01;02/12/2024;No;Negativo;;1;Propio
+P002781;C02;02/05/2024;Si;Nacido vivo;;0;Propio
+P002782;C01;25/10/2022;No;Negativo;;1;Propio
+P002783;C01;27/01/2025;Si;Aborto;14/03/2025;2;Propio
+P002783;C01;21/11/2025;No;Negativo;;1;Propio
+P002783;C01;08/02/2026;Si;En curso;;0;Propio
+P002784;C01;02/08/2023;No;Negativo;;1;Propio
+P002784;C01;18/06/2024;Si;Aborto;;;Propio
+P002784;C01;27/01/2025;Si;Nacido vivo;;;Propio
+P002786;C01;28/06/2023;Si;Aborto;20/08/2023;3;Propio
+P002786;C01;23/10/2023;No;Negativo;;2;Propio
+P002786;C01;23/11/2023;Si;Aborto;25/01/2024;1;Propio
+P002786;C01;03/03/2024;Si;Nacido vivo;;0;Propio
+P002789;C03;12/05/2022;Si;Aborto;12/07/2022;5;Propio
+P002789;C03;03/10/2022;No;Negativo;;4;Propio
+P002789;C03;26/03/2023;Si;Nacido vivo;;3;Propio
+P002790;C03;01/07/2024;Si;Nacido vivo;;1;Propio
+P002792;C02;21/10/2023;No;Negativo;;0;Propio
+P002795;C03;24/04/2022;Si;Nacido vivo;;3;Propio
+P002796;C03;08/08/2023;No;Negativo;;4;Propio
+P002796;C03;26/09/2024;Si;Aborto;04/12/2024;3;Propio
+P002797;C02;13/07/2023;Si;Aborto;30/08/2023;3;Propio
+P002797;C02;07/04/2024;Si;Nacido vivo;;0;Propio
+P002798;C01;06/01/2025;Si;Aborto;17/02/2025;2;Propio
+P002798;C01;28/06/2025;No;Negativo;;1;Propio
+P002798;C01;23/09/2025;Si;Nacido vivo;;0;Propio
+P002799;C03;13/07/2023;No;Negativo;;0;Propio
+P002799;C03;18/01/2024;Si;Nacido vivo;;0;Propio
+P002802;C02;12/03/2023;No;Negativo;;3;Propio
+P002802;C02;06/01/2024;Si;Aborto;04/03/2024;1;Propio
+P002802;C02;07/06/2024;;;;0;Propio
+P002803;C02;28/06/2022;Si;Nacido vivo;;;Propio
+P002804;C01;14/12/2024;Si;Aborto;06/02/2025;2;Propio
+P002805;C03;07/10/2025;No;Negativo;;4;Propio
+P002805;C03;08/01/2026;Si;En curso;;3;Propio
+P002807;C01;13/12/2023;Si;Nacido vivo;;0;Propio
+P002811;C03;30/01/2025;Si;Nacido vivo;;2;Propio
+P002813;C03;24/02/2025;Si;Nacido vivo;;0;Propio
+P002814;C01;01/06/2023;No;Negativo;;2;Propio
+P002814;C01;11/11/2023;Si;Nacido vivo;;1;Propio
+P002815;C01;13/01/2024;Si;Nacido vivo;;1;Propio
+P002816;C03;14/05/2024;Si;Nacido vivo;;0;Propio
+P002817;C02;17/02/2024;Si;Nacido vivo;;0;Propio
+P002820;C01;29/09/2022;Si;Nacido vivo;;1;Propio
+P002821;C01;27/04/2024;No;Negativo;;3;Propio
+P002822;C02;28/01/2023;No;Negativo;;2;Propio
+P002825;C03;19/12/2021;Si;Aborto;;4;Propio
+P002825;C03;19/05/2022;No;Negativo;;3;Propio
+P002826;C02;16/01/2023;No;Negativo;;2;Propio
+P002826;C02;18/02/2023;No;Negativo;;1;Propio
+P002826;C02;11/04/2023;Si;Aborto;;0;Propio
+P002827;C03;05/06/2022;Si;Nacido vivo;;1;Propio
+P002828;C02;13/04/2023;Si;Aborto;26/05/2023;1;Propio
+P002828;C02;26/11/2023;Si;Nacido vivo;;0;Propio
+P002829;C01;26/01/2023;No;Negativo;;3;Propio
+P002830;C03;11/02/2024;Si;Nacido vivo;;1;Propio
+P002831;C01;24/09/2024;Si;Nacido vivo;;0;Propio
+P002832;C02;08/08/2021;No;Negativo;;4;Propio
+P002832;C02;04/11/2021;Si;Nacido vivo;;3;Propio
+P002833;C02;19/11/2023;No;Negativo;;4;Propio
+P002833;C02;18/01/2024;Si;Aborto;10/03/2024;3;Propio
+P002833;C02;09/02/2025;Si;Aborto;;2;Propio
+P002835;C02;04/07/2023;No;Negativo;;1;Propio
+P002836;C01;29/08/2021;;;;0;Propio
+P002837;C03;11/09/2021;Si;Aborto;26/10/2021;1;Propio
+P002837;C03;09/08/2022;Si;Nacido vivo;;0;Propio
+P002838;C03;20/05/2024;;;;4;Propio
+P002838;C03;14/09/2024;No;Negativo;;3;Propio
+P002838;C03;03/11/2024;No;Negativo;;2;Propio
+P002838;C03;12/02/2025;Si;Nacido vivo;;1;Propio
+P002839;C01;23/08/2023;No;Negativo;;2;Propio
+P002839;C01;28/12/2023;Si;Aborto;04/03/2024;1;Propio
+P002839;C01;13/04/2024;Si;Nacido vivo;;;Propio
+P002840;C01;26/09/2021;Si;Nacido vivo;;1;Propio
+P002841;C02;19/01/2025;;;;3;Propio
+P002841;C02;21/06/2025;Si;Aborto;03/09/2025;2;Propio
+P002841;C02;19/02/2026;Si;En curso;;0;Propio
+P002843;C01;26/12/2024;No;Negativo;;1;Propio
+P002843;C01;08/12/2025;No;Negativo;;4;Propio
+P002843;C01;26/03/2026;;;;3;Propio
+P002844;C02;10/05/2022;No;Negativo;;1;Propio
+P002844;C02;23/11/2022;No;Negativo;;0;Propio
+P002844;C02;12/12/2022;Si;Aborto;;0;Propio
+P002844;C02;30/05/2023;Si;Nacido vivo;;0;Propio
+P002846;C02;02/03/2024;Si;Aborto;05/05/2024;1;Propio
+P002846;C02;09/11/2024;Si;Nacido vivo;;0;Propio
+P002847;C01;11/11/2024;Si;Aborto;06/01/2025;;Propio
+P002848;C01;26/03/2022;Si;Nacido vivo;;1;Propio
+P002851;C02;23/07/2024;Si;Nacido vivo;;3;Propio
+P002855;C02;07/03/2022;No;Negativo;;1;Propio
+P002855;C02;06/02/2024;No;Negativo;;2;Propio
+P002855;C02;30/05/2024;No;Negativo;;1;Propio
+P002855;C02;13/10/2024;No;Negativo;;0;Propio
+P002855;C02;24/01/2026;No;Negativo;;1;Propio
+P002856;C01;21/06/2023;No;Negativo;;3;Propio
+P002857;C03;27/12/2022;Si;Nacido vivo;;0;Propio
+P002858;C01;08/12/2024;Si;Aborto;;1;Propio
+P002858;C01;16/06/2025;No;Negativo;;0;Propio
+P002859;C02;17/04/2022;Si;Nacido vivo;;2;Propio
+P002861;C01;23/10/2025;No;Negativo;;0;Propio
+P002861;C01;03/02/2026;No;Negativo;;0;Propio
+P002861;C01;23/08/2026;No;Negativo;;1;Propio
+P002861;C01;24/09/2026;Si;En curso;;0;Propio
+P002862;C01;14/04/2025;No;Negativo;;;Propio
+P002862;C01;07/09/2025;Si;Nacido vivo;;1;Propio
+P002863;C02;26/03/2023;Si;Nacido vivo;;1;Propio
+P002864;C02;15/07/2022;Si;Aborto;27/08/2022;0;Propio
+P002866;C01;02/12/2023;Si;Nacido vivo;;0;Propio
+P002869;C02;31/12/2023;No;Negativo;;1;Propio
+P002870;C01;19/02/2025;No;Negativo;;2;Propio
+P002870;C01;11/08/2025;No;Negativo;;1;Propio
+P002870;C01;23/06/2026;No;Negativo;;0;Propio
+P002872;C02;25/10/2022;Si;Nacido vivo;;1;Propio
+P002873;C01;09/07/2024;No;Negativo;;4;Propio
+P002873;C01;05/10/2024;No;Negativo;;3;Propio
+P002874;C01;28/02/2023;No;Negativo;;3;Propio
+P002875;C02;18/11/2024;No;Negativo;;2;Propio
+P002875;C02;01/01/2025;;;;1;Propio
+P002875;C02;23/06/2025;Si;Nacido vivo;;0;Propio
+P002876;C01;31/08/2023;Si;Nacido vivo;;1;Propio
+P002878;C03;12/09/2024;Si;Nacido vivo;;1;Propio
+P002879;C01;11/02/2024;No;Negativo;;2;Propio
+P002880;C02;24/07/2022;Si;Nacido vivo;;;Propio
+P002882;C01;21/05/2023;Si;Nacido vivo;;3;Propio
+P002886;C01;28/12/2024;Si;Nacido vivo;;1;Propio
+P002887;C01;03/02/2023;No;Negativo;;3;Propio
+P002887;C01;18/03/2023;No;Negativo;;2;Propio
+P002888;C02;07/03/2022;No;Negativo;;0;Propio
+P002889;C02;26/06/2023;No;Negativo;;3;Propio
+P002889;C02;20/08/2023;No;Negativo;;;Propio
+P002890;C01;16/12/2022;Si;Nacido vivo;;1;Propio
+P002891;C03;20/04/2024;No;Negativo;;2;Propio
+P002891;C03;15/10/2024;No;Negativo;;1;Propio
+P002891;C03;24/12/2024;No;Negativo;;0;Propio
+P002892;C02;08/11/2022;Si;Nacido vivo;;0;Propio
+P002893;C01;01/05/2024;Si;Aborto;;0;Propio
+P002893;C01;23/07/2025;No;Negativo;;3;Propio
+P002893;C01;29/09/2026;Si;En curso;;2;Propio
+P002895;C01;08/01/2022;Si;Nacido vivo;;1;Propio
+P002897;C02;09/11/2022;Si;Nacido vivo;;0;Propio
+P002898;C02;27/02/2024;No;Negativo;;1;Propio
+P002899;C02;17/04/2021;;;;1;Propio
+P002899;C02;20/06/2021;No;Negativo;;0;Propio
+P002900;C01;23/04/2023;Si;Nacido vivo;;2;Propio
+P002901;C02;22/05/2023;Si;Nacido vivo;;1;Propio
+P002902;C01;02/12/2024;Si;Nacido vivo;;0;Propio
+P002904;C02;06/10/2024;Si;Nacido vivo;;1;Propio
+P002905;C02;05/03/2023;Si;Aborto;;0;Propio
+P002905;C02;18/07/2024;No;Negativo;;0;Propio
+P002906;C03;14/12/2022;No;Negativo;;7;Propio
+P002906;C03;17/02/2023;;;;6;Propio
+P002906;C03;05/04/2023;Si;Aborto;04/06/2023;;Propio
+P002906;C03;05/07/2025;No;Negativo;;4;Propio
+P002906;C03;04/11/2025;Si;Nacido vivo;;3;Propio
+P002907;C01;11/12/2022;No;Negativo;;;Propio
+P002907;C01;26/12/2025;No;Negativo;;2;Propio
+P002907;C01;25/01/2026;No;Negativo;;1;Propio
+P002909;C01;01/02/2025;No;Negativo;;1;Propio
+P002910;C03;17/11/2024;No;Negativo;;2;Propio
+P002910;C03;17/12/2024;;;;1;Propio
+P002910;C03;28/09/2025;No;Negativo;;1;Propio
+P002912;C03;20/12/2024;Si;Nacido vivo;;3;Propio
+P002913;C01;22/05/2022;;;;5;Propio
+P002913;C01;21/07/2022;No;Negativo;;4;Propio
+P002913;C01;18/12/2022;No;Negativo;;3;Propio
+P002913;C01;21/06/2023;Si;Aborto;;5;Propio
+P002913;C01;08/10/2023;;;;4;Propio
+P002913;C01;30/12/2023;Si;Nacido vivo;;3;Propio
+P002917;C01;01/05/2023;Si;Nacido vivo;;0;Propio
+P002918;C01;16/01/2024;No;Negativo;;0;Propio
+P002918;C01;01/06/2025;No;Negativo;;3;Propio
+P002918;C01;02/10/2025;Si;Nacido vivo;;2;Propio
+P002920;C03;29/09/2024;No;Negativo;;0;Propio
+P002921;C01;12/04/2024;Si;Aborto;21/06/2024;2;Propio
+P002921;C01;08/11/2024;Si;Nacido vivo;;0;Propio
+P002923;C01;04/01/2025;No;Negativo;;1;Propio
+P002923;C01;10/05/2025;Si;Nacido vivo;;0;Propio
+P002924;C02;20/08/2024;No;Negativo;;1;Propio
+P002926;C03;02/12/2024;Si;Nacido vivo;;2;Propio
+P002927;C02;09/12/2023;No;Negativo;;4;Propio
+P002927;C02;13/02/2024;Si;Nacido vivo;;3;Propio
+P002928;C02;13/10/2022;Si;Aborto;;0;Propio
+P002928;C02;25/06/2023;No;Negativo;;4;Propio
+P002928;C02;08/11/2023;No;Negativo;;3;Propio
+P002930;C02;09/12/2024;Si;Aborto;10/02/2025;1;Propio
+P002930;C02;16/04/2025;No;Negativo;;0;Propio
+P002930;C02;29/07/2025;Si;Nacido vivo;;;Propio
+P002931;C03;28/04/2022;Si;Nacido vivo;;0;Propio
+P002933;C01;14/04/2025;Si;Nacido vivo;;0;Propio
+P002935;C01;04/02/2025;Si;Nacido vivo;;1;Propio
+P002936;C02;02/08/2024;Si;Nacido vivo;;1;Propio
+P002938;C03;24/10/2023;Si;Aborto;;1;Propio
+P002938;C03;19/08/2024;No;Negativo;;3;Propio
+P002938;C03;07/10/2024;Si;Nacido vivo;;2;Propio
+P002940;C01;22/02/2024;Si;Nacido vivo;;0;Propio
+P002941;C03;23/05/2024;Si;Aborto;24/07/2024;2;Propio
+P002942;C01;20/07/2024;No;Negativo;;1;Propio
+P002942;C01;29/10/2024;Si;Nacido vivo;;0;Propio
+P002943;C02;02/04/2025;No;Negativo;;2;Propio
+P002945;C01;19/03/2022;No;Negativo;;2;Propio
+P002945;C01;17/04/2022;No;Negativo;;1;Propio
+P002945;C01;19/08/2022;No;Negativo;;0;Propio
+P002946;C01;05/08/2024;Si;Nacido vivo;;2;Propio
+P002947;C02;02/03/2023;No;Negativo;;1;Propio
+P002947;C02;24/01/2025;No;Negativo;;1;Propio
+P002947;C02;15/07/2025;No;Negativo;;0;Propio
+P002948;C01;23/04/2024;Si;Nacido vivo;;2;Propio
+P002949;C02;18/12/2022;Si;Nacido vivo;;0;Propio
+P002950;C02;05/05/2026;No;Negativo;;3;Propio
+P002950;C02;31/05/2026;Si;En curso;;2;Propio
+P002951;C01;09/01/2025;Si;Nacido vivo;;3;Propio
+P002952;C01;22/03/2024;No;Negativo;;1;Propio
+P002952;C01;07/09/2024;Si;Nacido vivo;;;Propio
+P002953;C01;06/04/2025;Si;Nacido vivo;;0;Propio
+P002954;C03;16/06/2024;Si;Aborto;26/07/2024;2;Propio
+P002955;C02;11/11/2022;No;Negativo;;3;Propio
+P002955;C02;02/03/2023;Si;Nacido vivo;;2;Propio
+P002956;C01;19/12/2023;Si;Nacido vivo;;2;Propio
+P002957;C03;18/06/2023;Si;Nacido vivo;;0;Propio
+P002958;C01;05/09/2024;Si;Aborto;05/11/2024;0;Propio
+P002960;C01;04/03/2025;No;Negativo;;5;Propio
+P002960;C01;22/05/2025;No;Negativo;;4;Propio
+P002960;C01;17/06/2025;Si;Nacido vivo;;3;Propio
+P002961;C02;28/08/2024;Si;Aborto;31/10/2024;2;Propio
+P002962;C01;02/08/2021;Si;Nacido vivo;;;Propio
+P002963;C01;22/07/2021;No;Negativo;;1;Propio
+P002963;C01;20/11/2021;No;Negativo;;3;Propio
+P002964;C01;28/05/2023;Si;Nacido vivo;;0;Propio
+P002965;C01;09/01/2023;Si;Aborto;19/02/2023;0;Propio
+P002966;C02;22/08/2023;No;Negativo;;1;Propio
+P002966;C02;09/04/2024;Si;Nacido vivo;;0;Propio
+P002967;C01;07/01/2025;No;Negativo;;2;Propio
+P002967;C01;10/03/2025;Si;Nacido vivo;;1;Propio
+P002968;C03;02/12/2021;Si;Nacido vivo;;2;Propio
+P002969;C02;01/01/2023;No;Negativo;;1;Propio
+P002969;C02;26/03/2024;No;Negativo;;;Propio
+P002970;C01;15/08/2022;Si;Nacido vivo;;3;Propio
+P002971;C01;22/12/2024;Si;Nacido vivo;;1;Propio
+P002972;C01;19/02/2023;Si;Nacido vivo;;1;Propio
+P002973;C03;14/04/2023;Si;Nacido vivo;;0;Propio
+P002976;C01;12/09/2022;Si;Nacido vivo;;1;Propio
+P002977;C03;10/03/2022;No;Negativo;;0;Propio
+P002977;C03;07/07/2023;No;Negativo;;2;Propio
+P002977;C03;28/01/2024;Si;Nacido vivo;;2;Propio
+P002978;C01;25/06/2024;No;Negativo;;2;Propio
+P002978;C01;16/01/2025;Si;Nacido vivo;;1;Propio
+P002982;C01;26/06/2023;Si;Nacido vivo;;2;Propio
+P002983;C02;10/02/2023;No;Negativo;;2;Propio
+P002983;C02;10/05/2026;No;Negativo;;4;Propio
+P002983;C02;13/07/2026;Si;En curso;;3;Propio
+P002984;C01;05/08/2023;Si;Nacido vivo;;1;Propio
+P002988;C01;20/12/2024;No;Negativo;;2;Propio
+P002988;C01;01/05/2025;Si;Nacido vivo;;1;Propio
+P002989;C03;26/09/2024;Si;Nacido vivo;;1;Propio
+P002990;C01;07/04/2023;No;Negativo;;3;Propio
+P002990;C01;20/07/2023;Si;Nacido vivo;;;Propio
+P002991;C02;09/04/2022;No;Negativo;;1;Propio
+P002992;C02;05/06/2023;No;Negativo;;1;Propio
+P002993;C01;06/07/2025;No;Negativo;;2;Propio
+P002994;C02;26/07/2024;No;Negativo;;4;Propio
+P002994;C02;24/10/2024;No;Negativo;;3;Propio
+P002994;C02;28/12/2024;Si;Nacido vivo;;2;Propio
+P002995;C01;21/06/2023;Si;Nacido vivo;;2;Propio
+P002996;C03;02/09/2023;;;;0;Propio
+P002997;C03;25/11/2023;No;Negativo;;0;Propio
+P002998;C01;21/08/2022;No;Negativo;;5;Propio
+P002998;C01;01/10/2022;No;Negativo;;4;Propio
+P002998;C01;15/11/2022;Si;Nacido vivo;;3;Propio
+P002999;C01;11/03/2023;Si;Nacido vivo;;2;Propio
+P000026;C02;01/04/2023;No;Negativo;;0;Propio
+P000137;C01;16/03/2025;No;Negativo;;0;Propio
+P000181;C02;16/04/2024;No;Negativo;;0;Propio
+P000287;C02;18/06/2024;No;Negativo;;0;Propio
+P000381;C02;22/09/2024;No;Negativo;;0;Propio
+P000415;C02;03/09/2023;No;Negativo;;0;Propio
+P000515;C02;08/01/2022;No;Negativo;;0;Propio
+P000533;C01;08/03/2023;No;Negativo;;0;Propio
+P000800;C01;21/03/2025;No;Negativo;;0;Propio
+P000860;C02;09/05/2022;No;Negativo;;0;Propio
+P000896;C01;14/11/2023;No;Negativo;;0;Propio
+P001019;C02;25/04/2024;No;Negativo;;0;Propio
+P001127;C01;20/01/2025;No;Negativo;;0;Propio
+P001152;C01;29/03/2025;No;Negativo;;0;Propio
+P001345;C02;27/02/2024;No;Negativo;;0;Propio
+P001415;C01;06/03/2023;No;Negativo;;0;Propio
+P001529;C02;22/05/2022;No;Negativo;;0;Propio
+P001574;C01;02/01/2024;No;Negativo;;0;Propio
+P001605;C01;19/03/2025;No;Negativo;;0;Propio
+P001620;C01;07/03/2025;No;Negativo;;0;Propio
+P001660;C02;26/03/2024;No;Negativo;;0;Propio
+P001913;C01;05/10/2024;No;Negativo;;0;Propio
+P001930;C01;23/09/2024;No;Negativo;;0;Propio
+P002026;C02;31/03/2023;No;Negativo;;0;Propio
+P002050;C01;06/03/2025;No;Negativo;;0;Propio
+P002202;C02;30/08/2024;No;Negativo;;0;Propio
+P002311;C02;07/06/2024;No;Negativo;;0;Propio
+P002423;C02;12/07/2025;No;Negativo;;0;Propio
+P002474;C02;03/11/2025;No;Negativo;;0;Propio
+P002618;C01;20/05/2024;No;Negativo;;0;Propio
+P002646;C02;02/07/2025;No;Negativo;;0;Propio
+P002701;C01;15/05/2024;No;Negativo;;0;Propio
+P002757;C01;15/10/2024;No;Negativo;;0;Propio
+P002813;C01;09/07/2025;No;Negativo;;0;Propio
+P002842;C02;27/10/2022;No;Negativo;;0;Propio
+P002969;C01;28/07/2023;No;Negativo;;0;Propio

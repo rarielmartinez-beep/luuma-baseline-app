@@ -1,0 +1,244 @@
+WEBVTT
+
+1
+00:00:00.420 --> 00:00:04.540
+Así se cargan los datos de tu clínica en
+la app de medición del abandono de LUUMA,
+
+2
+00:00:04.590 --> 00:00:07.103
+paso a paso, con dos archivos de ejemplo.
+
+3
+00:00:08.253 --> 00:00:12.105
+Esta app mide el abandono del tratamiento
+con la misma definición en todas las
+
+4
+00:00:12.155 --> 00:00:15.523
+clínicas de la red, para que los
+resultados se puedan comparar.
+
+5
+00:00:15.573 --> 00:00:17.443
+Y todo se calcula en tu computadora:
+
+6
+00:00:17.493 --> 00:00:20.164
+los datos de las pacientes
+no se mandan a ningún lado.
+
+7
+00:00:21.287 --> 00:00:23.037
+Paso uno: preparar.
+
+8
+00:00:23.087 --> 00:00:27.197
+La app te dice qué reportes pedir,
+como punciones o transferencias,
+
+9
+00:00:27.247 --> 00:00:29.937
+tal como salen del sistema,
+sin procesar nada.
+
+10
+00:00:29.987 --> 00:00:33.230
+Tocá Descargar el pedido y pasáselo
+a quien exporta los datos.
+
+11
+00:00:34.353 --> 00:00:36.893
+En este ejemplo hay dos archivos de Excel:
+
+12
+00:00:36.943 --> 00:00:40.133
+aspiraciones, y
+transferencias y resultados.
+
+13
+00:00:40.183 --> 00:00:44.073
+Traen títulos, encabezados en
+dos filas y datos personales.
+
+14
+00:00:44.123 --> 00:00:44.723
+No hace falta limpiarlos:
+
+15
+00:00:44.549 --> 00:00:50.429
+al leerlos, la app descarta nombres,
+documentos, mails y teléfonos.
+
+16
+00:00:51.553 --> 00:00:57.163
+Paso dos: cargar. Tocá Empezar y arrastrá
+los archivos, o hacé clic para elegirlos.
+
+17
+00:00:57.213 --> 00:00:59.977
+Se leen en tu computadora,
+sin subirse a internet.
+
+18
+00:01:01.050 --> 00:01:03.630
+Cada archivo tiene su tarjeta.
+
+19
+00:01:03.680 --> 00:01:06.940
+Este archivo trae te dice
+qué reportes encontró:
+
+20
+00:01:06.990 --> 00:01:09.760
+acá, punciones y embriología por punción.
+
+21
+00:01:09.810 --> 00:01:13.220
+Y cuántas columnas reconoció: 11 de 12.
+
+22
+00:01:13.270 --> 00:01:15.669
+Si dice Listo, no hay nada que hacer.
+
+23
+00:01:16.820 --> 00:01:20.210
+Para ver cómo lo leyó,
+tocá Revisar columnas:
+
+24
+00:01:20.260 --> 00:01:23.130
+cada dato, con la columna
+que usó y un ejemplo.
+
+25
+00:01:23.180 --> 00:01:27.024
+La historia clínica se reemplaza por
+un código interno y nunca se muestra.
+
+26
+00:01:28.153 --> 00:01:30.463
+Más abajo, cómo se leen los valores.
+
+27
+00:01:30.513 --> 00:01:32.993
+Bioquímico se lee como negativa;
+
+28
+00:01:33.043 --> 00:01:35.153
+Nacimiento, como nacido vivo.
+
+29
+00:01:35.203 --> 00:01:37.533
+Si alguno no va, tocá Cambiar.
+
+30
+00:01:37.583 --> 00:01:40.078
+Si está todo bien, Confirmar este reporte.
+
+31
+00:01:41.220 --> 00:01:45.550
+La app te pregunta solo lo que
+no puede decidir. Acá, una cosa:
+
+32
+00:01:45.600 --> 00:01:47.670
+hasta qué fecha están completos los datos.
+
+33
+00:01:47.720 --> 00:01:50.950
+Elegí la del último registro,
+el 30 de septiembre.
+
+34
+00:01:51.000 --> 00:01:54.160
+Abajo ves los reportes recibidos: 4 de 5.
+
+35
+00:01:54.210 --> 00:01:56.440
+Después, tocá Verificar los datos.
+
+36
+00:01:57.587 --> 00:02:02.367
+Paso tres: verificar. Un semáforo te
+dice si se puede calcular. Verde:
+
+37
+00:02:02.417 --> 00:02:04.457
+listo para el informe. Amarillo:
+
+38
+00:02:04.507 --> 00:02:08.097
+listo, con avisos que explican
+parte del resultado. Rojo:
+
+39
+00:02:08.147 --> 00:02:11.137
+falta algo, y te dice
+qué. Acá sale amarillo:
+
+40
+00:02:11.187 --> 00:02:16.117
+falta criopreservación, así que no se sabe
+cuántos embriones quedan. No bloquea:
+
+41
+00:02:16.167 --> 00:02:17.095
+el informe lo aclara.
+
+42
+00:02:18.220 --> 00:02:20.840
+Paso cuatro: informe y entrega.
+
+43
+00:02:20.890 --> 00:02:22.018
+Hacé clic en Ver el informe.
+
+44
+00:02:22.068 --> 00:02:22.780
+Arriba, el número principal:
+
+45
+00:02:22.830 --> 00:02:27.040
+el abandono por ciclo. En este ejemplo,
+
+46
+00:02:27.090 --> 00:02:30.089
+39,3 % de los ciclos que
+ya se pueden evaluar.
+
+47
+00:02:31.220 --> 00:02:35.100
+Escribí el nombre de la clínica:
+
+48
+00:02:35.150 --> 00:02:37.360
+sin eso no se habilita la descarga.
+
+49
+00:02:37.410 --> 00:02:42.080
+Tocá Descargar el Excel para LUUMA:
+
+50
+00:02:42.130 --> 00:02:44.930
+trae solo conteos y porcentajes,
+sin fechas ni códigos de pacientes.
+
+51
+00:02:44.980 --> 00:02:47.280
+Copiá la nota para el mail
+y mandala con el Excel.
+
+52
+00:02:47.330 --> 00:02:49.142
+El informe completo queda para
+la clínica, en HTML o PDF.
+
+53
+00:02:50.287 --> 00:02:51.127
+Eso es todo.
+
+54
+00:02:51.177 --> 00:02:55.519
+Si tenés dudas, en la app está Ayuda y
+definición, con las reglas completas.
